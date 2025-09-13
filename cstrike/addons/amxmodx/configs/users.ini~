@@ -1,0 +1,37 @@
+
+; Line starting with ; is a comment
+
+; Access flags:
+; a - immunity jiske pass a ho usey koi bhi kick nahi karsakta but rcon se hoga!
+; b - reservation (can join on reserved slots)
+; c - amx_kick command kick kar sakta he
+; d - amx_ban and amx_unban ban nd unban karsataka he
+; e - amx_slay and amx_slap slap nd slay karsatak he
+; f - amx_map map change karsatka hre
+; g - amx_cvar amx_cvar sv_restart mp_startmoney etc cvar ki sub command use karsatka he
+; h - amx_cfg koi bhi cfg laga sakta he server.cfg match.cfg call.cfg etc cfg's
+; i - amx_chat koi bhi chat use karsakta he jese y duba ke @ ya phir u duba ke @ etc..
+; j - amx_vote vote kara sakta he admin
+; k - access to sv_password pass laga sakta hen is se admin
+; l - agar kisi ko L lagaya to server hack hojaega! L nahi lagana kisi ki bhi adminship pe
+; m - custom level A (for additional plugins)
+; n - custom level B
+; o - custom level C
+; p - custom level D
+; q - custom level E
+; r - custom level F
+; s - custom level G
+; t - custom level H
+; u - is se amxmodmenu khulega
+; z - user (no admin)
+; Account flags:
+; a -  player kick hojae agar usne pass nahidala to
+; b - clan tag zuroori he
+; c - steam id se admin bananan he to end me c lagana 
+; d - agar ip se admin banaoge to end me c ki jagah d rakh dena
+; e - setinfo dale ya na dale join hojae kick na parhe
+; k - ye kam ka ni he hamare ..name or tag is case sensitive.  eg: if you set it so the name "Ham"
+;     is protected and case sensitive (flags "k" only), then anybody
+;     can use the names "haM", "HAM", "ham", etc, but not "Ham"
+; Password:jjjjj
+

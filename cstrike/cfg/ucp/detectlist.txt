@@ -1,0 +1,19 @@
+; Scan methods
+;[P] - process name
+;[W] - window class name 
+;[S] - driver file name (.sys)
+;[D] - driver description name
+;[L] - Local module memory size
+; Action
+;[M] - show message
+;[K] - kill process/window
+;[B] - blue screen of death
+; Examples
+[P][K]reddot.exe
+[P][M]hookshark.exe	Need close HookShark
+[W][K]viral
+[W][B]ollydbg
+[S][M]ntice.sys	Need close SoftIce and restart PC
+[S][B]wallhack.sys
+[D][M]NTICE	Need close SoftIce and restart PC
+[L][M]999999	Cheat detected

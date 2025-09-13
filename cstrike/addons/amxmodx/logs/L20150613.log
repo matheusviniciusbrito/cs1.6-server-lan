@@ -1,0 +1,577 @@
+L 06/13/2015 - 03:26:27: [admin.amxx] Login: "shooteerrRw0w-<420><STEAM_0:0:1124653470><>" became an admin (account "STEAM_0:0:1124653470") (access "bcdefghijkmnopqrstu") (address "10.2.129.167")
+L 06/13/2015 - 03:26:27: [ucp.amxx] Login: shooteerrRw0w- | 10.2.129.167 | 3-BCF3841E | STEAM_0:0:1124653470 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 03:26:46: [admincmd.amxx] Cmd: "shooteerrRw0w-<420><STEAM_0:0:1124653470><>" set cvar (name "sv_password") (value "")
+L 06/13/2015 - 03:27:05: [admincmd.amxx] Cmd: "shooteerrRw0w-<420><STEAM_0:0:1124653470><>" set cvar (name "mp_startmoney") (value "16000")
+L 06/13/2015 - 03:27:56: [admin.amxx] Login: "shooteerRw0w-<420><STEAM_0:0:1124653470><>" became an admin (account "STEAM_0:0:1124653470") (access "bcdefghijkmnopqrstu") (address "10.2.129.167")
+L 06/13/2015 - 04:03:29: [admin.amxx] Login: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" became an admin (account "STEAM_0:0:1124653470") (access "bcdefghijkmnopqrstu") (address "10.2.129.167")
+L 06/13/2015 - 04:03:29: [ucp.amxx] Login: shooteerRw0w- | 10.2.129.167 | 3-BCF3841E | STEAM_0:0:1124653470 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 04:04:08: [ucp.amxx] Login: Molecule* | 39.44.175.120 | 3-A8BF0FC7 | STEAM_0:0:1379514576 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 04:05:08: [adminchat.amxx] Chat: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" tsay ""
+L 06/13/2015 - 04:06:09: [admincmd.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" set cvar (name "sv_Restartround") (value "1")
+L 06/13/2015 - 04:06:28: [admincmd.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" set cvar (name "sv_restartround") (value "1")
+L 06/13/2015 - 04:06:43: [admincmd.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 04:07:40: [ucp.amxx] Login: [D]^Bla/)es#[$]oNi[C]-|lPrOl| | 39.50.223.47 | 3-4C80F197 | STEAM_0:0:1413278938 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 04:09:08: [adminchat.amxx] Chat: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" tsay "kisai?"
+L 06/13/2015 - 04:09:15: [adminchat.amxx] Chat: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" tsay "O.o"
+L 06/13/2015 - 04:09:29: [adminchat.amxx] Chat: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" tsay "konsa?"
+L 06/13/2015 - 04:09:35: [adminchat.amxx] Chat: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" chat "kis nai kiA?"
+L 06/13/2015 - 04:09:40: [adminchat.amxx] Chat: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" tsay "kis nai dia?"
+L 06/13/2015 - 04:11:14: [ucp.amxx] Login NO-UCP: <M0tion> <10.66.0.38> <VALVE_0:4:1202606169>
+L 06/13/2015 - 04:13:38: [adminchat.amxx] Chat: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" tsay "Kid."
+L 06/13/2015 - 04:17:16: [admincmd.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" set cvar (name "sv_password") (value "bc")
+L 06/13/2015 - 04:17:34: [admincmd.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" set cvar (name "sv_password") (value "1212")
+L 06/13/2015 - 04:18:09: [ucp.amxx] Login: vvvvvvvvvvEye2Eye. | 10.40.12.250 | 2-AB56F209 | STEAM_0:0:152558351 | 8.4 | D3D | 5.1.2600x86
+L 06/13/2015 - 04:18:15: [ucp.amxx] Login: facE# | 39.48.194.194 | 2-36759B97 | STEAM_0:0:115393080 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 04:18:27: [ucp.amxx] Login: RatedXtremes.Rusy -,- | 10.40.12.250 | 2-475A3F6A | STEAM_0:0:732763735 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 04:18:36: [ucp.amxx] Login: Molecule* | 39.44.175.120 | 3-A8BF0FC7 | STEAM_0:0:1379514576 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 04:18:38: [ucp.amxx] Login: khromeee | 182.191.28.29 | 2-B6C1ECE0 | STEAM_0:0:1652433129 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 04:18:44: [ucp.amxx] Login: MUHEEEEEEEEETTTTTTT | 182.178.222.172 | 4-41909036 | STEAM_0:0:264881569 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 04:18:44: [ucp.amxx] Login: facE# | 39.48.194.194 | 2-36759B97 | STEAM_0:0:115393080 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 04:19:08: [ucp.amxx] Login: YOUBITCHES! | 39.47.241.132 | 3-F61A4DE0 | STEAM_0:0:900927890 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 04:19:11: [ucp.amxx] Login: SpaRky | 39.44.28.234 | 2-0A109E59 | STEAM_0:0:2142424212 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 04:19:20: [ucp.amxx] Login: facE# | 39.48.194.194 | 2-36759B97 | STEAM_0:0:115393080 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 04:19:29: [ucp.amxx] Login: - DeLL -.- | 116.90.105.200 | 2-92DD6785 | STEAM_0:0:1516369931 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 04:19:51: [ucp.amxx] Login: B5.R!zzXX! | 10.163.97.208 | 2-5B9729DD | STEAM_0:0:558638932 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 04:19:54: [plmenu.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" transfer "RatedXtremes.SCTHELEGEND'<425><STEAM_0:0:152558351><>" (team "TERRORIST")
+L 06/13/2015 - 04:19:54: [plmenu.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" transfer "Rusy -,-<427><STEAM_0:0:732763735><>" (team "TERRORIST")
+L 06/13/2015 - 04:19:54: [plmenu.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" transfer "Molecule*<428><STEAM_0:0:1379514576><>" (team "TERRORIST")
+L 06/13/2015 - 04:19:55: [plmenu.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" transfer "khromeee<429><STEAM_0:0:1652433129><>" (team "TERRORIST")
+L 06/13/2015 - 04:19:56: [plmenu.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" transfer "YOUBITCHES!<432><STEAM_0:0:900927890><>" (team "TERRORIST")
+L 06/13/2015 - 04:19:56: [plmenu.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" transfer "SpaRky<433><STEAM_0:0:2142424212><>" (team "TERRORIST")
+L 06/13/2015 - 04:19:57: [plmenu.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" transfer "facE#<434><STEAM_0:0:115393080><>" (team "TERRORIST")
+L 06/13/2015 - 04:19:57: [plmenu.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" transfer "- DeLL -.-<435><STEAM_0:0:1516369931><>" (team "TERRORIST")
+L 06/13/2015 - 04:20:06: [ucp.amxx] Login: Hauntu =D #THEYBITCHES! | 39.44.28.234 | 2-8BAF17B2 | STEAM_0:0:1106032139 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 04:20:08: [admincmd.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" execute cfg (file "match.cfg")
+L 06/13/2015 - 04:20:40: [admincmd.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 04:21:34: [admincmd.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 04:22:43: [plmenu.amxx] Kick: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" kick "Rusy -,-<427><STEAM_0:0:732763735><>"
+L 06/13/2015 - 04:23:01: [ucp.amxx] Login: SYNERGY] murtaza4MADZ! | 182.178.70.59 | 3-2D3F60D0 | STEAM_0:0:1098293456 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 04:23:11: [ucp.amxx] Login: KH@N | 182.183.193.171 | 2-041378CC | STEAM_0:0:2126264232 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 04:23:37: [admin.amxx] Login: "MarcXOS<440><STEAM_0:0:1479146506><>" became an admin (account "STEAM_0:0:1479146506") (access "abcdefghijklmnopqrstu") (address "10.35.33.228")
+L 06/13/2015 - 04:23:37: [ucp.amxx] Login: MarcXOS | 10.35.33.228 | 3-C4E8FC60 | STEAM_0:0:1479146506 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 04:23:53: [adminchat.amxx] Chat: "MarcXOS<440><STEAM_0:0:1479146506><>" tsay "WARMUP CFG EXECUTED !"
+L 06/13/2015 - 04:24:20: [admincmd.amxx] Cmd: "MarcXOS<440><STEAM_0:0:1479146506><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 04:24:36: [admincmd.amxx] Kick: "MarcXOS<440><STEAM_0:0:1479146506><>" kick "Hauntu =D #THEYBITCHES!<437><STEAM_0:0:1106032139><>" (reason "")
+L 06/13/2015 - 04:24:38: [admin.amxx] Login: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" became an admin (account "STEAM_0:0:808048321") (access "abcdefghijkmnopqrstu") (address "39.48.32.57")
+L 06/13/2015 - 04:24:38: [ucp.amxx] Login: BILLO DAKING =DD | 39.48.32.57 | 3-7166678B | STEAM_0:0:808048321 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 04:24:44: [admincmd.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 04:24:45: [admincmd.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 04:24:45: [admincmd.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 04:24:56: [plmenu.amxx] Cmd: "MarcXOS<440><STEAM_0:0:1479146506><>" transfer "SYNERGY] murtaza4MADZ!<438><STEAM_0:0:1098293456><>" (team "TERRORIST")
+L 06/13/2015 - 04:24:57: [plmenu.amxx] Cmd: "MarcXOS<440><STEAM_0:0:1479146506><>" transfer "KH@N<439><STEAM_0:0:2126264232><>" (team "TERRORIST")
+L 06/13/2015 - 04:24:58: [plmenu.amxx] Cmd: "MarcXOS<440><STEAM_0:0:1479146506><>" transfer "khromeee<429><STEAM_0:0:1652433129><>" (team "TERRORIST")
+L 06/13/2015 - 04:24:59: [plmenu.amxx] Cmd: "MarcXOS<440><STEAM_0:0:1479146506><>" transfer "MUHEEEEEEEEETTTTTTT<430><STEAM_0:0:264881569><>" (team "TERRORIST")
+L 06/13/2015 - 04:24:59: [plmenu.amxx] Cmd: "MarcXOS<440><STEAM_0:0:1479146506><>" transfer "YOUBITCHES!<432><STEAM_0:0:900927890><>" (team "TERRORIST")
+L 06/13/2015 - 04:24:59: [plmenu.amxx] Cmd: "MarcXOS<440><STEAM_0:0:1479146506><>" transfer "SpaRky<433><STEAM_0:0:2142424212><>" (team "TERRORIST")
+L 06/13/2015 - 04:25:02: [plmenu.amxx] Cmd: "MarcXOS<440><STEAM_0:0:1479146506><>" transfer "shooteerRw0w-<421><STEAM_0:0:1124653470><>" (team "TERRORIST")
+L 06/13/2015 - 04:25:02: [plmenu.amxx] Cmd: "MarcXOS<440><STEAM_0:0:1479146506><>" transfer "facE#<434><STEAM_0:0:115393080><>" (team "TERRORIST")
+L 06/13/2015 - 04:25:03: [plmenu.amxx] Cmd: "MarcXOS<440><STEAM_0:0:1479146506><>" transfer "R!zzXX!<436><STEAM_0:0:558638932><>" (team "TERRORIST")
+L 06/13/2015 - 04:25:12: [adminchat.amxx] Chat: "YOUBITCHES!<432><STEAM_0:0:900927890><>" chat " AJEEB SON"
+L 06/13/2015 - 04:25:59: [adminchat.amxx] Chat: "MarcXOS<440><STEAM_0:0:1479146506><>" tsay "billo bc t"
+L 06/13/2015 - 04:26:13: [adminchat.amxx] Chat: "MarcXOS<440><STEAM_0:0:1479146506><>" tsay "shooter t :@"
+L 06/13/2015 - 04:26:20: [admincmd.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 04:26:53: [admincmd.amxx] Cmd: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" execute cfg (file "match.cfg")
+L 06/13/2015 - 04:27:06: [adminchat.amxx] Chat: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" tsay "KISKO BAN?"
+L 06/13/2015 - 04:27:13: [adminchat.amxx] Chat: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" tsay "kisko kick, ignore him."
+L 06/13/2015 - 04:27:16: [adminchat.amxx] Chat: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" tsay "he is chu."
+L 06/13/2015 - 04:27:26: [adminchat.amxx] Chat: "MarcXOS<440><STEAM_0:0:1479146506><>" tsay "urtaza room aja pw umx123"
+L 06/13/2015 - 04:27:50: [admincmd.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 04:27:52: [admincmd.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 04:27:52: [admincmd.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 04:27:53: [admincmd.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 04:28:03: [admincmd.amxx] Cmd: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 04:28:10: [admincmd.amxx] Cmd: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" set cvar (name "sv_password") (value "133")
+L 06/13/2015 - 04:28:13: [adminchat.amxx] Chat: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" tsay "133"
+L 06/13/2015 - 04:28:16: [adminchat.amxx] Chat: "MarcXOS<440><STEAM_0:0:1479146506><>" chat " billo"
+L 06/13/2015 - 04:28:37: [adminchat.amxx] Chat: "MarcXOS<440><STEAM_0:0:1479146506><>" chat "umer bolta hai ye sv tum logo ny buy kara hai :D"
+L 06/13/2015 - 04:28:45: [adminchat.amxx] Chat: "shooteerRw0w-<421><STEAM_0:0:1124653470><>" chat "=D"
+L 06/13/2015 - 04:28:46: [ucp.amxx] Login: R!zzXX! | 10.163.97.208 | 2-5B9729DD | STEAM_0:0:558638932 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 04:28:48: [adminchat.amxx] Chat: "MarcXOS<440><STEAM_0:0:1479146506><>" chat " meny jawab hi nhi dia :D"
+L 06/13/2015 - 04:29:26: [plmenu.amxx] Ban: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" ban and kick "shooteerRw0w-<421><STEAM_0:0:1124653470><>" (minutes "0")
+L 06/13/2015 - 04:30:03: [ucp.amxx] Login: Hardcore | 103.54.80.214 | 4-6DF57978 | STEAM_0:0:46267125 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 04:30:05: [admincmd.amxx] Cmd: "MarcXOS<440><STEAM_0:0:1479146506><>" set cvar (name "sv_password") (value "111")
+L 06/13/2015 - 04:30:22: [admincmd.amxx] Cmd: "MarcXOS<440><STEAM_0:0:1479146506><>" unban ":"
+L 06/13/2015 - 04:30:34: [admincmd.amxx] Cmd: "MarcXOS<440><STEAM_0:0:1479146506><>" unban "STEAM_0:0:1124653470"
+L 06/13/2015 - 04:30:35: [admin.amxx] Login: "shooteerRw0w-<450><STEAM_0:0:1124653470><>" became an admin (account "STEAM_0:0:1124653470") (access "bcdefghijkmnopqrstu") (address "10.2.129.167")
+L 06/13/2015 - 04:30:35: [ucp.amxx] Login: shooteerRw0w- | 10.2.129.167 | 3-BCF3841E | STEAM_0:0:1124653470 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 04:32:08: [adminchat.amxx] Chat: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" chat "MKC shooter ki is ki wajah se apna ne mere ko galian dete we sunlia hai"
+L 06/13/2015 - 04:32:22: [adminchat.amxx] Chat: "shooteerRw0w-<450><STEAM_0:0:1124653470><>" chat "to meri gun q li? :@"
+L 06/13/2015 - 04:32:22: [adminchat.amxx] Chat: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" chat "AMMA ne meri galian sunli shooter ki wajah se"
+L 06/13/2015 - 04:32:26: [adminchat.amxx] Chat: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" chat "TMKC"
+L 06/13/2015 - 04:32:29: [adminchat.amxx] Chat: "shooteerRw0w-<450><STEAM_0:0:1124653470><>" chat "to gun q li?"
+L 06/13/2015 - 04:32:30: [adminchat.amxx] Chat: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" chat "Tu clan me nh aio"
+L 06/13/2015 - 04:32:34: [adminchat.amxx] Chat: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" chat "me ban mardoonga"
+L 06/13/2015 - 04:32:37: [adminchat.amxx] Chat: "shooteerRw0w-<450><STEAM_0:0:1124653470><>" chat ":@"
+L 06/13/2015 - 04:32:37: [adminchat.amxx] Chat: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" chat "baat nh kar"
+L 06/13/2015 - 04:38:18: [ucp.amxx] Login: Molecule* | 39.44.175.120 | 3-A8BF0FC7 | STEAM_0:0:1379514576 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 04:41:35: [admin.amxx] Login: "shooteerRw0w-<451><STEAM_0:0:1124653470><>" became an admin (account "STEAM_0:0:1124653470") (access "bcdefghijkmnopqrstu") (address "10.2.129.167")
+L 06/13/2015 - 04:41:36: [ucp.amxx] Login: shooteerRw0w- | 10.2.129.167 | 3-BCF3841E | STEAM_0:0:1124653470 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 04:43:12: [ucp.amxx] Login: nooooooooooooooooooooooo | 39.44.175.120 | 3-A8BF0FC7 | STEAM_0:0:1379514576 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 04:43:38: [admin.amxx] Login: "shooter.FTW! x]<451><STEAM_0:0:1124653470><>" became an admin (account "STEAM_0:0:1124653470") (access "bcdefghijkmnopqrstu") (address "10.2.129.167")
+L 06/13/2015 - 04:44:16: [ucp.amxx] Login: Hardcore | 103.54.80.214 | 4-6DF57978 | STEAM_0:0:46267125 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 04:45:44: [admincmd.amxx] Cmd: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 04:45:44: [admincmd.amxx] Cmd: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 04:45:45: [admincmd.amxx] Cmd: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 04:45:45: [admincmd.amxx] Cmd: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 04:45:51: [admincmd.amxx] Cmd: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 04:45:53: [adminchat.amxx] Chat: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" tsay "LIVE"
+L 06/13/2015 - 04:45:57: [adminchat.amxx] Chat: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" tsay "LIVE"
+L 06/13/2015 - 04:45:59: [adminchat.amxx] Chat: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" tsay "LIVE"
+L 06/13/2015 - 04:53:46: [ucp.amxx] Login: DOTA2 #forlife. | 10.25.161.215 | 3-A315D89C | STEAM_0:0:1627161673 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 04:54:02: [ucp.amxx] Login: DOTA2 #forlife. | 10.25.161.215 | 3-A315D89C | STEAM_0:0:1627161673 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 04:57:02: [admincmd.amxx] Cmd: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" changelevel "de_inferno"
+L 06/13/2015 - 04:57:04: -------- Mapchange to de_inferno --------
+L 06/13/2015 - 04:57:26: [admin.amxx] Login: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" became an admin (account "STEAM_0:0:808048321") (access "abcdefghijkmnopqrstu") (address "39.48.32.57")
+L 06/13/2015 - 04:57:26: [admin.amxx] Login: "MarcXOS<440><STEAM_0:0:1479146506><>" became an admin (account "STEAM_0:0:1479146506") (access "abcdefghijklmnopqrstu") (address "10.35.33.228")
+L 06/13/2015 - 04:57:26: [ucp.amxx] Login: BILLO DAKING =DD | 39.48.32.57 | 3-7166678B | STEAM_0:0:808048321 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 04:57:26: [ucp.amxx] Login: KH@N | 182.183.193.171 | 2-041378CC | STEAM_0:0:2126264232 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 04:57:26: [ucp.amxx] Login: nooooooooooooooooooooooo | 39.44.175.120 | 3-A8BF0FC7 | STEAM_0:0:1379514576 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 04:57:26: [ucp.amxx] Login: MarcXOS | 10.35.33.228 | 3-C4E8FC60 | STEAM_0:0:1479146506 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 04:57:26: [ucp.amxx] Login: lahoreclassic./ | 10.25.161.215 | 3-A315D89C | STEAM_0:0:1627161673 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 04:57:26: [ucp.amxx] Login: MUHEEEEEEEEETTTTTTT | 182.178.222.172 | 4-41909036 | STEAM_0:0:264881569 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 04:57:26: [ucp.amxx] Login: SpaRky | 39.44.28.234 | 2-0A109E59 | STEAM_0:0:2142424212 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 04:57:26: [ucp.amxx] Login: khromeee | 182.191.28.29 | 2-B6C1ECE0 | STEAM_0:0:1652433129 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 04:57:27: [ucp.amxx] Login: Hardcore | 103.54.80.214 | 4-6DF57978 | STEAM_0:0:46267125 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 04:57:54: [adminchat.amxx] Chat: "MarcXOS<440><STEAM_0:0:1479146506><>" tsay "WARMUP CFG EXECUTED !"
+L 06/13/2015 - 04:58:25: [admincmd.amxx] Cmd: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 04:58:27: [adminchat.amxx] Chat: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" tsay "LAST?"
+L 06/13/2015 - 04:58:32: [adminchat.amxx] Chat: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" tsay "111"
+L 06/13/2015 - 04:58:33: [admincmd.amxx] Cmd: "MarcXOS<440><STEAM_0:0:1479146506><>" set cvar (name "mp_freezetime") (value "0")
+L 06/13/2015 - 04:58:33: [admincmd.amxx] Cmd: "MarcXOS<440><STEAM_0:0:1479146506><>" set cvar (name "mp_startmoney") (value "16000")
+L 06/13/2015 - 04:58:33: [admincmd.amxx] Cmd: "MarcXOS<440><STEAM_0:0:1479146506><>" set cvar (name "mp_friendlyfire") (value "0")
+L 06/13/2015 - 04:58:33: [admincmd.amxx] Cmd: "MarcXOS<440><STEAM_0:0:1479146506><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 04:58:33: [adminchat.amxx] Chat: "MarcXOS<440><STEAM_0:0:1479146506><>" tsay "WARMUP CFG EXECUTED !"
+L 06/13/2015 - 04:58:35: [ucp.amxx] Login: $hadYYY | 111.119.177.0 | 3-0062AC00 | STEAM_0:0:1210784898 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 04:58:44: [admincmd.amxx] Cmd: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" execute cfg (file "match.cfg")
+L 06/13/2015 - 04:58:50: [admincmd.amxx] Cmd: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 05:05:01: [ucp.amxx] Login: SpaRky | 39.44.28.234 | 2-0A109E59 | STEAM_0:0:2142424212 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 05:05:09: [ucp.amxx] Login: nooooooooooooooooooooooo | 39.44.175.120 | 3-A8BF0FC7 | STEAM_0:0:1379514576 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 05:06:05: [ucp.amxx] Login: Hardcore | 103.54.80.214 | 4-6DF57978 | STEAM_0:0:46267125 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 05:11:12: [admincmd.amxx] Cmd: "MarcXOS<440><STEAM_0:0:1479146506><>" pause server
+L 06/13/2015 - 05:11:17: [admincmd.amxx] Cmd: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" unpause server
+L 06/13/2015 - 05:11:19: [admincmd.amxx] Cmd: "BILLO DAKING =DD<441><STEAM_0:0:808048321><>" pause server
+L 06/13/2015 - 05:12:12: [admincmd.amxx] Cmd: "MarcXOS<440><STEAM_0:0:1479146506><>" unpause server
+L 06/13/2015 - 05:22:55: [admin.amxx] Login: "cONtRAcT*<456><STEAM_0:0:359253968><>" became an admin (account "STEAM_0:0:359253968") (access "abcdefghijkmnopqrstu") (address "10.1.85.242")
+L 06/13/2015 - 05:22:55: [ucp.amxx] Login: cONtRAcT* | 10.1.85.242 | 3-A6ADC589 | STEAM_0:0:359253968 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 05:23:04: [ucp.amxx] Login: Hauntu =D #THEYBITCHES! | 39.44.28.234 | 2-8BAF17B2 | STEAM_0:0:1106032139 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 05:23:07: [admincmd.amxx] Cmd: "cONtRAcT*<456><STEAM_0:0:359253968><>" set cvar (name "sv_password") (value "umx123")
+L 06/13/2015 - 05:23:10: [admincmd.amxx] Kick: "cONtRAcT*<456><STEAM_0:0:359253968><>" leave some group (tag1 "all") (tag2 "") (tag3 "") (tag4 "")
+L 06/13/2015 - 05:23:18: [ucp.amxx] Login: Hauntu =D #THEYBITCHES! | 39.44.28.234 | 2-8BAF17B2 | STEAM_0:0:1106032139 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 05:23:28: [ucp.amxx] Login: nooooooooooooooooooooooo | 39.44.175.120 | 3-A8BF0FC7 | STEAM_0:0:1379514576 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 05:23:31: [admincmd.amxx] Cmd: "cONtRAcT*<456><STEAM_0:0:359253968><>" set cvar (name "mp_Startmoney") (value "16000")
+L 06/13/2015 - 05:23:53: [admincmd.amxx] Cmd: "cONtRAcT*<456><STEAM_0:0:359253968><>" set cvar (name "mp_freezetime") (value "0")
+L 06/13/2015 - 05:24:26: [admincmd.amxx] Cmd: "cONtRAcT*<456><STEAM_0:0:359253968><>" set cvar (name "mp_buytime") (value "2")
+L 06/13/2015 - 05:30:44: [ucp.amxx] Login: lahoreclassic./ | 10.25.161.215 | 3-A315D89C | STEAM_0:0:1627161673 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 05:30:54: [admin.amxx] Login: "MarcXOS<461><STEAM_0:0:1479146506><>" became an admin (account "STEAM_0:0:1479146506") (access "abcdefghijklmnopqrstu") (address "10.35.33.228")
+L 06/13/2015 - 05:30:54: [ucp.amxx] Login: MarcXOS | 10.35.33.228 | 3-C4E8FC60 | STEAM_0:0:1479146506 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 05:35:51: [ucp.amxx] Login: Hardcore | 103.54.80.214 | 4-6DF57978 | STEAM_0:0:46267125 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 05:40:06: [admin.amxx] Login: "cONtRAcT*<463><STEAM_0:0:359253968><>" became an admin (account "STEAM_0:0:359253968") (access "abcdefghijkmnopqrstu") (address "10.1.85.242")
+L 06/13/2015 - 05:40:06: [ucp.amxx] Login: cONtRAcT* | 10.1.85.242 | 3-A6ADC589 | STEAM_0:0:359253968 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 05:41:39: [admincmd.amxx] Cmd: "cONtRAcT*<463><STEAM_0:0:359253968><>" set cvar (name "mp_Friendlyfire") (value "0")
+L 06/13/2015 - 05:41:57: [admincmd.amxx] Cmd: "cONtRAcT*<463><STEAM_0:0:359253968><>" set cvar (name "sv_Restart") (value "1")
+L 06/13/2015 - 05:42:17: [admincmd.amxx] Cmd: "cONtRAcT*<463><STEAM_0:0:359253968><>" set cvar (name "sv_Restart") (value "1")
+L 06/13/2015 - 05:45:21: [ucp.amxx] Login: lahoreclassic./ | 10.25.161.215 | 3-A315D89C | STEAM_0:0:1627161673 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 05:45:45: [admincmd.amxx] Cmd: "cONtRAcT*<463><STEAM_0:0:359253968><>" set cvar (name "sv_Restart") (value "1")
+L 06/13/2015 - 05:50:35: [adminchat.amxx] Chat: "cONtRAcT*<463><STEAM_0:0:359253968><>" tsay "lelo boost D:"
+L 06/13/2015 - 05:57:09: [adminchat.amxx] Chat: "cONtRAcT*<463><STEAM_0:0:359253968><>" tsay "aap baap hot ahai"
+L 06/13/2015 - 05:59:15: [ucp.amxx] Login: lahoreclassic./ | 10.25.161.215 | 3-A315D89C | STEAM_0:0:1627161673 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 06:00:06: [ucp.amxx] Login: Hardcore | 103.54.80.214 | 4-6DF57978 | STEAM_0:0:46267125 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 06:04:52: [adminchat.amxx] Chat: "cONtRAcT*<463><STEAM_0:0:359253968><>" tsay "arah hoon"
+L 06/13/2015 - 06:05:27: [admincmd.amxx] Cmd: "cONtRAcT*<463><STEAM_0:0:359253968><>" set cvar (name "sv_password") (value "umx123")
+L 06/13/2015 - 06:28:44: [admin.amxx] Login: "cONtRAcT*<466><STEAM_0:0:359253968><>" became an admin (account "STEAM_0:0:359253968") (access "abcdefghijkmnopqrstu") (address "10.1.85.242")
+L 06/13/2015 - 06:28:44: [ucp.amxx] Login: cONtRAcT* | 10.1.85.242 | 3-A6ADC589 | STEAM_0:0:359253968 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 06:29:53: [ucp.amxx] Login: facE# | 39.48.194.194 | 2-36759B97 | STEAM_0:0:115393080 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 06:29:59: [ucp.amxx] Login: khromeee | 182.191.59.94 | 2-B6C1ECE0 | STEAM_0:0:1652433129 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 06:30:06: [ucp.amxx] Login: lahoreclassic./ | 10.25.161.215 | 3-A315D89C | STEAM_0:0:1627161673 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 06:30:14: [ucp.amxx] Login: 321* | 10.1.48.85 | 3-9ABA8395 | STEAM_0:0:802994187 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 06:31:04: [ucp.amxx] Login: Archer | 39.34.48.111 | 2-CFB06D68 | STEAM_0:0:1426999981 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 06:31:42: [ucp.amxx] Login: Islamabadclassic | 39.47.241.132 | 3-F61A4DE0 | STEAM_0:0:900927890 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 06:32:20: [ucp.amxx] Login: RevCrew | 180.149.209.238 | 4-679742AF | STEAM_0:0:1001193466 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 06:32:27: [admin.amxx] Login: "cONtRAcT*<474><STEAM_0:0:359253968><>" became an admin (account "STEAM_0:0:359253968") (access "abcdefghijkmnopqrstu") (address "10.1.85.242")
+L 06/13/2015 - 06:32:27: [ucp.amxx] Login: cONtRAcT* | 10.1.85.242 | 3-A6ADC589 | STEAM_0:0:359253968 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 06:32:40: [admincmd.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" set cvar (name "sv_password") (value "111")
+L 06/13/2015 - 06:32:43: [adminchat.amxx] Chat: "cONtRAcT*<474><STEAM_0:0:359253968><>" tsay "pw 111"
+L 06/13/2015 - 06:32:47: [ucp.amxx] Login: BABA_LADLA | 182.183.249.72 | 4-06CDC73E | STEAM_0:0:202573418 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 06:32:49: [admincmd.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" set cvar (name "sv_Restart") (value "1")
+L 06/13/2015 - 06:32:52: [ucp.amxx] Login: Ctrl me^_- | 180.149.209.238 | 4-679742AF | STEAM_0:0:1001193466 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 06:33:11: [adminvote.amxx] Vote: "cONtRAcT*<474><STEAM_0:0:359253968><>" vote maps (map#1 "de_Dust2") (map#2 "") (map#3 "") (map#4 "")
+L 06/13/2015 - 06:33:23: [adminvote.amxx] Vote: Voting successful (got "4") (needed "4") (result "changelevel de_Dust2")
+L 06/13/2015 - 06:33:24: [adminvote.amxx] Vote: Result refused
+L 06/13/2015 - 06:33:32: [adminvote.amxx] Vote: "cONtRAcT*<474><STEAM_0:0:359253968><>" vote maps (map#1 "de_Nuke") (map#2 "de_tuscan") (map#3 "") (map#4 "")
+L 06/13/2015 - 06:33:44: [adminvote.amxx] Vote: Voting successful (got "5") (needed "3") (result "changelevel de_Nuke")
+L 06/13/2015 - 06:33:49: [admincmd.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" changelevel "de_dust2"
+L 06/13/2015 - 06:33:51: -------- Mapchange to de_dust2 --------
+L 06/13/2015 - 06:34:13: [admin.amxx] Login: "cONtRAcT*<474><STEAM_0:0:359253968><>" became an admin (account "STEAM_0:0:359253968") (access "abcdefghijkmnopqrstu") (address "10.1.85.242")
+L 06/13/2015 - 06:34:13: [ucp.amxx] Login: 321* | 10.1.48.85 | 3-9ABA8395 | STEAM_0:0:802994187 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 06:34:13: [ucp.amxx] Login: Ctrl me^_- | 180.149.209.238 | 4-679742AF | STEAM_0:0:1001193466 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 06:34:13: [ucp.amxx] Login: cONtRAcT* | 10.1.85.242 | 3-A6ADC589 | STEAM_0:0:359253968 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 06:34:13: [ucp.amxx] Login: ed1k. #copycatbeeetches | 10.25.161.215 | 3-A315D89C | STEAM_0:0:1627161673 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 06:34:13: [ucp.amxx] Login: BABA_LADLA | 182.183.249.72 | 4-06CDC73E | STEAM_0:0:202573418 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 06:34:13: [ucp.amxx] Login: BrAt | 39.34.48.111 | 2-CFB06D68 | STEAM_0:0:1426999981 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 06:34:13: [ucp.amxx] Login: Islamabadclassic | 39.47.241.132 | 3-F61A4DE0 | STEAM_0:0:900927890 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 06:34:13: [ucp.amxx] Login: khromeee | 182.191.59.94 | 2-B6C1ECE0 | STEAM_0:0:1652433129 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 06:34:13: [ucp.amxx] Login: facE# | 39.48.194.194 | 2-36759B97 | STEAM_0:0:115393080 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 06:34:41: [admincmd.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" set cvar (name "sv_Restart") (value "1")
+L 06/13/2015 - 06:34:42: [admincmd.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" set cvar (name "sv_Restart") (value "1")
+L 06/13/2015 - 06:35:06: [ucp.amxx] Login: Player :-) | 10.1.33.37 | 3-9A80F177 | STEAM_0:0:881345359 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 06:35:24: [plmenu.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" transfer "Ctrl me^_-<476><STEAM_0:0:1001193466><>" (team "TERRORIST")
+L 06/13/2015 - 06:35:24: [plmenu.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" transfer "facE#<467><STEAM_0:0:115393080><>" (team "TERRORIST")
+L 06/13/2015 - 06:35:24: [plmenu.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" transfer "Player :-)<477><STEAM_0:0:881345359><>" (team "TERRORIST")
+L 06/13/2015 - 06:35:26: [plmenu.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" transfer "BrAt<471><STEAM_0:0:1426999981><>" (team "TERRORIST")
+L 06/13/2015 - 06:35:26: [plmenu.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" transfer "ed1k. #copycatbeeetches<469><STEAM_0:0:1627161673><>" (team "TERRORIST")
+L 06/13/2015 - 06:35:26: [plmenu.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" transfer "321*<470><STEAM_0:0:802994187><>" (team "TERRORIST")
+L 06/13/2015 - 06:35:27: [plmenu.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" transfer "BABA_LADLA<475><STEAM_0:0:202573418><>" (team "TERRORIST")
+L 06/13/2015 - 06:35:27: [plmenu.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" transfer "cONtRAcT*<474><STEAM_0:0:359253968><>" (team "TERRORIST")
+L 06/13/2015 - 06:35:35: [ucp.amxx] Login: BABA_LADLA | 182.183.249.72 | 4-06CDC73E | STEAM_0:0:202573418 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 06:35:43: [adminchat.amxx] Chat: "cONtRAcT*<474><STEAM_0:0:359253968><>" tsay "Chor bacha hai"
+L 06/13/2015 - 06:36:58: [admincmd.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" execute cfg (file "match.cfg")
+L 06/13/2015 - 06:37:04: [adminchat.amxx] Chat: "cONtRAcT*<474><STEAM_0:0:359253968><>" tsay "LIVE :D"
+L 06/13/2015 - 06:37:18: [ucp.amxx] Login: Hardcore | 103.54.80.214 | 4-6DF57978 | STEAM_0:0:46267125 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 06:37:23: [admincmd.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" set cvar (name "sv_Restart") (value "1")
+L 06/13/2015 - 06:37:24: [admincmd.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" set cvar (name "sv_Restart") (value "1")
+L 06/13/2015 - 06:37:25: [admincmd.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" set cvar (name "sv_Restart") (value "1")
+L 06/13/2015 - 06:37:25: [admincmd.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" set cvar (name "sv_Restart") (value "1")
+L 06/13/2015 - 06:37:26: [admincmd.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" set cvar (name "sv_Restart") (value "1")
+L 06/13/2015 - 06:37:59: [admincmd.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" execute cfg (file "match.cfg")
+L 06/13/2015 - 06:38:03: [admincmd.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" execute cfg (file "match.cfg")
+L 06/13/2015 - 06:38:09: [adminchat.amxx] Chat: "cONtRAcT*<474><STEAM_0:0:359253968><>" tsay "LIVE"
+L 06/13/2015 - 06:41:50: [adminchat.amxx] Chat: "cONtRAcT*<474><STEAM_0:0:359253968><>" tsay "hard join"
+L 06/13/2015 - 06:41:58: [ucp.amxx] Login: Hardcore | 103.54.80.214 | 4-6DF57978 | STEAM_0:0:46267125 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 06:42:03: [adminchat.amxx] Chat: "cONtRAcT*<474><STEAM_0:0:359253968><>" tsay "hard t"
+L 06/13/2015 - 06:48:06: [admincmd.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" set cvar (name "sv_minrate") (value "25000")
+L 06/13/2015 - 06:48:14: [admincmd.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" set cvar (name "sv_maxrate") (value "25000")
+L 06/13/2015 - 06:48:56: [admincmd.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" set cvar (name "sv_minupdaterate") (value "101")
+L 06/13/2015 - 06:48:59: [admincmd.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" set cvar (name "sv_maxupdaterate") (value "101")
+L 06/13/2015 - 06:49:08: [admincmd.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" set cvar (name "sv_maxunlag") (value "0.1")
+L 06/13/2015 - 06:49:57: [adminchat.amxx] Chat: "cONtRAcT*<474><STEAM_0:0:359253968><>" tsay "ts3.worldgaming.me"
+L 06/13/2015 - 06:50:18: [admincmd.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" pause server
+L 06/13/2015 - 06:51:19: [admincmd.amxx] Cmd: "cONtRAcT*<474><STEAM_0:0:359253968><>" unpause server
+L 06/13/2015 - 06:55:59: [admin.amxx] Login: "MarcXOS<479><STEAM_0:0:1479146506><>" became an admin (account "STEAM_0:0:1479146506") (access "abcdefghijklmnopqrstu") (address "10.35.33.228")
+L 06/13/2015 - 06:55:59: [ucp.amxx] Login: MarcXOS | 10.35.33.228 | 3-C4E8FC60 | STEAM_0:0:1479146506 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 06:57:05: [ucp.amxx] Login: Player :-) | 10.1.33.37 | 3-9A80F177 | STEAM_0:0:881345359 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 06:57:09: [admin.amxx] Login: "BILLO DAKING =DD<481><STEAM_0:0:808048321><>" became an admin (account "STEAM_0:0:808048321") (access "abcdefghijkmnopqrstu") (address "39.48.32.57")
+L 06/13/2015 - 06:57:09: [ucp.amxx] Login: BILLO DAKING =DD | 39.48.32.57 | 3-7166678B | STEAM_0:0:808048321 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 06:57:31: [adminchat.amxx] Chat: "MarcXOS<479><STEAM_0:0:1479146506><>" tsay "pw 111"
+L 06/13/2015 - 06:57:37: [ucp.amxx] Login: BrAt | 39.34.48.111 | 2-CFB06D68 | STEAM_0:0:1426999981 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 06:57:43: [admincmd.amxx] Cmd: "MarcXOS<479><STEAM_0:0:1479146506><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 06:58:04: [admincmd.amxx] Cmd: "MarcXOS<479><STEAM_0:0:1479146506><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 06:58:20: [admincmd.amxx] Cmd: "MarcXOS<479><STEAM_0:0:1479146506><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 06:58:26: [adminchat.amxx] Chat: "MarcXOS<479><STEAM_0:0:1479146506><>" tsay "live"
+L 06/13/2015 - 06:58:59: [admin.amxx] Login: "MarcXOS<483><STEAM_0:0:1479146506><>" became an admin (account "STEAM_0:0:1479146506") (access "abcdefghijklmnopqrstu") (address "10.35.33.228")
+L 06/13/2015 - 06:58:59: [ucp.amxx] Login: MarcXOS | 10.35.33.228 | 3-C4E8FC60 | STEAM_0:0:1479146506 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 07:01:59: [admin.amxx] Login: "BILLO DAKING =DD<484><STEAM_0:0:808048321><>" became an admin (account "STEAM_0:0:808048321") (access "abcdefghijkmnopqrstu") (address "39.48.32.57")
+L 06/13/2015 - 07:01:59: [ucp.amxx] Login: BILLO DAKING =DD | 39.48.32.57 | 3-7166678B | STEAM_0:0:808048321 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 07:04:51: [ucp.amxx] Login: CeeKaaaaaaaay! | 182.182.66.176 | 3-C340551D | STEAM_0:0:179659123 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 07:05:37: [ucp.amxx] Login: BrAt | 39.34.48.111 | 2-CFB06D68 | STEAM_0:0:1426999981 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 07:06:34: [ucp.amxx] Login: facE# | 39.48.194.194 | 2-36759B97 | STEAM_0:0:115393080 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 07:06:39: [adminchat.amxx] Chat: "CeeKaaaaaaaay!<486><STEAM_0:0:179659123><>" chat "?"
+L 06/13/2015 - 07:06:44: [adminchat.amxx] Chat: "CeeKaaaaaaaay!<486><STEAM_0:0:179659123><>" chat " me ata hun dodear laga kar"
+L 06/13/2015 - 07:11:30: [ucp.amxx] Login: facE# | 39.48.194.194 | 2-36759B97 | STEAM_0:0:115393080 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 07:13:49: [admincmd.amxx] Cmd: "BILLO DAKING =DD<484><STEAM_0:0:808048321><>" changelevel "de_nuke"
+L 06/13/2015 - 07:13:51: -------- Mapchange to de_nuke --------
+L 06/13/2015 - 07:14:12: [admin.amxx] Login: "MarcXOS<483><STEAM_0:0:1479146506><>" became an admin (account "STEAM_0:0:1479146506") (access "abcdefghijklmnopqrstu") (address "10.35.33.228")
+L 06/13/2015 - 07:14:12: [admin.amxx] Login: "BILLO DAKING =DD<484><STEAM_0:0:808048321><>" became an admin (account "STEAM_0:0:808048321") (access "abcdefghijkmnopqrstu") (address "39.48.32.57")
+L 06/13/2015 - 07:14:13: [ucp.amxx] Login: Player :-) | 10.1.33.37 | 3-9A80F177 | STEAM_0:0:881345359 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 07:14:13: [ucp.amxx] Login: Ctrl me^_- | 180.149.209.238 | 4-679742AF | STEAM_0:0:1001193466 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 07:14:13: [ucp.amxx] Login: 321* | 10.1.48.85 | 3-9ABA8395 | STEAM_0:0:802994187 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 07:14:13: [ucp.amxx] Login: BILLO DAKING =DD | 39.48.32.57 | 3-7166678B | STEAM_0:0:808048321 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 07:14:13: [ucp.amxx] Login: MarcXOS | 10.35.33.228 | 3-C4E8FC60 | STEAM_0:0:1479146506 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 07:14:13: [ucp.amxx] Login: Hardcore | 103.54.80.214 | 4-6DF57978 | STEAM_0:0:46267125 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 07:14:13: [ucp.amxx] Login: Islamabadclassic | 39.47.241.132 | 3-F61A4DE0 | STEAM_0:0:900927890 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 07:14:13: [ucp.amxx] Login: facE# | 39.48.194.194 | 2-36759B97 | STEAM_0:0:115393080 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 07:14:13: [ucp.amxx] Login: BrAt | 39.34.48.111 | 2-CFB06D68 | STEAM_0:0:1426999981 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 07:14:13: [ucp.amxx] Login: BABA_LADLA | 182.183.249.72 | 4-06CDC73E | STEAM_0:0:202573418 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 07:15:06: [admincmd.amxx] Cmd: "BILLO DAKING =DD<484><STEAM_0:0:808048321><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 07:15:15: [plmenu.amxx] Kick: "BILLO DAKING =DD<484><STEAM_0:0:808048321><>" kick "Islamabadclassic<472><STEAM_0:0:900927890><>"
+L 06/13/2015 - 07:15:16: [ucp.amxx] Login: CeeKaaaaaaaay! | 118.103.238.143 | 3-C340551D | STEAM_0:0:179659123 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 07:15:42: [admincmd.amxx] Cmd: "BILLO DAKING =DD<484><STEAM_0:0:808048321><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 07:19:19: [ucp.amxx] Login: ASDASDa | 10.26.4.228 | 3-1DEACEB7 | STEAM_0:0:1179762940 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 07:20:00: [ucp.amxx] Login: BrAt | 39.34.48.111 | 2-CFB06D68 | STEAM_0:0:1426999981 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 07:20:31: [ucp.amxx] Login: BABA_LADLA | 182.183.249.72 | 4-06CDC73E | STEAM_0:0:202573418 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 07:27:26: [admin.amxx] Login: "BILLO DAKING =DD<492><STEAM_0:0:808048321><>" became an admin (account "STEAM_0:0:808048321") (access "abcdefghijkmnopqrstu") (address "39.48.32.57")
+L 06/13/2015 - 07:27:26: [ucp.amxx] Login: BILLO DAKING =DD | 39.48.32.57 | 3-7166678B | STEAM_0:0:808048321 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 07:27:58: [adminchat.amxx] Chat: "CeeKaaaaaaaay!<489><STEAM_0:0:179659123><>" chat "Mera mouse kharb ha"
+L 06/13/2015 - 07:27:59: [adminchat.amxx] Chat: "CeeKaaaaaaaay!<489><STEAM_0:0:179659123><>" chat ""
+L 06/13/2015 - 07:28:06: [adminchat.amxx] Chat: "CeeKaaaaaaaay!<489><STEAM_0:0:179659123><>" chat "alee noobar tabi nai khel pa ra"
+L 06/13/2015 - 07:28:14: [adminchat.amxx] Chat: "CeeKaaaaaaaay!<489><STEAM_0:0:179659123><>" chat "Dkeh mera burst nai lagega"
+L 06/13/2015 - 07:29:24: [admin.amxx] Login: "BILLO DAKING =DD<493><STEAM_0:0:808048321><>" became an admin (account "STEAM_0:0:808048321") (access "abcdefghijkmnopqrstu") (address "39.48.32.57")
+L 06/13/2015 - 07:29:24: [ucp.amxx] Login: BILLO DAKING =DD | 39.48.32.57 | 3-7166678B | STEAM_0:0:808048321 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 07:29:35: [admin.amxx] Login: "BILLO DAKING =DD<494><STEAM_0:0:808048321><>" became an admin (account "STEAM_0:0:808048321") (access "abcdefghijkmnopqrstu") (address "39.48.32.57")
+L 06/13/2015 - 07:29:36: [ucp.amxx] Login: BILLO DAKING =DD | 39.48.32.57 | 3-7166678B | STEAM_0:0:808048321 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 07:29:52: [ucp.amxx] Login: BABA_LADLA | 182.183.249.72 | 4-06CDC73E | STEAM_0:0:202573418 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 07:31:41: [ucp.amxx] Login: facE# | 39.48.194.194 | 2-36759B97 | STEAM_0:0:115393080 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 07:31:42: [ucp.amxx] Login: facE# | 39.48.194.194 | 2-36759B97 | STEAM_0:0:115393080 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 07:31:55: [ucp.amxx] Login: RevCrew | 180.149.209.238 | 4-679742AF | STEAM_0:0:1001193466 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 07:32:13: [adminchat.amxx] Chat: "MarcXOS<483><STEAM_0:0:1479146506><>" tsay "scene off."
+L 06/13/2015 - 07:32:14: [adminchat.amxx] Chat: "MarcXOS<483><STEAM_0:0:1479146506><>" tsay "bye"
+L 06/13/2015 - 07:38:53: [admin.amxx] Login: "shooter.FTW! x]<498><STEAM_0:0:1124653470><>" became an admin (account "STEAM_0:0:1124653470") (access "bcdefghijkmnopqrstu") (address "10.2.129.167")
+L 06/13/2015 - 07:38:53: [ucp.amxx] Login: shooter.FTW! x] | 10.2.129.167 | 3-BCF3841E | STEAM_0:0:1124653470 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 07:39:12: [admincmd.amxx] Cmd: "shooter.FTW! x]<498><STEAM_0:0:1124653470><>" set cvar (name "sv_password") (value "")
+L 06/13/2015 - 07:47:59: [ucp.amxx] Login NO-UCP: <Player> <10.72.29.73> <VALVE_0:4:1881199961>
+L 06/13/2015 - 07:55:02: [ucp.amxx] Login NO-UCP: <sam> <10.86.133.245> <VALVE_0:4:778885721>
+L 06/13/2015 - 08:04:20: [ucp.amxx] Login NO-UCP: <olofmeister-> <182.183.223.190> <STEAM_0:1:58173871>
+L 06/13/2015 - 08:24:06: [admin.amxx] Login: "cONtRAcT*<502><STEAM_0:0:359253968><>" became an admin (account "STEAM_0:0:359253968") (access "abcdefghijkmnopqrstu") (address "10.1.85.242")
+L 06/13/2015 - 08:24:06: [ucp.amxx] Login: cONtRAcT* | 10.1.85.242 | 3-A6ADC589 | STEAM_0:0:359253968 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 08:26:07: [admin.amxx] Login: "shooter.FTW! x]<503><STEAM_0:0:1124653470><>" became an admin (account "STEAM_0:0:1124653470") (access "bcdefghijkmnopqrstu") (address "10.2.129.167")
+L 06/13/2015 - 08:26:07: [ucp.amxx] Login: shooter.FTW! x] | 10.2.129.167 | 3-BCF3841E | STEAM_0:0:1124653470 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 08:26:42: [ucp.amxx] Login: !!!! | 10.11.61.227 | 2-23F32146 | STEAM_0:0:335001800 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 08:27:08: [ucp.amxx] Login: people | 10.7.8.34 | 3-86353538 | STEAM_0:0:2060583387 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 08:27:12: [ucp.amxx] Login: pendulum. | 39.48.177.170 | 3-859E2CC0 | STEAM_0:0:1498160109 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 08:27:13: [ucp.amxx] Login: F!reONNNNN | 39.47.197.169 | 3-A8DBB358 | STEAM_0:0:258136346 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 08:27:28: [admin.amxx] Login: "shooter.FTW! x]<508><STEAM_0:0:1124653470><>" became an admin (account "STEAM_0:0:1124653470") (access "bcdefghijkmnopqrstu") (address "10.2.129.167")
+L 06/13/2015 - 08:27:28: [ucp.amxx] Login: shooter.FTW! x] | 10.2.129.167 | 3-BCF3841E | STEAM_0:0:1124653470 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 08:27:33: [admin.amxx] Login: "cONtRAcT*<509><STEAM_0:0:359253968><>" became an admin (account "STEAM_0:0:359253968") (access "abcdefghijkmnopqrstu") (address "10.1.85.242")
+L 06/13/2015 - 08:27:33: [ucp.amxx] Login: cONtRAcT* | 10.1.85.242 | 3-A6ADC589 | STEAM_0:0:359253968 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 08:27:47: [ucp.amxx] Login: Dayuuummmm. | 10.22.133.253 | 2-3C992AB8 | STEAM_0:0:1522531543 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 08:27:49: [admincmd.amxx] Cmd: "cONtRAcT*<509><STEAM_0:0:359253968><>" set cvar (name "sv_password") (value "124")
+L 06/13/2015 - 08:27:53: [adminchat.amxx] Chat: "cONtRAcT*<509><STEAM_0:0:359253968><>" tsay "pw 125"
+L 06/13/2015 - 08:27:56: [adminchat.amxx] Chat: "cONtRAcT*<509><STEAM_0:0:359253968><>" tsay "pw 124"
+L 06/13/2015 - 08:27:58: [adminchat.amxx] Chat: "cONtRAcT*<509><STEAM_0:0:359253968><>" tsay "124"
+L 06/13/2015 - 08:28:58: [admincmd.amxx] Cmd: "shooter.FTW! x]<508><STEAM_0:0:1124653470><>" changelevel "de_dust2"
+L 06/13/2015 - 08:29:00: -------- Mapchange to de_dust2 --------
+L 06/13/2015 - 08:29:22: [admin.amxx] Login: "shooter.FTW! x]<508><STEAM_0:0:1124653470><>" became an admin (account "STEAM_0:0:1124653470") (access "bcdefghijkmnopqrstu") (address "10.2.129.167")
+L 06/13/2015 - 08:29:22: [admin.amxx] Login: "cONtRAcT*<509><STEAM_0:0:359253968><>" became an admin (account "STEAM_0:0:359253968") (access "abcdefghijkmnopqrstu") (address "10.1.85.242")
+L 06/13/2015 - 08:29:22: [ucp.amxx] Login: shooter.FTW! x] | 10.2.129.167 | 3-BCF3841E | STEAM_0:0:1124653470 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 08:29:22: [ucp.amxx] Login: cONtRAcT* | 10.1.85.242 | 3-A6ADC589 | STEAM_0:0:359253968 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 08:29:22: [ucp.amxx] Login: FARAZZZZZZZ. | 10.22.133.253 | 2-3C992AB8 | STEAM_0:0:1522531543 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 08:29:22: [ucp.amxx] Login: F!reONNNNN | 39.47.197.169 | 3-A8DBB358 | STEAM_0:0:258136346 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 08:29:22: [ucp.amxx] Login: pendulum. | 39.48.177.170 | 3-859E2CC0 | STEAM_0:0:1498160109 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 08:29:22: [ucp.amxx] Login: people | 10.7.8.34 | 3-86353538 | STEAM_0:0:2060583387 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 08:29:22: [ucp.amxx] Login: NEVERMORE. | 10.11.61.227 | 2-23F32146 | STEAM_0:0:335001800 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 08:30:25: [admincmd.amxx] Cmd: "shooter.FTW! x]<508><STEAM_0:0:1124653470><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 08:30:57: [ucp.amxx] Login: PumpAction | 10.57.41.246 | 3-45AB21AF | STEAM_0:0:1412811657 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 08:32:09: [ucp.amxx] Login: Player :-) | 10.1.33.37 | 3-9A80F177 | STEAM_0:0:881345359 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 08:33:18: [ucp.amxx] Login: FARAZZZZZZZ. | 10.22.133.253 | 2-3C992AB8 | STEAM_0:0:1522531543 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 08:33:37: [plmenu.amxx] Cmd: "cONtRAcT*<509><STEAM_0:0:359253968><>" slay "FARAZZZZZZZ.<510><STEAM_0:0:1522531543><>"
+L 06/13/2015 - 08:34:17: [adminchat.amxx] Chat: "cONtRAcT*<509><STEAM_0:0:359253968><>" tsay "lasT?"
+L 06/13/2015 - 08:34:21: [ucp.amxx] Login: pendulum. | 39.48.177.170 | 3-859E2CC0 | STEAM_0:0:1498160109 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 08:34:23: [adminchat.amxx] Chat: "cONtRAcT*<509><STEAM_0:0:359253968><>" tsay "joining"
+L 06/13/2015 - 08:34:32: [ucp.amxx] Login: FARAZZZZZZZ. | 10.22.133.253 | 2-3C992AB8 | STEAM_0:0:1522531543 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 08:34:44: [ucp.amxx] Login: glow. | 115.186.115.124 | 3-A31937AF | STEAM_0:0:985549591 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 08:34:53: [ucp.amxx] Login: PumpAction | 10.57.41.246 | 3-45AB21AF | STEAM_0:0:1412811657 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 08:35:02: [admincmd.amxx] Cmd: "shooter.FTW! x]<508><STEAM_0:0:1124653470><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 08:35:05: [adminchat.amxx] Chat: "shooter.FTW! x]<508><STEAM_0:0:1124653470><>" tsay "LIEV"
+L 06/13/2015 - 08:35:06: [adminchat.amxx] Chat: "shooter.FTW! x]<508><STEAM_0:0:1124653470><>" tsay "LIVE."
+L 06/13/2015 - 08:35:22: [admincmd.amxx] Cmd: "shooter.FTW! x]<508><STEAM_0:0:1124653470><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 08:35:31: [adminchat.amxx] Chat: "shooter.FTW! x]<508><STEAM_0:0:1124653470><>" tsay "LIVE?"
+L 06/13/2015 - 08:35:43: [admincmd.amxx] Cmd: "cONtRAcT*<509><STEAM_0:0:359253968><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 08:35:46: [adminchat.amxx] Chat: "cONtRAcT*<509><STEAM_0:0:359253968><>" tsay "LIVE?"
+L 06/13/2015 - 08:35:48: [admincmd.amxx] Cmd: "cONtRAcT*<509><STEAM_0:0:359253968><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 08:35:49: [adminchat.amxx] Chat: "shooter.FTW! x]<508><STEAM_0:0:1124653470><>" tsay "?"
+L 06/13/2015 - 08:35:52: [adminchat.amxx] Chat: "shooter.FTW! x]<508><STEAM_0:0:1124653470><>" tsay "?"
+L 06/13/2015 - 08:35:52: [adminchat.amxx] Chat: "cONtRAcT*<509><STEAM_0:0:359253968><>" tsay "last?"
+L 06/13/2015 - 08:35:56: [adminchat.amxx] Chat: "cONtRAcT*<509><STEAM_0:0:359253968><>" tsay "k"
+L 06/13/2015 - 08:35:57: [adminchat.amxx] Chat: "shooter.FTW! x]<508><STEAM_0:0:1124653470><>" tsay "fast ywar. :3"
+L 06/13/2015 - 08:36:12: [ucp.amxx] Login: KeviN. | 10.66.0.248 | 3-A2729A54 | STEAM_0:0:1355128274 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 08:36:16: [admincmd.amxx] Cmd: "shooter.FTW! x]<508><STEAM_0:0:1124653470><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 08:36:16: [admincmd.amxx] Cmd: "shooter.FTW! x]<508><STEAM_0:0:1124653470><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 08:36:17: [admincmd.amxx] Cmd: "shooter.FTW! x]<508><STEAM_0:0:1124653470><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 08:36:23: [admincmd.amxx] Cmd: "shooter.FTW! x]<508><STEAM_0:0:1124653470><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 08:36:30: [adminchat.amxx] Chat: "shooter.FTW! x]<508><STEAM_0:0:1124653470><>" tsay "LIVE!!! "
+L 06/13/2015 - 08:36:42: [admincmd.amxx] Cmd: "shooter.FTW! x]<508><STEAM_0:0:1124653470><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 08:36:46: [adminchat.amxx] Chat: "shooter.FTW! x]<508><STEAM_0:0:1124653470><>" tsay "kia masla hai?"
+L 06/13/2015 - 08:43:48: [ucp.amxx] Login: F!reONNNNN | 39.47.197.169 | 3-A8DBB358 | STEAM_0:0:258136346 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 08:49:03: [adminchat.amxx] Chat: "cONtRAcT*<509><STEAM_0:0:359253968><>" csay "blue" "bhagooo.com????"
+L 06/13/2015 - 08:49:15: [adminchat.amxx] Chat: "cONtRAcT*<509><STEAM_0:0:359253968><>" csay "" "bhagooo.com????" "
+L 06/13/2015 - 08:51:27: [ucp.amxx] Login: Quarcry. | 10.57.41.246 | 3-45AB21AF | STEAM_0:0:1412811657 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 08:55:24: [admincmd.amxx] Cmd: "cONtRAcT*<509><STEAM_0:0:359253968><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 08:55:24: [admincmd.amxx] Cmd: "cONtRAcT*<509><STEAM_0:0:359253968><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 08:55:25: [admincmd.amxx] Cmd: "cONtRAcT*<509><STEAM_0:0:359253968><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 08:55:45: [admincmd.amxx] Cmd: "cONtRAcT*<509><STEAM_0:0:359253968><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 08:55:45: [admincmd.amxx] Cmd: "cONtRAcT*<509><STEAM_0:0:359253968><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 08:55:45: [admincmd.amxx] Cmd: "cONtRAcT*<509><STEAM_0:0:359253968><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 08:55:46: [admincmd.amxx] Cmd: "cONtRAcT*<509><STEAM_0:0:359253968><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 09:04:44: [admin.amxx] Login: "cONtRAcT*<519><STEAM_0:0:359253968><>" became an admin (account "STEAM_0:0:359253968") (access "abcdefghijkmnopqrstu") (address "10.1.85.242")
+L 06/13/2015 - 09:04:44: [ucp.amxx] Login: cONtRAcT* | 10.1.85.242 | 3-A6ADC589 | STEAM_0:0:359253968 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 09:05:25: [adminchat.amxx] Chat: "shooter.FTW! x]<508><STEAM_0:0:1124653470><>" tsay "GG."
+L 06/13/2015 - 09:05:33: [admincmd.amxx] Cmd: "shooter.FTW! x]<508><STEAM_0:0:1124653470><>" set cvar (name "sv_password") (value "")
+L 06/13/2015 - 09:05:57: [ucp.amxx] Login: scotzo. | 10.7.11.237 | 2-C02AAA22 | STEAM_0:0:62054426 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 09:06:59: [admincmd.amxx] Cmd: "cONtRAcT*<519><STEAM_0:0:359253968><>" set cvar (name "sv_password") (value "")
+L 06/13/2015 - 09:07:04: [admincmd.amxx] Kick: "cONtRAcT*<519><STEAM_0:0:359253968><>" leave some group (tag1 "all") (tag2 "") (tag3 "") (tag4 "")
+L 06/13/2015 - 09:07:15: [ucp.amxx] Login: scotzo. | 10.7.11.237 | 2-C02AAA22 | STEAM_0:0:62054426 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 09:12:36: [ucp.amxx] Login NO-UCP: <knjrhg> <10.94.199.235> <VALVE_0:4:558751321>
+L 06/13/2015 - 09:40:22: [ucp.amxx] Login: EvolutioN.SEXYBOIII ^^ | 10.40.4.14 | 3-B9805365 | STEAM_0:0:629818750 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 10:23:50: [ucp.amxx] Login: -Sconix -.- | 10.126.108.10 | 3-08C3213F | STEAM_0:0:416078890 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 10:34:25: [ucp.amxx] Login: CeeKaaaaaaaay! | 103.50.158.246 | 3-C340551D | STEAM_0:0:179659123 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 10:34:33: [ucp.amxx] Login: DON. | 175.107.213.141 | 3-896F5A31 | STEAM_0:0:556206815 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 10:34:34: [ucp.amxx] Login: Show Wala xD | 10.40.4.14 | 3-B9805365 | STEAM_0:0:629818750 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 10:34:34: [ucp.amxx] Login: F[C]^-|PrOIzBaCk | 39.44.189.86 | 3-08006777 | STEAM_0:0:1894632093 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 10:51:14: [ucp.amxx] Login: lagger | 182.182.63.159 | 3-6035F7C0 | STEAM_0:0:1147867852 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 10:51:15: [ucp.amxx] Login: Pappi bhai | 182.182.63.159 | 3-F4990B5A | STEAM_0:0:1815330422 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 11:03:53: [ucp.amxx] Login NO-UCP: <T.ReX>> <10.79.72.14> <VALVE_0:4:1401575129>
+L 06/13/2015 - 11:09:36: [ucp.amxx] Login: EquinOx.# CH!L|3R^ | 119.157.135.85 | 2-9D0B9BAE | STEAM_0:0:972810141 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 11:14:58: [ucp.amxx] Login: - aBBy ^.^ | 39.48.166.239 | 3-26B70BE7 | STEAM_0:0:879717244 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 11:15:23: [ucp.amxx] Login: neutroNNNNNNN | 27.255.5.241 | 3-8DB8BC84 | STEAM_0:0:114443573 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 11:16:04: [ucp.amxx] Login: FaCe OFF | 39.48.166.239 | 2-7E7BDD2B | STEAM_0:0:226055929 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 11:17:16: [ucp.amxx] Login: ultrOn 3:) | 10.33.17.155 | 2-75416127 | STEAM_0:0:1424075237 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 11:18:32: [ucp.amxx] Login NO-UCP: <NoOb !!!!> <10.33.12.219> <STEAM_0:0:983262523>
+L 06/13/2015 - 11:19:43: [ucp.amxx] Login: Yazi -- | 39.50.204.18 | 3-5F81FBB2 | STEAM_0:0:689267291 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 12:03:55: [ucp.amxx] Login NO-UCP: <olofmeister-> <182.183.223.190> <STEAM_0:1:58173871>
+L 06/13/2015 - 12:09:54: [admin.amxx] Login: "XG.BILLO.<545><STEAM_0:0:808048321><>" became an admin (account "STEAM_0:0:808048321") (access "abcdefghijkmnopqrstu") (address "39.48.111.186")
+L 06/13/2015 - 12:09:54: [ucp.amxx] Login: XG.BILLO. | 39.48.111.186 | 3-7166678B | STEAM_0:0:808048321 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 12:09:59: [ucp.amxx] Login: 666 | 10.83.5.204 | 3-856B0C52 | STEAM_0:0:268026627 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 12:10:06: [admincmd.amxx] Cmd: "XG.BILLO.<545><STEAM_0:0:808048321><>" set cvar (name "sv_password") (value "umx")
+L 06/13/2015 - 12:10:15: [ucp.amxx] Login: L0GY | 10.83.5.204 | 3-856B0C52 | STEAM_0:0:268026627 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 12:10:19: [ucp.amxx] Login: Strike | 10.83.5.153 | 2-0A2696D9 | STEAM_0:0:721288101 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 12:10:21: [ucp.amxx] Login: QuBiEe | 10.83.9.220 | 2-93EC9A2B | STEAM_0:0:1277208813 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 12:10:32: [ucp.amxx] Login: Strike | 10.83.5.153 | 2-0A2696D9 | STEAM_0:0:721288101 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 12:10:42: [ucp.amxx] Login: Bale | 10.83.5.1 | 2-162F592E | STEAM_0:0:1263620949 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 12:10:52: [ucp.amxx] Login: Strike | 10.83.5.153 | 2-0A2696D9 | STEAM_0:0:721288101 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 12:12:18: [ucp.amxx] Login: Sexy' | 10.40.4.14 | 3-B9805365 | STEAM_0:0:629818750 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 12:12:20: [adminchat.amxx] Chat: "XG.BILLO.<545><STEAM_0:0:808048321><>" tsay "TEAM le ao"
+L 06/13/2015 - 12:15:41: [admincmd.amxx] Cmd: "XG.BILLO.<545><STEAM_0:0:808048321><>" changelevel "de_nuke"
+L 06/13/2015 - 12:15:43: -------- Mapchange to de_nuke --------
+L 06/13/2015 - 12:16:04: [admin.amxx] Login: "XG.BILLO.<545><STEAM_0:0:808048321><>" became an admin (account "STEAM_0:0:808048321") (access "abcdefghijkmnopqrstu") (address "39.48.111.186")
+L 06/13/2015 - 12:16:04: [ucp.amxx] Login: QuBiEe | 10.83.9.220 | 2-93EC9A2B | STEAM_0:0:1277208813 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 12:16:04: [ucp.amxx] Login: XG.BILLO. | 39.48.111.186 | 3-7166678B | STEAM_0:0:808048321 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 12:16:04: [ucp.amxx] Login: L0GY | 10.83.5.204 | 3-856B0C52 | STEAM_0:0:268026627 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 12:16:04: [ucp.amxx] Login: Sexy' | 10.40.4.14 | 3-B9805365 | STEAM_0:0:629818750 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 12:16:04: [ucp.amxx] Login: Bale | 10.83.5.1 | 2-162F592E | STEAM_0:0:1263620949 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 12:16:15: [ucp.amxx] Login: MOBLINK^JAZZ'SUBkeHDOO' | 182.182.54.178 | 2-FD502E39 | STEAM_0:0:1738588455 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 12:17:32: [adminchat.amxx] Chat: "XG.BILLO.<545><STEAM_0:0:808048321><>" tsay "TEAM?>?"
+L 06/13/2015 - 12:17:35: [ucp.amxx] Login: LORDiZdAk1NG | 182.182.54.178 | 2-FD502E39 | STEAM_0:0:1738588455 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 12:18:07: [admin.amxx] Login: "XG.cONtRAcT*<556><STEAM_0:0:359253968><>" became an admin (account "STEAM_0:0:359253968") (access "abcdefghijkmnopqrstu") (address "10.1.85.242")
+L 06/13/2015 - 12:18:07: [ucp.amxx] Login: XG.cONtRAcT* | 10.1.85.242 | 3-A6ADC589 | STEAM_0:0:359253968 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 12:18:20: [ucp.amxx] Login: BaAp Is Back | 10.83.5.204 | 2-C39EC5CB | STEAM_0:0:61935933 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 12:18:50: [admin.amxx] Login: "cONtRAcT*<556><STEAM_0:0:359253968><>" became an admin (account "STEAM_0:0:359253968") (access "abcdefghijkmnopqrstu") (address "10.1.85.242")
+L 06/13/2015 - 12:19:54: [adminchat.amxx] Chat: "cONtRAcT*<556><STEAM_0:0:359253968><>" tsay "last?"
+L 06/13/2015 - 12:19:54: [admincmd.amxx] Cmd: "XG.BILLO.<545><STEAM_0:0:808048321><>" execute cfg (file "match.cfg")
+L 06/13/2015 - 12:19:57: [adminchat.amxx] Chat: "cONtRAcT*<556><STEAM_0:0:359253968><>" tsay "lsat?"
+L 06/13/2015 - 12:19:58: [adminchat.amxx] Chat: "XG.BILLO.<545><STEAM_0:0:808048321><>" tsay "LAST???"
+L 06/13/2015 - 12:20:01: [adminchat.amxx] Chat: "cONtRAcT*<556><STEAM_0:0:359253968><>" tsay "last?"
+L 06/13/2015 - 12:20:05: [adminchat.amxx] Chat: "XG.BILLO.<545><STEAM_0:0:808048321><>" tsay "LAST ??"
+L 06/13/2015 - 12:20:09: [adminchat.amxx] Chat: "XG.BILLO.<545><STEAM_0:0:808048321><>" tsay "LAST?"
+L 06/13/2015 - 12:20:12: [adminchat.amxx] Chat: "XG.BILLO.<545><STEAM_0:0:808048321><>" tsay "LAST??"
+L 06/13/2015 - 12:20:15: [adminchat.amxx] Chat: "XG.BILLO.<545><STEAM_0:0:808048321><>" tsay "LAST???"
+L 06/13/2015 - 12:20:32: [admincmd.amxx] Cmd: "XG.BILLO.<545><STEAM_0:0:808048321><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 12:20:58: [ucp.amxx] Login: Monkey D SariB | 10.83.5.228 | 3-902BB386 | STEAM_0:0:2082826493 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 12:22:00: [admincmd.amxx] Cmd: "XG.BILLO.<545><STEAM_0:0:808048321><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 12:22:06: [adminchat.amxx] Chat: "XG.BILLO.<545><STEAM_0:0:808048321><>" tsay "LIVE"
+L 06/13/2015 - 12:22:35: [ucp.amxx] Login: 321* | 10.1.48.85 | 3-9ABA8395 | STEAM_0:0:802994187 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 12:23:59: [admincmd.amxx] Cmd: "XG.BILLO.<545><STEAM_0:0:808048321><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 12:23:59: [admincmd.amxx] Cmd: "XG.BILLO.<545><STEAM_0:0:808048321><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 12:23:59: [admincmd.amxx] Cmd: "XG.BILLO.<545><STEAM_0:0:808048321><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 12:24:00: [admincmd.amxx] Cmd: "XG.BILLO.<545><STEAM_0:0:808048321><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 12:24:00: [admincmd.amxx] Cmd: "XG.BILLO.<545><STEAM_0:0:808048321><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 12:24:02: [adminchat.amxx] Chat: "XG.BILLO.<545><STEAM_0:0:808048321><>" tsay "LIVEEEEEEE"
+L 06/13/2015 - 12:24:05: [ucp.amxx] Login: XG.MonsteR.^ | 10.69.33.199 | 3-1878300C | STEAM_0:0:983821817 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 12:26:28: [ucp.amxx] Login: g0ldz. | 10.40.4.14 | 3-B9805365 | STEAM_0:0:629818750 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 12:38:28: [plmenu.amxx] Ban: "XG.BILLO.<545><STEAM_0:0:808048321><>" ban and kick "Bale<551><STEAM_0:0:1263620949><>" (minutes "0")
+L 06/13/2015 - 19:51:33: [admin.amxx] Login: "MarcXOS<562><STEAM_0:0:1479146506><>" became an admin (account "STEAM_0:0:1479146506") (access "abcdefghijklmnopqrstu") (address "10.35.33.228")
+L 06/13/2015 - 19:51:33: [ucp.amxx] Login: MarcXOS | 10.35.33.228 | 3-C4E8FC60 | STEAM_0:0:1479146506 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 19:52:46: [ucp.amxx] Login: asda     -**!! | 10.2.114.30 | 3-0461608A | STEAM_0:0:1627692692 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 19:54:26: [ucp.amxx] Login: asda     -**!! | 10.2.114.30 | 3-0461608A | STEAM_0:0:1627692692 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 19:54:28: [admin.amxx] Login: "MarcXOS<565><STEAM_0:0:1479146506><>" became an admin (account "STEAM_0:0:1479146506") (access "abcdefghijklmnopqrstu") (address "10.35.33.228")
+L 06/13/2015 - 19:54:28: [ucp.amxx] Login: MarcXOS | 10.35.33.228 | 3-C4E8FC60 | STEAM_0:0:1479146506 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 19:54:42: [admincmd.amxx] Cmd: "MarcXOS<565><STEAM_0:0:1479146506><>" changelevel "de_dust2"
+L 06/13/2015 - 19:54:44: -------- Mapchange to de_dust2 --------
+L 06/13/2015 - 19:55:05: [admin.amxx] Login: "MarcXOS<565><STEAM_0:0:1479146506><>" became an admin (account "STEAM_0:0:1479146506") (access "abcdefghijklmnopqrstu") (address "10.35.33.228")
+L 06/13/2015 - 19:55:06: [ucp.amxx] Login: asda     -**!! | 10.2.114.30 | 3-0461608A | STEAM_0:0:1627692692 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 19:55:06: [ucp.amxx] Login: MarcXOS | 10.35.33.228 | 3-C4E8FC60 | STEAM_0:0:1479146506 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 19:55:41: [admin.amxx] Login: "shooter.FTW! x]<566><STEAM_0:0:1124653470><>" became an admin (account "STEAM_0:0:1124653470") (access "bcdefghijkmnopqrstu") (address "10.2.129.167")
+L 06/13/2015 - 19:55:41: [ucp.amxx] Login: shooter.FTW! x] | 10.2.129.167 | 3-BCF3841E | STEAM_0:0:1124653470 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 19:55:52: [ucp.amxx] Login: asda     -**!! | 10.2.114.30 | 3-0461608A | STEAM_0:0:1627692692 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 19:55:54: [admincmd.amxx] Cmd: "MarcXOS<565><STEAM_0:0:1479146506><>" set cvar (name "mp_freezetime") (value "0")
+L 06/13/2015 - 19:55:54: [admincmd.amxx] Cmd: "MarcXOS<565><STEAM_0:0:1479146506><>" set cvar (name "mp_startmoney") (value "16000")
+L 06/13/2015 - 19:55:54: [admincmd.amxx] Cmd: "MarcXOS<565><STEAM_0:0:1479146506><>" set cvar (name "mp_friendlyfire") (value "0")
+L 06/13/2015 - 19:55:54: [admincmd.amxx] Cmd: "MarcXOS<565><STEAM_0:0:1479146506><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 19:55:54: [adminchat.amxx] Chat: "MarcXOS<565><STEAM_0:0:1479146506><>" tsay "WARMUP CFG EXECUTED !"
+L 06/13/2015 - 19:55:56: [admincmd.amxx] Cmd: "MarcXOS<565><STEAM_0:0:1479146506><>" set cvar (name "mp_freezetime") (value "0")
+L 06/13/2015 - 19:55:56: [admincmd.amxx] Cmd: "MarcXOS<565><STEAM_0:0:1479146506><>" set cvar (name "mp_startmoney") (value "16000")
+L 06/13/2015 - 19:55:56: [admincmd.amxx] Cmd: "MarcXOS<565><STEAM_0:0:1479146506><>" set cvar (name "mp_friendlyfire") (value "0")
+L 06/13/2015 - 19:55:56: [admincmd.amxx] Cmd: "MarcXOS<565><STEAM_0:0:1479146506><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 19:55:56: [adminchat.amxx] Chat: "MarcXOS<565><STEAM_0:0:1479146506><>" tsay "WARMUP CFG EXECUTED !"
+L 06/13/2015 - 19:56:24: [admincmd.amxx] Cmd: "shooter.FTW! x]<566><STEAM_0:0:1124653470><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 19:56:27: [ucp.amxx] Login: FxN - iBuyPoweR | 39.48.122.152 | 3-1483F1DD | STEAM_0:1:64577134 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 19:57:12: [admincmd.amxx] Cmd: "MarcXOS<565><STEAM_0:0:1479146506><>" set cvar (name "mp_freezetime") (value "0")
+L 06/13/2015 - 19:57:12: [admincmd.amxx] Cmd: "MarcXOS<565><STEAM_0:0:1479146506><>" set cvar (name "mp_startmoney") (value "16000")
+L 06/13/2015 - 19:57:12: [admincmd.amxx] Cmd: "MarcXOS<565><STEAM_0:0:1479146506><>" set cvar (name "mp_friendlyfire") (value "0")
+L 06/13/2015 - 19:57:12: [admincmd.amxx] Cmd: "MarcXOS<565><STEAM_0:0:1479146506><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 19:57:12: [adminchat.amxx] Chat: "MarcXOS<565><STEAM_0:0:1479146506><>" tsay "WARMUP CFG EXECUTED !"
+L 06/13/2015 - 19:57:15: [adminchat.amxx] Chat: "MarcXOS<565><STEAM_0:0:1479146506><>" tsay "spec jao"
+L 06/13/2015 - 19:57:24: [admincmd.amxx] Cmd: "MarcXOS<565><STEAM_0:0:1479146506><>" set cvar (name "mp_freezetime") (value "0")
+L 06/13/2015 - 19:57:24: [admincmd.amxx] Cmd: "MarcXOS<565><STEAM_0:0:1479146506><>" set cvar (name "mp_startmoney") (value "16000")
+L 06/13/2015 - 19:57:24: [admincmd.amxx] Cmd: "MarcXOS<565><STEAM_0:0:1479146506><>" set cvar (name "mp_friendlyfire") (value "0")
+L 06/13/2015 - 19:57:24: [admincmd.amxx] Cmd: "MarcXOS<565><STEAM_0:0:1479146506><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 19:57:24: [adminchat.amxx] Chat: "MarcXOS<565><STEAM_0:0:1479146506><>" tsay "WARMUP CFG EXECUTED !"
+L 06/13/2015 - 19:59:59: [admincmd.amxx] Ban: "MarcXOS<565><STEAM_0:0:1479146506><>" ban and kick "shooter.FTW! x]<566><STEAM_0:0:1124653470><>" (minutes "9") (reason "")
+L 06/13/2015 - 20:03:38: [admincmd.amxx] Kick: "MarcXOS<565><STEAM_0:0:1479146506><>" leave some group (tag1 "all") (tag2 "") (tag3 "") (tag4 "")
+L 06/13/2015 - 21:21:28: [ucp.amxx] Login: Slack***. | 10.57.37.254 | 3-3CFB77EA | STEAM_0:0:1804227833 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 21:21:49: [ucp.amxx] Login: jOhnny* ^_^#LOVEISINVISIBLE:/ | 10.44.189.154 | 3-A3632EA6 | STEAM_0:0:1904197808 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 21:21:58: [ucp.amxx] Login: CARNEDIUMMMMMMMM' | 10.5.65.242 | 3-4A253169 | STEAM_0:0:447014753 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 21:22:00: [ucp.amxx] Login: SpiDeR | 182.183.240.124 | 3-571DF1B2 | STEAM_0:0:304256299 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 21:22:15: [admin.amxx] Login: "MarcXOS<573><STEAM_0:0:1479146506><>" became an admin (account "STEAM_0:0:1479146506") (access "abcdefghijklmnopqrstu") (address "10.35.33.228")
+L 06/13/2015 - 21:22:15: [ucp.amxx] Login: MarcXOS | 10.35.33.228 | 3-C4E8FC60 | STEAM_0:0:1479146506 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 21:22:37: [ucp.amxx] Login: fat;6 | 10.30.25.52 | 2-1E8448B5 | STEAM_0:0:1862118163 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 21:23:09: [ucp.amxx] Login: KeviN. | 10.66.0.248 | 3-A2729A54 | STEAM_0:0:1355128274 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 21:23:15: [admincmd.amxx] Cmd: "MarcXOS<573><STEAM_0:0:1479146506><>" set cvar (name "sv_password") (value "111")
+L 06/13/2015 - 21:23:36: [ucp.amxx] Login: S5A - Slack***. | 10.57.37.254 | 3-3CFB77EA | STEAM_0:0:1804227833 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 21:23:39: [admin.amxx] Login: "shooter.FTW! x]<577><STEAM_0:0:1124653470><>" became an admin (account "STEAM_0:0:1124653470") (access "bcdefghijkmnopqrstu") (address "111.88.57.249")
+L 06/13/2015 - 21:23:39: [ucp.amxx] Login: shooter.FTW! x] | 111.88.57.249 | 3-BCF3841E | STEAM_0:0:1124653470 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 21:23:49: [ucp.amxx] Login: Escape* /A/ | 182.184.81.49 | 3-F38E9758 | STEAM_0:0:178935466 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 21:23:52: [admincmd.amxx] Cmd: "MarcXOS<573><STEAM_0:0:1479146506><>" set cvar (name "mp_freezetime") (value "0")
+L 06/13/2015 - 21:23:52: [admincmd.amxx] Cmd: "MarcXOS<573><STEAM_0:0:1479146506><>" set cvar (name "mp_startmoney") (value "16000")
+L 06/13/2015 - 21:23:52: [admincmd.amxx] Cmd: "MarcXOS<573><STEAM_0:0:1479146506><>" set cvar (name "mp_friendlyfire") (value "0")
+L 06/13/2015 - 21:23:52: [admincmd.amxx] Cmd: "MarcXOS<573><STEAM_0:0:1479146506><>" set cvar (name "sv_restart") (value "1")
+L 06/13/2015 - 21:23:52: [adminchat.amxx] Chat: "MarcXOS<573><STEAM_0:0:1479146506><>" tsay "WARMUP CFG EXECUTED !"
+L 06/13/2015 - 21:23:55: [ucp.amxx] Login: Dayuuummmm. | 10.22.133.253 | 2-3C992AB8 | STEAM_0:0:1522531543 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 21:24:38: [ucp.amxx] Login: FxN - iBuyPoweR | 39.48.122.152 | 3-1483F1DD | STEAM_0:1:73785020 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 21:24:46: [ucp.amxx] Login: $4BASH ^.- | 182.182.55.91 | 3-AF4B3105 | STEAM_0:0:433706251 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 21:25:26: [plmenu.amxx] Cmd: "shooter.FTW! x]<577><STEAM_0:0:1124653470><>" transfer "Slack***.<576><STEAM_0:0:1804227833><>" (team "TERRORIST")
+L 06/13/2015 - 21:25:27: [plmenu.amxx] Cmd: "shooter.FTW! x]<577><STEAM_0:0:1124653470><>" transfer "Carni<571><STEAM_0:0:447014753><>" (team "TERRORIST")
+L 06/13/2015 - 21:25:27: [plmenu.amxx] Cmd: "shooter.FTW! x]<577><STEAM_0:0:1124653470><>" transfer "SpiDeR<572><STEAM_0:0:304256299><>" (team "TERRORIST")
+L 06/13/2015 - 21:25:29: [plmenu.amxx] Cmd: "shooter.FTW! x]<577><STEAM_0:0:1124653470><>" transfer "kira<578><STEAM_0:0:178935466><>" (team "TERRORIST")
+L 06/13/2015 - 21:25:29: [plmenu.amxx] Cmd: "shooter.FTW! x]<577><STEAM_0:0:1124653470><>" transfer "Dayuuummmm.<579><STEAM_0:0:1522531543><>" (team "TERRORIST")
+L 06/13/2015 - 21:25:30: [plmenu.amxx] Cmd: "shooter.FTW! x]<577><STEAM_0:0:1124653470><>" transfer "FxN - iBuyPoweR<580><STEAM_0:1:73785020><>" (team "TERRORIST")
+L 06/13/2015 - 21:25:30: [plmenu.amxx] Cmd: "shooter.FTW! x]<577><STEAM_0:0:1124653470><>" transfer "$4BASH ^.-<581><STEAM_0:0:433706251><>" (team "TERRORIST")
+L 06/13/2015 - 21:25:31: [plmenu.amxx] Cmd: "shooter.FTW! x]<577><STEAM_0:0:1124653470><>" transfer "shooter.FTW! x]<577><STEAM_0:0:1124653470><>" (team "TERRORIST")
+L 06/13/2015 - 21:26:02: [adminchat.amxx] Chat: "MarcXOS<573><STEAM_0:0:1479146506><>" tsay "kira t"
+L 06/13/2015 - 21:26:23: [adminchat.amxx] Chat: "MarcXOS<573><STEAM_0:0:1479146506><>" tsay "kevin t"
+L 06/13/2015 - 21:26:36: [adminchat.amxx] Chat: "MarcXOS<573><STEAM_0:0:1479146506><>" tsay "arni ct"
+L 06/13/2015 - 21:26:40: [adminchat.amxx] Chat: "Dayuuummmm.<579><STEAM_0:0:1522531543><>" chat " spider ko kick"
+L 06/13/2015 - 21:26:40: [adminchat.amxx] Chat: "shooter.FTW! x]<577><STEAM_0:0:1124653470><>" chat "bc mia bhi"
+L 06/13/2015 - 21:26:41: [adminchat.amxx] Chat: "MarcXOS<573><STEAM_0:0:1479146506><>" tsay "carni"
+L 06/13/2015 - 21:26:43: [adminchat.amxx] Chat: "Dayuuummmm.<579><STEAM_0:0:1522531543><>" chat " alvin ko join"
+L 06/13/2015 - 21:26:43: [adminchat.amxx] Chat: "shooter.FTW! x]<577><STEAM_0:0:1124653470><>" chat ".-."
+L 06/13/2015 - 21:26:48: [adminchat.amxx] Chat: "shooter.FTW! x]<577><STEAM_0:0:1124653470><>" chat "?"
+L 06/13/2015 - 21:26:51: [adminchat.amxx] Chat: "shooter.FTW! x]<577><STEAM_0:0:1124653470><>" chat "-,-"
+L 06/13/2015 - 21:27:21: [adminchat.amxx] Chat: "Dayuuummmm.<579><STEAM_0:0:1522531543><>" chat " spider ko kic kkaro"
+L 06/13/2015 - 21:27:59: [ucp.amxx] Login: alvinnnnnn, | 10.11.61.227 | 2-23F32146 | STEAM_0:0:335001800 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 21:28:06: [ucp.amxx] Login: jOhnny* ^_^#LOVEISINVISIBLE:/ | 10.44.189.154 | 3-A3632EA6 | STEAM_0:0:1904197808 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 21:28:43: [admincmd.amxx] Kick: "MarcXOS<573><STEAM_0:0:1479146506><>" kick "fat;6<574><STEAM_0:0:1862118163><>" (reason "")
+L 06/13/2015 - 21:28:51: [ucp.amxx] Login: radioactive! | 10.40.4.14 | 3-B9805365 | STEAM_0:0:629818750 | 8.4 | GL | 6.1.7601x86
+L 06/13/2015 - 21:30:33: [plmenu.amxx] Cmd: "MarcXOS<573><STEAM_0:0:1479146506><>" transfer "KeviN.<575><STEAM_0:0:1355128274><>" (team "TERRORIST")
+L 06/13/2015 - 21:30:37: [admincmd.amxx] Cmd: "MarcXOS<573><STEAM_0:0:1479146506><>" execute cfg (file "match.cfg")
+L 06/13/2015 - 21:31:03: [ucp.amxx] Login: SpiDeR | 182.183.240.124 | 3-571DF1B2 | STEAM_0:0:304256299 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 21:31:08: [admincmd.amxx] Cmd: "shooter.FTW! x]<577><STEAM_0:0:1124653470><>" set cvar (name "sv_restart") (value "12")
+L 06/13/2015 - 21:31:27: [admincmd.amxx] Cmd: "shooter.FTW! x]<577><STEAM_0:0:1124653470><>" set cvar (name "sv_restart") (value "1CHUTIYA.")
+L 06/13/2015 - 21:31:31: [adminchat.amxx] Chat: "shooter.FTW! x]<577><STEAM_0:0:1124653470><>" tsay "LIVE."
+L 06/13/2015 - 21:33:14: [adminchat.amxx] Chat: "shooter.FTW! x]<577><STEAM_0:0:1124653470><>" chat "=D"
+L 06/13/2015 - 21:33:15: [admincmd.amxx] Cmd: "shooter.FTW! x]<577><STEAM_0:0:1124653470><>" ask for players list
+L 06/13/2015 - 21:36:05: [admincmd.amxx] Kick: "MarcXOS<573><STEAM_0:0:1479146506><>" kick "SpiDeR<585><STEAM_0:0:304256299><>" (reason "")
+L 06/13/2015 - 21:37:06: [ucp.amxx] Login: asda    -**!! | 10.2.114.30 | 3-0461608A | STEAM_0:0:1627692692 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 21:37:22: [ucp.amxx] Login: asda    -**!! | 10.2.114.30 | 3-0461608A | STEAM_0:0:1627692692 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 21:43:50: [ucp.amxx] Login: asda    -**!! | 10.2.114.30 | 3-0461608A | STEAM_0:0:1627692692 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 21:48:53: [admincmd.amxx] Cmd: "MarcXOS<573><STEAM_0:0:1479146506><>" execute cfg (file "match.cfg")
+L 06/13/2015 - 21:49:17: [admincmd.amxx] Cmd: "MarcXOS<573><STEAM_0:0:1479146506><>" execute cfg (file "match.cfg")
+L 06/13/2015 - 21:49:19: [adminchat.amxx] Chat: "MarcXOS<573><STEAM_0:0:1479146506><>" tsay "LIVE"
+L 06/13/2015 - 21:49:33: [admincmd.amxx] Cmd: "MarcXOS<573><STEAM_0:0:1479146506><>" execute cfg (file "match.cfg")
+L 06/13/2015 - 21:51:38: [admincmd.amxx] Cmd: "MarcXOS<573><STEAM_0:0:1479146506><>" execute cfg (file "match.cfg")
+L 06/13/2015 - 21:51:43: [ucp.amxx] Login: asda    -**!! | 10.2.114.30 | 3-0461608A | STEAM_0:0:1627692692 | 8.4 | GL | 6.1.7600x86
+L 06/13/2015 - 21:51:50: [admincmd.amxx] Cmd: "MarcXOS<573><STEAM_0:0:1479146506><>" execute cfg (file "match.cfg")
+L 06/13/2015 - 21:52:08: [admincmd.amxx] Cmd: "MarcXOS<573><STEAM_0:0:1479146506><>" execute cfg (file "match.cfg")
+L 06/13/2015 - 22:05:55: [ucp.amxx] Login: alvinnnnnn, | 10.11.61.227 | 2-23F32146 | STEAM_0:0:335001800 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 22:06:39: [ucp.amxx] Login: alvinnnnnn, | 10.11.61.227 | 2-23F32146 | STEAM_0:0:335001800 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 22:07:34: [admin.amxx] Login: "shooter.FTW! x]<591><STEAM_0:0:1124653470><>" became an admin (account "STEAM_0:0:1124653470") (access "bcdefghijkmnopqrstu") (address "111.88.56.249")
+L 06/13/2015 - 22:07:34: [ucp.amxx] Login: shooter.FTW! x] | 111.88.56.249 | 3-BCF3841E | STEAM_0:0:1124653470 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 22:07:43: [admin.amxx] Login: "shooter.FTW! x]<592><STEAM_0:0:1124653470><>" became an admin (account "STEAM_0:0:1124653470") (access "bcdefghijkmnopqrstu") (address "111.88.56.249")
+L 06/13/2015 - 22:07:43: [ucp.amxx] Login: shooter.FTW! x] | 111.88.56.249 | 3-BCF3841E | STEAM_0:0:1124653470 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 22:10:08: [mapsmenu.amxx] Cmd: "shooter.FTW! x]<592><STEAM_0:0:1124653470><>" changelevel "de_inferno"
+L 06/13/2015 - 22:10:10: -------- Mapchange to de_inferno --------
+L 06/13/2015 - 22:10:32: [admin.amxx] Login: "shooter.FTW! x]<592><STEAM_0:0:1124653470><>" became an admin (account "STEAM_0:0:1124653470") (access "bcdefghijkmnopqrstu") (address "111.88.56.249")
+L 06/13/2015 - 22:10:32: [admin.amxx] Login: "MarcXOS<573><STEAM_0:0:1479146506><>" became an admin (account "STEAM_0:0:1479146506") (access "abcdefghijklmnopqrstu") (address "10.35.33.228")
+L 06/13/2015 - 22:10:32: [ucp.amxx] Login: Dayuuummmm. | 10.22.133.253 | 2-3C992AB8 | STEAM_0:0:1522531543 | 8.4 | GL | 5.1.2600x86
+L 06/13/2015 - 22:10:32: [ucp.amxx] Login: Slack***. | 10.57.37.254 | 3-3CFB77EA | STEAM_0:0:1804227833 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 22:10:32: [ucp.amxx] Login: shooter.FTW! x] | 111.88.56.249 | 3-BCF3841E | STEAM_0:0:1124653470 | 8.4 | GL | 6.1.7601x64
+L 06/13/2015 - 22:10:32: [ucp.amxx] Login: MarcXOS | 10.35.33.228 | 3-C4E8FC60 | STEAM_0:0:1479146506 | 8.4 | GL | 6.1.7600x64
+L 06/13/2015 - 22:10:32: [ucp.amxx] Login: alvinnnnnn, | 10.11.61.227 | 2-23F32146 | STEAM_0:0:335001800 | 8.4 | GL | 5.1.2600x86

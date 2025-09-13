@@ -1,0 +1,4 @@
+Place these skybox files in your cstrike-gfx-env folder
+
+And of course place the .bsp map file in your cstrike-maps folder
+

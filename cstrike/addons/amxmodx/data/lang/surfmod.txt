@@ -1,0 +1,56 @@
+[en]
+CFG_ERROR = Surf Mod config - %s not found!
+CFG_EXEC = Executing SurfMod config -  %s
+HELP_MESS = !g%s!t Type!g /surfhelp!t to learn how to surf and to see other commands.
+RES_TEAM = !g%s!t You must be on a team to respawn.
+RES_COM = !g%s!t Sorry, Respawn command is currently disabled.
+RES_DIS = !g%s!t Sorry, Respawning is currently disabled.
+RESPAWN = !g%s!t You have been respawned.
+PROT_OFF = Spawn Protection expired
+PROT_ON = Spawn Protection expires in %d second%s
+TIMER_MENU_TITLE = \rSurfMod\w Timer Menu^n
+TIMER_MENU_START = ^n\r1.\w Star Timer
+TIMER_MENU_RESTART = ^n\r1.\w Restar Timer
+TIMER_MENU_PAUSE = ^n\r2.\w Pause Timer
+TIMER_MENU_UNPAUSE = ^n\r2. Unpause Timer
+TIMER_MENU_STOP = ^n\r3.\w Stop Timer
+TIMER_MENU_EXIT = ^n^n^n\r0.\w Exit
+TIMER_HUD = SurfMod Timer : %s%d:%s%d:%s%d
+
+[bg]
+CFG_ERROR = Konfiguracionniq file na SurfMod - %s ne e nameren!
+CFG_EXEC = Otvarqne na konfiguracionniq fail na SurfMod -  %s
+HELP_MESS = !g%s!t Napishete!g /surfhelp!t za da se nauchite kak se surfira i koi sa ostanalite komandi.
+RES_TEAM = !g%s!t Trqbva da ste v otbor za da budete Respawn-at.
+RES_COM = !g%s!t Sujalqvame, no Respawn komandata e sprqna.
+RES_DIS = !g%s!t Sujalqvame, no Respawn-vanteo e izklucheno.
+RESPAWN = !g%s!t Vie bqhte respawn-ut.
+PROT_OFF = Spawn Protection expired
+PROT_ON = Spawn Protection expires in %d second%s
+TIMER_MENU_TITLE = \wTaimer Menu na \rSurfMod^n
+TIMER_MENU_START = ^n\r1.\w Startirai Taimera
+TIMER_MENU_RESTART = ^n\r1.\w Restartirai Taimera
+TIMER_MENU_PAUSE = ^n\r2.\w Pausa Na Taimera
+TIMER_MENU_UNPAUSE = ^n\r2. Unpausa na Taimera
+TIMER_MENU_STOP = ^n\r3.\w Spri Taimera
+TIMER_MENU_EXIT = ^n^n^n\r0.\w Izhod
+TIMER_HUD = SurfMod Taimer : %s%d:%s%d:%s%d
+
+[es]
+CFG_ERROR = Surf Mod config - %s no existe!
+CFG_EXEC = Ejecutando SurfMod config. -  %s
+HELP_MESS = !g%s!t Escribe!g /surfhelp!t para aprender a surfear y ver otros comandos.
+RES_TEAM = !g%s!t Necesitas estar en un equipo para revivir.
+RES_COM = !g%s!t Disculpe, el comando respawn esta desactivado.
+RES_DIS = !g%s!t Disculpe, el respawn esta actualmente desactivado.
+RESPAWN = !g%s!t Has sido revivido.
+PROT_OFF = Su proteccion acabo.
+PROT_ON = Su proteccion acabara en %d segundo%s
+TIMER_MENU_TITLE = \rSurfMod\w Menu de tiempo^n
+TIMER_MENU_START = ^n\r1.\w Comenzar
+TIMER_MENU_RESTART = ^n\r1.\w Reiniciar
+TIMER_MENU_PAUSE = ^n\r2.\w Pausar
+TIMER_MENU_UNPAUSE = ^n\r2. Despausar
+TIMER_MENU_STOP = ^n\r3.\w Parar
+TIMER_MENU_EXIT = ^n^n^n\r0.\w Salir
+TIMER_HUD = SurfMod Tiempo : %s%d:%s%d:%s%d

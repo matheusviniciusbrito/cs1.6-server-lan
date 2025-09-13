@@ -1,0 +1,14 @@
+<html>
+<font color=#ffffff>
+<body bgcolor=#000000>
+<center><B>Surf Mod Help</center></B>
+<pre>To surf, jump or walk on to one of the curved walls (hereby referted to as 'ramps'). Then simply hold strafe (Default are the <i>A</i> and <i>D</i> keys). This will cause you to glide along the walls, or &quot;surf&quot;.</pre>
+<pre>While surfing, never press up, down, or crouch; pressing those will cause you to slide off the wall and fall, which, in most surf maps, will cause you to get sent back to your spawn.</pre>
+<pre>To change direction (in order to make it to the next ramp), press the button for the direction you wish to go before flying off of your current ramp.</pre>
+<pre>Maps with water surfaces, allow you to skee across them, while holding <i>duck+jump</i> key together.</pre>
+<pre>Surfing takes practice, so don't be discouraged if you don't get it right the first time.</pre>
+<center>Commands:
+<center>say/respawn    to respawn you
+<center>say /surftimer    to open timer menu
+<center><B>Powered by Craze Gamer Hosting</center></B>
+</html>

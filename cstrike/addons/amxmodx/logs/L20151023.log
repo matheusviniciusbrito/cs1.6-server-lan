@@ -1,0 +1,767 @@
+L 10/23/2015 - 00:02:01: [ucp.amxx] Login NO-UCP: <WK | Cooni> <182.182.32.209> <STEAM_0:1:7119754>
+L 10/23/2015 - 00:21:57: [ucp.amxx] Login: LEO -N- | 119.73.46.56 | 3-F81C2344 | STEAM_0:0:32964424 | 6.1.7600x86
+L 10/23/2015 - 00:22:03: [admin.amxx] Login: "- K1cK </3 dAB444444P<910><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 00:22:03: [admin_sql.amxx] Login: "- K1cK </3 dAB444444P<910><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 00:22:03: [ucp.amxx] Login: - K1cK </3 dAB444444P | 182.185.158.103 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 00:22:07: [ucp.amxx] Login: BAkriii | 182.178.130.166 | 3-0758D827 | STEAM_0:0:1722650067 | 6.1.7600x86
+L 10/23/2015 - 00:22:10: [ucp.amxx] Login: koda | 115.186.102.137 | 3-E8A4D2F0 | STEAM_0:0:1925162372 | 6.1.7601x86
+L 10/23/2015 - 00:22:13: [ucp.amxx] Login: cAuTioN | 45.114.120.49 | 3-BBB67B84 | STEAM_0:0:719887926 | 1.0.1024x64
+L 10/23/2015 - 00:22:20: [admincmd.amxx] Cmd: "- K1cK </3 dAB444444P<910><STEAM_0:0:1289373049><>" set cvar (name "sv_password") (value "55")
+L 10/23/2015 - 00:22:39: [admin.amxx] Login: "karrigEEEn -,-<914><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijklmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 00:22:39: [admin_sql.amxx] Login: "karrigEEEn -,-<914><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijklmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 00:22:39: [ucp.amxx] Login: karrigEEEn -,- | 10.1.13.2 | 3-664E2E12 | STEAM_0:0:308387593 | 6.1.7600x64
+L 10/23/2015 - 00:22:43: [ucp.amxx] Login: mousesports | _]'WilshereixwOw# | 10.75.49.103 | 3-F41FD0BA | STEAM_0:0:1383953493 | 6.1.7600x64
+L 10/23/2015 - 00:23:04: [ucp.amxx] Login: HaLaKoOoOoOoO | 182.185.245.46 | 3-34184A6D | STEAM_0:0:226062683 | 6.1.7600x64
+L 10/23/2015 - 00:23:25: [ucp.amxx] Login: J!N | 39.57.37.170 | 3-CCCF8AAD | STEAM_0:0:2083238811 | 6.1.7600x86
+L 10/23/2015 - 00:23:28: [mapsmenu.amxx] Cmd: "- K1cK </3 dAB444444P<910><STEAM_0:0:1289373049><>" changelevel "de_nuke"
+L 10/23/2015 - 00:23:30: -------- Mapchange to de_nuke --------
+L 10/23/2015 - 00:23:31: [admin.amxx] Login: "karrigEEEn -,-<914><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijklmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 00:23:31: [admin_sql.amxx] Login: "karrigEEEn -,-<914><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijklmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 00:23:31: [admin.amxx] Login: "- K1cK </3 dAB444444P<910><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 00:23:31: [admin_sql.amxx] Login: "- K1cK </3 dAB444444P<910><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 00:23:31: [ucp.amxx] Login: cAuTioN | 45.114.120.49 | 3-BBB67B84 | STEAM_0:0:719887926 | 1.0.1024x64
+L 10/23/2015 - 00:23:31: [ucp.amxx] Login: koda | 115.186.102.137 | 3-E8A4D2F0 | STEAM_0:0:1925162372 | 6.1.7601x86
+L 10/23/2015 - 00:23:31: [ucp.amxx] Login: karrigEEEn -,- | 10.1.13.2 | 3-664E2E12 | STEAM_0:0:308387593 | 6.1.7600x64
+L 10/23/2015 - 00:23:31: [ucp.amxx] Login: mousesports | _]'WilshereixwOw# | 10.75.49.103 | 3-F41FD0BA | STEAM_0:0:1383953493 | 6.1.7600x64
+L 10/23/2015 - 00:23:31: [ucp.amxx] Login: J!N | 39.57.37.170 | 3-CCCF8AAD | STEAM_0:0:2083238811 | 6.1.7600x86
+L 10/23/2015 - 00:23:31: [ucp.amxx] Login: - K1cK </3 dAB444444P | 182.185.158.103 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 00:23:31: [ucp.amxx] Login: BAkriii | 182.178.130.166 | 3-0758D827 | STEAM_0:0:1722650067 | 6.1.7600x86
+L 10/23/2015 - 00:23:31: [ucp.amxx] Login: HaLaKoOoOoOoO | 182.185.245.46 | 3-34184A6D | STEAM_0:0:226062683 | 6.1.7600x64
+L 10/23/2015 - 00:23:31: [ucp.amxx] Login: LEO -N- | 119.73.46.56 | 3-F81C2344 | STEAM_0:0:32964424 | 6.1.7600x86
+L 10/23/2015 - 00:24:19: [admin.amxx] Login: "karrigan <3 TB<914><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijklmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 00:24:19: [admin_sql.amxx] Login: "karrigan <3 TB<914><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijklmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 00:25:46: [admincmd.amxx] Cmd: "karrigan <3 TB<914><STEAM_0:0:308387593><>" execute cfg (file "match.cfg")
+L 10/23/2015 - 00:25:50: [adminchat.amxx] Chat: "karrigan <3 TB<914><STEAM_0:0:308387593><>" tsay "last?"
+L 10/23/2015 - 00:27:01: [admin.amxx] Login: "karrigan <3 TB<918><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijklmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 00:27:01: [admin_sql.amxx] Login: "karrigan <3 TB<918><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijklmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 00:27:01: [ucp.amxx] Login: karrigan <3 TB | 10.1.13.2 | 3-664E2E12 | STEAM_0:0:308387593 | 6.1.7600x64
+L 10/23/2015 - 00:27:19: [admin.amxx] Login: "karrigan <3 TB<919><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijklmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 00:27:19: [admin_sql.amxx] Login: "karrigan <3 TB<919><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijklmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 00:27:19: [ucp.amxx] Login: karrigan <3 TB | 10.1.13.2 | 3-664E2E12 | STEAM_0:0:308387593 | 6.1.7600x64
+L 10/23/2015 - 00:27:27: [adminchat.amxx] Chat: "karrigan <3 TB<919><STEAM_0:0:308387593><>" tsay "Pg band ?"
+L 10/23/2015 - 00:27:33: [adminchat.amxx] Chat: "karrigan <3 TB<919><STEAM_0:0:308387593><>" tsay "??"
+L 10/23/2015 - 00:27:52: [admincmd.amxx] Cmd: "karrigan <3 TB<919><STEAM_0:0:308387593><>" set cvar (name "sv_restart") (value "1")
+L 10/23/2015 - 00:28:19: [adminchat.amxx] Chat: "karrigan <3 TB<919><STEAM_0:0:308387593><>" chat "pg ?"
+L 10/23/2015 - 00:28:22: [adminchat.amxx] Chat: "karrigan <3 TB<919><STEAM_0:0:308387593><>" tsay "pG?"
+L 10/23/2015 - 00:28:35: [adminchat.amxx] Chat: "karrigan <3 TB<919><STEAM_0:0:308387593><>" tsay ":D"
+L 10/23/2015 - 00:28:38: [adminchat.amxx] Chat: "karrigan <3 TB<919><STEAM_0:0:308387593><>" tsay "w8"
+L 10/23/2015 - 00:29:22: [ucp.amxx] Login: M M4x K^ | 182.183.232.105 | 3-8B157D39 | STEAM_0:0:135690169 | 6.1.7600x86
+L 10/23/2015 - 00:29:40: [admin.amxx] Login: "benQ<921><STEAM_0:0:1621394275><>" kicked due to invalid password (account "STEAM_0:0:1621394275") (address "182.178.138.138")
+L 10/23/2015 - 00:29:40: [admin_sql.amxx] Login: "benQ<921><STEAM_0:0:1621394275><>" kicked due to invalid password (account "STEAM_0:0:1621394275") (address "182.178.138.138")
+L 10/23/2015 - 00:29:40: [ucp.amxx] Login: benQ | 182.178.138.138 | 2-DBB5ED98 | STEAM_0:0:1621394275 | 5.1.2600x86
+L 10/23/2015 - 00:29:57: [admin.amxx] Login: "benQ<922><STEAM_0:0:1621394275><>" became an admin (account "STEAM_0:0:1621394275") (access "bcdefghiklmnopqrstu") (address "182.178.138.138")
+L 10/23/2015 - 00:29:57: [admin_sql.amxx] Login: "benQ<922><STEAM_0:0:1621394275><>" became an admin (account "STEAM_0:0:1621394275") (access "bcdefghiklmnopqrstu") (address "182.178.138.138")
+L 10/23/2015 - 00:29:57: [ucp.amxx] Login: benQ | 182.178.138.138 | 2-DBB5ED98 | STEAM_0:0:1621394275 | 5.1.2600x86
+L 10/23/2015 - 00:30:12: [adminchat.amxx] Chat: "karrigan <3 TB<919><STEAM_0:0:308387593><>" tsay "TS3 ni chal raha :/ :/"
+L 10/23/2015 - 00:30:16: [adminchat.amxx] Chat: "karrigan <3 TB<919><STEAM_0:0:308387593><>" tsay "ajeeb"
+L 10/23/2015 - 00:30:20: [plmenu.amxx] Cmd: "- K1cK </3 dAB444444P<910><STEAM_0:0:1289373049><>" transfer "- K1cK </3 dAB444444P<910><STEAM_0:0:1289373049><>" (team "TERRORIST")
+L 10/23/2015 - 00:30:24: [adminchat.amxx] Chat: "karrigan <3 TB<919><STEAM_0:0:308387593><>" tsay "ni chal raha :/"
+L 10/23/2015 - 00:30:28: [admincmd.amxx] Cmd: "- K1cK </3 dAB444444P<910><STEAM_0:0:1289373049><>" set cvar (name "sv_restart") (value "1")
+L 10/23/2015 - 00:30:36: [adminchat.amxx] Chat: "karrigan <3 TB<919><STEAM_0:0:308387593><>" tsay "w8"
+L 10/23/2015 - 00:30:56: [admin.amxx] Login: "benQ<923><STEAM_0:0:1621394275><>" became an admin (account "STEAM_0:0:1621394275") (access "bcdefghiklmnopqrstu") (address "182.178.138.138")
+L 10/23/2015 - 00:30:56: [admin_sql.amxx] Login: "benQ<923><STEAM_0:0:1621394275><>" became an admin (account "STEAM_0:0:1621394275") (access "bcdefghiklmnopqrstu") (address "182.178.138.138")
+L 10/23/2015 - 00:30:58: [admin.amxx] Login: "benQ<924><STEAM_0:0:1621394275><>" became an admin (account "STEAM_0:0:1621394275") (access "bcdefghiklmnopqrstu") (address "182.178.138.138")
+L 10/23/2015 - 00:30:58: [admin_sql.amxx] Login: "benQ<924><STEAM_0:0:1621394275><>" became an admin (account "STEAM_0:0:1621394275") (access "bcdefghiklmnopqrstu") (address "182.178.138.138")
+L 10/23/2015 - 00:30:58: [ucp.amxx] Login: benQ | 182.178.138.138 | 2-DBB5ED98 | STEAM_0:0:1621394275 | 5.1.2600x86
+L 10/23/2015 - 00:31:29: [admincmd.amxx] Cmd: "- K1cK </3 dAB444444P<910><STEAM_0:0:1289373049><>" set cvar (name "sv_restart") (value "1")
+L 10/23/2015 - 00:31:30: [admincmd.amxx] Cmd: "- K1cK </3 dAB444444P<910><STEAM_0:0:1289373049><>" set cvar (name "sv_restart") (value "1")
+L 10/23/2015 - 00:31:32: [adminchat.amxx] Chat: "- K1cK </3 dAB444444P<910><STEAM_0:0:1289373049><>" tsay "Live"
+L 10/23/2015 - 00:31:49: [adminchat.amxx] Chat: "karrigan <3 TB<919><STEAM_0:0:308387593><>" tsay "NET BAND HOGAYA :D"
+L 10/23/2015 - 00:31:53: [adminchat.amxx] Chat: "karrigan <3 TB<919><STEAM_0:0:308387593><>" tsay "FARIYA"
+L 10/23/2015 - 00:32:19: [adminchat.amxx] Chat: "karrigan <3 TB<919><STEAM_0:0:308387593><>" tsay "HAHAHAHHAHAHA"
+L 10/23/2015 - 00:32:31: [ucp.amxx] Login: YahOOOoOo | 10.28.36.247 | 3-1CE38A4A | STEAM_0:0:713645810 | 6.1.7601x86
+L 10/23/2015 - 00:32:43: [adminchat.amxx] Chat: "- K1cK </3 dAB444444P<910><STEAM_0:0:1289373049><>" tsay "last apka?"
+L 10/23/2015 - 00:32:49: [adminchat.amxx] Chat: "karrigan <3 TB<919><STEAM_0:0:308387593><>" tsay "NET BAND HOGAYA HAI MERAAA :@@@"
+L 10/23/2015 - 00:33:51: [adminchat.amxx] Chat: "karrigan <3 TB<919><STEAM_0:0:308387593><>" tsay "NET BAND :/"
+L 10/23/2015 - 00:33:53: [adminchat.amxx] Chat: "karrigan <3 TB<919><STEAM_0:0:308387593><>" tsay ""
+L 10/23/2015 - 00:33:56: [adminchat.amxx] Chat: "karrigan <3 TB<919><STEAM_0:0:308387593><>" tsay "NET :/"
+L 10/23/2015 - 00:34:00: [adminchat.amxx] Chat: "karrigan <3 TB<919><STEAM_0:0:308387593><>" tsay "BAND HGYAYA:/"
+L 10/23/2015 - 00:34:07: [plmenu.amxx] Cmd: "karrigan <3 TB<919><STEAM_0:0:308387593><>" slay "BAkriii<911><STEAM_0:0:1722650067><>"
+L 10/23/2015 - 00:34:14: [plmenu.amxx] Cmd: "karrigan <3 TB<919><STEAM_0:0:308387593><>" slay "HaLaKoOoOoOoO<916><STEAM_0:0:226062683><>"
+L 10/23/2015 - 00:34:18: [adminchat.amxx] Chat: "karrigan <3 TB<919><STEAM_0:0:308387593><>" tsay "GG"
+L 10/23/2015 - 00:34:20: [adminchat.amxx] Chat: "karrigan <3 TB<919><STEAM_0:0:308387593><>" tsay ":D"
+L 10/23/2015 - 00:34:35: [admin.amxx] Login: "karrigan <3 TB<926><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijklmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 00:34:35: [admin_sql.amxx] Login: "karrigan <3 TB<926><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijklmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 00:34:35: [ucp.amxx] Login: karrigan <3 TB | 10.1.13.2 | 3-664E2E12 | STEAM_0:0:308387593 | 6.1.7600x64
+L 10/23/2015 - 00:34:38: [ucp.amxx] Login: mousesports | _]'WilshereixwOw# | 10.75.49.103 | 3-F41FD0BA | STEAM_0:0:1383953493 | 6.1.7600x64
+L 10/23/2015 - 00:34:43: [ucp.amxx] Login: M M4x K^ | 182.183.232.105 | 3-8B157D39 | STEAM_0:0:135690169 | 6.1.7600x86
+L 10/23/2015 - 00:35:06: [ucp.amxx] Login: J!N | 39.57.110.241 | 3-CCCF8AAD | STEAM_0:0:2083238811 | 6.1.7600x86
+L 10/23/2015 - 00:36:23: [ucp.amxx] Login: M M4x K^ | 182.183.232.105 | 3-8B157D39 | STEAM_0:0:135690169 | 6.1.7600x86
+L 10/23/2015 - 00:36:31: [ucp.amxx] Login: HaLaKoOoOoOoO | 182.185.245.46 | 3-34184A6D | STEAM_0:0:226062683 | 6.1.7600x64
+L 10/23/2015 - 00:37:06: [admincmd.amxx] Cmd: "- K1cK </3 dAB444444P<910><STEAM_0:0:1289373049><>" set cvar (name "sv_restart") (value "1")
+L 10/23/2015 - 00:37:16: [ucp.amxx] Login: ASSULTERKiNG'~ | 10.1.12.246 | 3-497E48B0 | STEAM_0:0:939991394 | 6.1.7601x86
+L 10/23/2015 - 00:37:53: [admincmd.amxx] Cmd: "- K1cK </3 dAB444444P<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 00:37:54: [admincmd.amxx] Cmd: "- K1cK </3 dAB444444P<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 00:37:56: [adminchat.amxx] Chat: "- K1cK </3 dAB444444P<910><STEAM_0:0:1289373049><>" tsay "live"
+L 10/23/2015 - 00:43:35: [admin.amxx] Login: "LH-Player<931><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "182.187.1.126")
+L 10/23/2015 - 00:43:35: [admin_sql.amxx] Login: "LH-Player<931><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "182.187.1.126")
+L 10/23/2015 - 00:43:36: [ucp.amxx] Login: LH-Player | 182.187.1.126 | 3-FE919A9D | STEAM_0:0:1297320269 | 6.1.7600x86
+L 10/23/2015 - 00:45:19: [ucp.amxx] Login: D3XT3R | 39.34.42.240 | 3-54B6DE53 | STEAM_0:0:925756062 | 6.1.7601x64
+L 10/23/2015 - 00:46:12: [adminchat.amxx] Chat: "- K1cK </3 dAB444444P<910><STEAM_0:0:1289373049><>" chat " idniaa pelha sy sp ache hogye"
+L 10/23/2015 - 00:46:16: [adminchat.amxx] Chat: "- K1cK </3 dAB444444P<910><STEAM_0:0:1289373049><>" chat " mari ?"
+L 10/23/2015 - 00:46:59: [admincmd.amxx] Cmd: "LH-Player<931><STEAM_0:0:1297320269><>" set cvar (name "sv_password") (value "12")
+L 10/23/2015 - 00:47:01: [admincmd.amxx] Cmd: "LH-Player<931><STEAM_0:0:1297320269><>" set cvar (name "sv_password") (value "122")
+L 10/23/2015 - 00:47:17: [admincmd.amxx] Kick: "LH-Player<931><STEAM_0:0:1297320269><>" leave some group (tag1 "all") (tag2 "") (tag3 "") (tag4 "")
+L 10/23/2015 - 00:47:21: [ucp.amxx] Login: ASSULTERKiNG'~ | 10.1.12.246 | 3-497E48B0 | STEAM_0:0:939991394 | 6.1.7601x86
+L 10/23/2015 - 00:47:27: [ucp.amxx] Login: mousesports | _]'WilshereixwOw# | 10.75.49.103 | 3-F41FD0BA | STEAM_0:0:1383953493 | 6.1.7600x64
+L 10/23/2015 - 00:47:27: [ucp.amxx] Login: M M4x K^ | 182.183.232.105 | 3-8B157D39 | STEAM_0:0:135690169 | 6.1.7600x86
+L 10/23/2015 - 00:47:29: [admin.amxx] Login: "LH-Player<936><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "182.187.1.126")
+L 10/23/2015 - 00:47:29: [admin_sql.amxx] Login: "LH-Player<936><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "182.187.1.126")
+L 10/23/2015 - 00:47:29: [ucp.amxx] Login: LH-Player | 182.187.1.126 | 3-FE919A9D | STEAM_0:0:1297320269 | 6.1.7600x86
+L 10/23/2015 - 00:47:44: [ucp.amxx] Login: |T-3D| Multi Player --;-- | 182.183.154.122 | 3-DB32069F | STEAM_0:0:202573418 | 6.1.7601x86
+L 10/23/2015 - 00:47:58: [ucp.amxx] Login: anv1k | 182.182.35.3 | 4-34202F33 | STEAM_0:0:208885493 | 6.1.7601x86
+L 10/23/2015 - 00:48:02: [admincmd.amxx] Cmd: "LH-Player<936><STEAM_0:0:1297320269><>" changelevel "de_dust2"
+L 10/23/2015 - 00:48:05: -------- Mapchange to de_dust2 --------
+L 10/23/2015 - 00:48:05: [admin.amxx] Login: "LH-Player<936><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "182.187.1.126")
+L 10/23/2015 - 00:48:05: [admin_sql.amxx] Login: "LH-Player<936><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "182.187.1.126")
+L 10/23/2015 - 00:48:05: [admin.amxx] Login: "- K1cK </3 dAB444444P<910><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 00:48:05: [admin_sql.amxx] Login: "- K1cK </3 dAB444444P<910><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 00:48:05: [ucp.amxx] Login: |T-3D| Multi Player --;-- | 182.183.154.122 | 3-DB32069F | STEAM_0:0:202573418 | 6.1.7601x86
+L 10/23/2015 - 00:48:05: [ucp.amxx] Login: anv1k | 182.182.35.3 | 4-34202F33 | STEAM_0:0:208885493 | 6.1.7601x86
+L 10/23/2015 - 00:48:05: [ucp.amxx] Login: mousesports | _]'WilshereixwOw# | 10.75.49.103 | 3-F41FD0BA | STEAM_0:0:1383953493 | 6.1.7600x64
+L 10/23/2015 - 00:48:05: [ucp.amxx] Login: ASSULTERKiNG'~ | 10.1.12.246 | 3-497E48B0 | STEAM_0:0:939991394 | 6.1.7601x86
+L 10/23/2015 - 00:48:06: [ucp.amxx] Login: M M4x K^ | 182.183.232.105 | 3-8B157D39 | STEAM_0:0:135690169 | 6.1.7600x86
+L 10/23/2015 - 00:48:06: [ucp.amxx] Login: LH-Player | 182.187.1.126 | 3-FE919A9D | STEAM_0:0:1297320269 | 6.1.7600x86
+L 10/23/2015 - 00:48:06: [ucp.amxx] Login: - K1cK </3 dAB444444P | 182.185.158.103 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 00:48:09: [ucp.amxx] Login: J | 39.55.148.241 | 3-60F4BD98 | STEAM_0:0:1336103164 | 6.1.7601x64
+L 10/23/2015 - 00:48:51: [admin.amxx] Login: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 00:48:51: [admin_sql.amxx] Login: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 00:49:38: [admin.amxx] Login: "MouseSportz. Player<936><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "182.187.1.126")
+L 10/23/2015 - 00:49:38: [admin_sql.amxx] Login: "MouseSportz. Player<936><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "182.187.1.126")
+L 10/23/2015 - 00:49:45: [ucp.amxx] Login: [A][t][e][e]. | 182.183.248.142 | 3-B6EBFD14 | STEAM_0:0:1429263786 | 6.1.7601x64
+L 10/23/2015 - 00:51:29: [admincmd.amxx] Cmd: "MouseSportz. Player<936><STEAM_0:0:1297320269><>" set cvar (name "sv_restart") (value "1")
+L 10/23/2015 - 00:51:58: [admincmd.amxx] Cmd: "MouseSportz. Player<936><STEAM_0:0:1297320269><>" set cvar (name "sv_restart") (value "1")
+L 10/23/2015 - 00:52:11: [admin.amxx] Login: "MouseSportz.Player<936><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "182.187.1.126")
+L 10/23/2015 - 00:52:11: [admin_sql.amxx] Login: "MouseSportz.Player<936><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "182.187.1.126")
+L 10/23/2015 - 00:53:20: [ucp.amxx] Login: $4BASH ^.- | 182.182.57.207 | 3-AF4B3105 | STEAM_0:0:433706251 | 6.1.7601x64
+L 10/23/2015 - 00:54:55: [ucp.amxx] Login: BROOOOoooo | 10.30.25.82 | 2-90282D50 | STEAM_0:0:282617373 | 5.1.2600x86
+L 10/23/2015 - 00:55:43: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 00:55:59: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 00:56:03: [adminchat.amxx] Chat: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" tsay "tag kro baba?"
+L 10/23/2015 - 00:56:10: [adminchat.amxx] Chat: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" tsay "Tag ka bola tha :D"
+L 10/23/2015 - 00:56:48: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 00:57:29: [admincmd.amxx] Cmd: "MouseSportz.Player<936><STEAM_0:0:1297320269><>" set cvar (name "sv_restart") (value "1")
+L 10/23/2015 - 00:58:00: [admincmd.amxx] Cmd: "MouseSportz.Player<936><STEAM_0:0:1297320269><>" set cvar (name "sv_restart") (value "1")
+L 10/23/2015 - 00:58:08: [adminchat.amxx] Chat: "MouseSportz.Player<936><STEAM_0:0:1297320269><>" tsay "livee"
+L 10/23/2015 - 01:05:04: [ucp.amxx] Login: anv1k | 182.182.35.3 | 4-34202F33 | STEAM_0:0:208885493 | 6.1.7601x86
+L 10/23/2015 - 01:08:20: [admin.amxx] Login: "MouseSportz.PlayerinDIAAAA<936><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "182.187.1.126")
+L 10/23/2015 - 01:08:20: [admin_sql.amxx] Login: "MouseSportz.PlayerinDIAAAA<936><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "182.187.1.126")
+L 10/23/2015 - 01:13:30: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 01:13:33: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 01:13:34: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 01:13:36: [adminchat.amxx] Chat: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" tsay "Live"
+L 10/23/2015 - 01:13:36: [ucp.amxx] Login: . | 182.183.248.142 | 3-B6EBFD14 | STEAM_0:0:1429263786 | 6.1.7601x64
+L 10/23/2015 - 01:13:53: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 01:13:54: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 01:13:57: [adminchat.amxx] Chat: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" tsay "Live no rl"
+L 10/23/2015 - 01:16:54: [ucp.amxx] Login: keeerA | 10.76.60.223 | 3-AC964555 | STEAM_0:0:479137095 | 6.1.7601x64
+L 10/23/2015 - 01:19:13: [adminchat.amxx] Chat: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" tsay "ahaahaah"
+L 10/23/2015 - 01:19:54: [ucp.amxx] Login: MouseSportz. BROOOooo | 10.30.25.82 | 2-90282D50 | STEAM_0:0:282617373 | 5.1.2600x86
+L 10/23/2015 - 01:20:11: [ucp.amxx] Login: |T-3D| Multi Player --;-- | 182.183.154.122 | 3-DB32069F | STEAM_0:0:202573418 | 6.1.7601x86
+L 10/23/2015 - 01:26:32: [adminchat.amxx] Chat: "MouseSportz.PlayerinDIAAAA<936><STEAM_0:0:1297320269><>" tsay "nexr"
+L 10/23/2015 - 01:26:34: [adminchat.amxx] Chat: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" tsay "GG"
+L 10/23/2015 - 01:26:36: [adminchat.amxx] Chat: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" tsay "nexT?"
+L 10/23/2015 - 01:26:44: [admincmd.amxx] Cmd: "MouseSportz.PlayerinDIAAAA<936><STEAM_0:0:1297320269><>" changelevel "de_nuke"
+L 10/23/2015 - 01:26:46: -------- Mapchange to de_nuke --------
+L 10/23/2015 - 01:26:47: [admin.amxx] Login: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 01:26:47: [admin_sql.amxx] Login: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 01:26:47: [admin.amxx] Login: "MouseSportz.PlayerinDIAAAA<936><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "182.187.1.126")
+L 10/23/2015 - 01:26:47: [admin_sql.amxx] Login: "MouseSportz.PlayerinDIAAAA<936><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "182.187.1.126")
+L 10/23/2015 - 01:26:47: [ucp.amxx] Login: keeerA | 10.76.60.223 | 3-AC964555 | STEAM_0:0:479137095 | 6.1.7601x64
+L 10/23/2015 - 01:26:47: [ucp.amxx] Login: MouseSportz.J'WilshereixwOw# | 10.75.49.103 | 3-F41FD0BA | STEAM_0:0:1383953493 | 6.1.7600x64
+L 10/23/2015 - 01:26:47: [ucp.amxx] Login: . | 182.183.248.142 | 3-B6EBFD14 | STEAM_0:0:1429263786 | 6.1.7601x64
+L 10/23/2015 - 01:26:47: [ucp.amxx] Login: MouseSportz.K1cK </3 | 182.185.158.103 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 01:26:47: [ucp.amxx] Login: anv1k | 182.182.35.3 | 4-34202F33 | STEAM_0:0:208885493 | 6.1.7601x86
+L 10/23/2015 - 01:26:47: [ucp.amxx] Login: J | 39.55.148.241 | 3-60F4BD98 | STEAM_0:0:1336103164 | 6.1.7601x64
+L 10/23/2015 - 01:26:47: [ucp.amxx] Login: MouseSportz.PlayerinDIAAAA | 182.187.1.126 | 3-FE919A9D | STEAM_0:0:1297320269 | 6.1.7600x86
+L 10/23/2015 - 01:26:47: [ucp.amxx] Login: |T-3D| Multi Player --;-- | 182.183.154.122 | 3-DB32069F | STEAM_0:0:202573418 | 6.1.7601x86
+L 10/23/2015 - 01:26:47: [ucp.amxx] Login: $4BASH ^.- | 182.182.57.207 | 3-AF4B3105 | STEAM_0:0:433706251 | 6.1.7601x64
+L 10/23/2015 - 01:26:47: [ucp.amxx] Login: MouseSportz. BROOOooo | 10.30.25.82 | 2-90282D50 | STEAM_0:0:282617373 | 5.1.2600x86
+L 10/23/2015 - 01:26:47: [ucp.amxx] Login: MouseSportz. M M4x K^ | 182.183.232.105 | 3-8B157D39 | STEAM_0:0:135690169 | 6.1.7600x86
+L 10/23/2015 - 01:28:42: [adminchat.amxx] Chat: "MouseSportz.PlayerinDIAAAA<936><STEAM_0:0:1297320269><>" tsay "shot"
+L 10/23/2015 - 01:29:59: [admin.amxx] Login: "MouseSportz.sExyy!!!!<936><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "182.187.1.126")
+L 10/23/2015 - 01:29:59: [admin_sql.amxx] Login: "MouseSportz.sExyy!!!!<936><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "182.187.1.126")
+L 10/23/2015 - 01:30:01: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" transfer "MouseSportz. M M4x K^<935><STEAM_0:0:135690169><>" (team "CT")
+L 10/23/2015 - 01:30:14: [ucp.amxx] Login: gametracker.rs Player | 10.94.196.35 | 3-45E45D50 | STEAM_0:0:1262133750 | 6.1.7600x86
+L 10/23/2015 - 01:30:41: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 01:30:55: [plmenu.amxx] Kick: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" kick "keeerA<944><STEAM_0:0:479137095><>"
+L 10/23/2015 - 01:30:59: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_password") (value "112")
+L 10/23/2015 - 01:31:10: [admincmd.amxx] Cmd: "MouseSportz.sExyy!!!!<936><STEAM_0:0:1297320269><>" set cvar (name "sv_restart") (value "1")
+L 10/23/2015 - 01:31:26: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 01:31:27: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 01:31:29: [adminchat.amxx] Chat: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" tsay "Live"
+L 10/23/2015 - 01:31:40: [ucp.amxx] Login: keeerA | 10.76.60.223 | 3-AC964555 | STEAM_0:0:479137095 | 6.1.7601x64
+L 10/23/2015 - 01:42:39: [ucp.amxx] Login: Aloo KhayeGA | 10.75.49.103 | 3-F41FD0BA | STEAM_0:0:1383953493 | 6.1.7600x64
+L 10/23/2015 - 01:42:50: [admin.amxx] Login: ":<936><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "182.187.1.126")
+L 10/23/2015 - 01:42:50: [admin_sql.amxx] Login: ":<936><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "182.187.1.126")
+L 10/23/2015 - 01:44:14: [admin.amxx] Login: "Mr.Indiaaa<936><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "182.187.1.126")
+L 10/23/2015 - 01:44:14: [admin_sql.amxx] Login: "Mr.Indiaaa<936><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "182.187.1.126")
+L 10/23/2015 - 01:48:31: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 01:48:32: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 01:48:46: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 01:48:47: [adminchat.amxx] Chat: "Mr.Indiaaa<936><STEAM_0:0:1297320269><>" tsay "ma clash of clans khel rha tha tm mast hoo gay han :D"
+L 10/23/2015 - 01:59:13: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_password") (value "122")
+L 10/23/2015 - 01:59:17: [ucp.amxx] Login: empty | 39.55.96.162 | 3-1288D7A9 | STEAM_0:0:795973997 | 6.1.7601x64
+L 10/23/2015 - 02:02:00: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" changelevel "de_inferno"
+L 10/23/2015 - 02:02:02: -------- Mapchange to de_inferno --------
+L 10/23/2015 - 02:02:03: [admin.amxx] Login: "Mr.Indiaaa<936><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "182.187.1.126")
+L 10/23/2015 - 02:02:03: [admin_sql.amxx] Login: "Mr.Indiaaa<936><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "182.187.1.126")
+L 10/23/2015 - 02:02:03: [admin.amxx] Login: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 02:02:03: [admin_sql.amxx] Login: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 02:02:03: [ucp.amxx] Login: $4BASH ^.- | 182.182.57.207 | 3-AF4B3105 | STEAM_0:0:433706251 | 6.1.7601x64
+L 10/23/2015 - 02:02:03: [ucp.amxx] Login: gametracker.rs Player | 10.94.196.35 | 3-45E45D50 | STEAM_0:0:1262133750 | 6.1.7600x86
+L 10/23/2015 - 02:02:03: [ucp.amxx] Login: anv1k | 182.182.35.3 | 4-34202F33 | STEAM_0:0:208885493 | 6.1.7601x86
+L 10/23/2015 - 02:02:03: [ucp.amxx] Login: Aloo KhayeGA | 10.75.49.103 | 3-F41FD0BA | STEAM_0:0:1383953493 | 6.1.7600x64
+L 10/23/2015 - 02:02:03: [ucp.amxx] Login: |T-3D| Multi Player --;-- | 182.183.154.122 | 3-DB32069F | STEAM_0:0:202573418 | 6.1.7601x86
+L 10/23/2015 - 02:02:03: [ucp.amxx] Login: J | 39.55.148.241 | 3-60F4BD98 | STEAM_0:0:1336103164 | 6.1.7601x64
+L 10/23/2015 - 02:02:03: [ucp.amxx] Login: MouseSportz.K1cK </3 | 182.185.158.103 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 02:02:03: [ucp.amxx] Login: Mr.Indiaaa | 182.187.1.126 | 3-FE919A9D | STEAM_0:0:1297320269 | 6.1.7600x86
+L 10/23/2015 - 02:02:03: [ucp.amxx] Login: Ismael Zambada Garcia | 39.55.96.162 | 3-1288D7A9 | STEAM_0:0:795973997 | 6.1.7601x64
+L 10/23/2015 - 02:02:03: [ucp.amxx] Login: MouseSportz.BABA-|4D|4 | 10.30.25.82 | 2-90282D50 | STEAM_0:0:282617373 | 5.1.2600x86
+L 10/23/2015 - 02:03:36: [ucp.amxx] Login: MouseSportz._]'WilshereixwOw# | 10.75.49.103 | 3-F41FD0BA | STEAM_0:0:1383953493 | 6.1.7600x64
+L 10/23/2015 - 02:03:42: [ucp.amxx] Login: Sharab!!! | 39.42.103.221 | 2-429F97AA | STEAM_0:0:1008237891 | 5.1.2600x86
+L 10/23/2015 - 02:03:51: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 02:04:34: [ucp.amxx] Login: lolwa | 10.76.60.223 | 3-AC964555 | STEAM_0:0:479137095 | 6.1.7601x64
+L 10/23/2015 - 02:04:39: [ucp.amxx] Login: empty | 39.55.96.162 | 3-1288D7A9 | STEAM_0:0:795973997 | 6.1.7601x64
+L 10/23/2015 - 02:04:47: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 02:04:48: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 02:04:49: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 02:04:51: [adminchat.amxx] Chat: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" tsay "Live"
+L 10/23/2015 - 02:05:07: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 02:05:09: [adminchat.amxx] Chat: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" tsay "Live"
+L 10/23/2015 - 02:05:53: [ucp.amxx] Login: $4BASH ^.- | 182.182.57.207 | 3-AF4B3105 | STEAM_0:0:433706251 | 6.1.7601x64
+L 10/23/2015 - 02:06:06: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 02:06:08: [adminchat.amxx] Chat: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" tsay "Live"
+L 10/23/2015 - 02:06:09: [admincmd.amxx] Cmd: "Mr.Indiaaa<936><STEAM_0:0:1297320269><>" set cvar (name "sv_restart") (value "1")
+L 10/23/2015 - 02:16:57: [ucp.amxx] Login: |T-3D| Multi Player --;-- | 182.183.154.122 | 3-DB32069F | STEAM_0:0:202573418 | 6.1.7601x86
+L 10/23/2015 - 02:17:01: [ucp.amxx] Login: MouseSportz.BABA-|4D|4 | 10.30.25.82 | 2-90282D50 | STEAM_0:0:282617373 | 5.1.2600x86
+L 10/23/2015 - 02:19:04: [ucp.amxx] Login: GUJJARZ | 39.50.133.105 | 4-A0712A62 | STEAM_0:0:1939201260 | 6.1.7600x64
+L 10/23/2015 - 02:20:29: [adminchat.amxx] Chat: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" chat " 3 baja ayag"
+L 10/23/2015 - 02:22:39: [admin.amxx] Login: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 02:22:39: [admin_sql.amxx] Login: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 02:22:39: [ucp.amxx] Login: MouseSportz.K1cK </3 | 182.185.158.103 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 02:22:59: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 02:23:02: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 02:23:42: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 02:23:43: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 02:24:26: [ucp.amxx] Login: BROOOooo | 10.30.25.82 | 2-90282D50 | STEAM_0:0:282617373 | 5.1.2600x86
+L 10/23/2015 - 02:24:30: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 02:24:42: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 02:26:53: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" changelevel "de_tuscan"
+L 10/23/2015 - 02:26:55: -------- Mapchange to de_tuscan --------
+L 10/23/2015 - 02:26:56: [admin.amxx] Login: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 02:26:56: [admin_sql.amxx] Login: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 02:26:56: [ucp.amxx] Login: $4BASH ^.- | 182.182.57.207 | 3-AF4B3105 | STEAM_0:0:433706251 | 6.1.7601x64
+L 10/23/2015 - 02:26:56: [ucp.amxx] Login: lolwa | 10.76.60.223 | 3-AC964555 | STEAM_0:0:479137095 | 6.1.7601x64
+L 10/23/2015 - 02:26:56: [ucp.amxx] Login: gametracker.rs Player | 10.94.196.35 | 3-45E45D50 | STEAM_0:0:1262133750 | 6.1.7600x86
+L 10/23/2015 - 02:26:56: [ucp.amxx] Login: GUJJARZ | 39.50.133.105 | 4-A0712A62 | STEAM_0:0:1939201260 | 6.1.7600x64
+L 10/23/2015 - 02:26:56: [ucp.amxx] Login: empty | 39.55.96.162 | 3-1288D7A9 | STEAM_0:0:795973997 | 6.1.7601x64
+L 10/23/2015 - 02:26:56: [ucp.amxx] Login: MouseSportz.K1cK </3 | 182.185.158.103 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 02:26:56: [ucp.amxx] Login: J | 39.55.148.241 | 3-60F4BD98 | STEAM_0:0:1336103164 | 6.1.7601x64
+L 10/23/2015 - 02:26:56: [ucp.amxx] Login: |T-3D| Multi Player --;-- | 182.183.154.122 | 3-DB32069F | STEAM_0:0:202573418 | 6.1.7601x86
+L 10/23/2015 - 02:26:56: [ucp.amxx] Login: BROOOooo | 10.30.25.82 | 2-90282D50 | STEAM_0:0:282617373 | 5.1.2600x86
+L 10/23/2015 - 02:26:56: [ucp.amxx] Login: Sharab!!! | 39.42.103.221 | 2-429F97AA | STEAM_0:0:1008237891 | 5.1.2600x86
+L 10/23/2015 - 02:27:27: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 02:27:27: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 02:27:27: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 02:27:28: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 02:27:28: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 02:27:36: [ucp.amxx] Login: ASSULTERKiNG'~ | 10.1.12.246 | 3-497E48B0 | STEAM_0:0:939991394 | 6.1.7601x86
+L 10/23/2015 - 02:28:15: [ucp.amxx] Login: J | 39.55.148.241 | 3-60F4BD98 | STEAM_0:0:1336103164 | 6.1.7601x64
+L 10/23/2015 - 02:28:51: [ucp.amxx] Login: Sharab!!! | 39.42.103.221 | 2-429F97AA | STEAM_0:0:1008237891 | 5.1.2600x86
+L 10/23/2015 - 02:41:07: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" execute cfg (file "server.cfg")
+L 10/23/2015 - 02:41:12: [mapsmenu.amxx] Cmd: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" changelevel "de_dust2_long_short"
+L 10/23/2015 - 02:41:14: -------- Mapchange to de_dust2_long_short --------
+L 10/23/2015 - 02:41:14: [admin.amxx] Login: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 02:41:14: [admin_sql.amxx] Login: "MouseSportz.K1cK </3<910><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 02:41:15: [ucp.amxx] Login: ASSULTERKiNG'~ | 10.1.12.246 | 3-497E48B0 | STEAM_0:0:939991394 | 6.1.7601x86
+L 10/23/2015 - 02:41:15: [ucp.amxx] Login: MouseSportz.K1cK </3 | 182.185.158.103 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 03:05:22: [ucp.amxx] Login: KODA | 115.186.101.212 | 3-E8A4D2F0 | STEAM_0:0:1925162372 | 6.1.7601x86
+L 10/23/2015 - 03:21:13: [ucp.amxx] Login: :3 | 39.48.60.90 | 3-C90AD2C7 | STEAM_0:0:76380928 | 6.1.7601x64
+L 10/23/2015 - 03:21:14: [ucp.amxx] Login: :3 | 39.48.60.90 | 3-C90AD2C7 | STEAM_0:0:76380928 | 6.1.7601x64
+L 10/23/2015 - 04:07:04: [admin.amxx] Login: "MouseSportz.K1cK </3<966><STEAM_0:0:1289373049><>" kicked due to invalid password (account "STEAM_0:0:1289373049") (address "182.185.158.103")
+L 10/23/2015 - 04:07:04: [admin_sql.amxx] Login: "MouseSportz.K1cK </3<966><STEAM_0:0:1289373049><>" kicked due to invalid password (account "STEAM_0:0:1289373049") (address "182.185.158.103")
+L 10/23/2015 - 04:07:04: [ucp.amxx] Login: MouseSportz.K1cK </3 | 182.185.158.103 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 04:07:28: [admin.amxx] Login: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 04:07:28: [admin_sql.amxx] Login: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 04:07:28: [ucp.amxx] Login: MouseSportz.K1cK </3 | 182.185.158.103 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 04:08:23: [ucp.amxx] Login: [M]r. NorP* (Bad Boy) | 182.185.140.202 | 3-4B04F1C2 | STEAM_0:0:1387718898 | 6.1.7600x64
+L 10/23/2015 - 04:08:47: [ucp.amxx] Login: AB dudE ;) | 182.182.123.102 | 3-011D261B | STEAM_0:0:1945667478 | 6.1.7600x64
+L 10/23/2015 - 04:09:02: [ucp.amxx] Login: XBOX | 39.42.4.138 | 2-B5BCE733 | STEAM_0:0:903824228 | 5.1.2600x86
+L 10/23/2015 - 04:10:23: [mapsmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" changelevel "awp_india"
+L 10/23/2015 - 04:10:25: -------- Mapchange to awp_india --------
+L 10/23/2015 - 04:10:25: [admin.amxx] Login: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 04:10:25: [admin_sql.amxx] Login: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 04:10:26: [ucp.amxx] Login: AB dudE ;) | 182.182.123.102 | 3-011D261B | STEAM_0:0:1945667478 | 6.1.7600x64
+L 10/23/2015 - 04:10:26: [ucp.amxx] Login: MouseSportz.K1cK </3 | 182.185.158.103 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 04:10:26: [ucp.amxx] Login: [M]r. NorP* (Bad Boy) | 182.185.140.202 | 3-4B04F1C2 | STEAM_0:0:1387718898 | 6.1.7600x64
+L 10/23/2015 - 04:10:26: [ucp.amxx] Login: XBOX | 39.42.4.138 | 2-B5BCE733 | STEAM_0:0:903824228 | 5.1.2600x86
+L 10/23/2015 - 04:10:33: [ucp.amxx] Login: :* | 115.186.35.134 | 3-FFA274E4 | STEAM_0:0:495359170 | 6.1.7601x64
+L 10/23/2015 - 04:13:14: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" set cvar (name "sv_password") (value "121")
+L 10/23/2015 - 04:13:17: [adminchat.amxx] Chat: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" tsay "Password 121"
+L 10/23/2015 - 04:13:19: [adminchat.amxx] Chat: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" tsay "match hogya"
+L 10/23/2015 - 04:13:25: [ucp.amxx] Login: ReVoLuT!0n. | 45.114.122.151 | 3-C6416F0A | STEAM_0:0:1253524395 | 6.1.7601x86
+L 10/23/2015 - 04:14:57: [mapsmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" changelevel "de_dust2"
+L 10/23/2015 - 04:14:59: -------- Mapchange to de_dust2 --------
+L 10/23/2015 - 04:15:00: [admin.amxx] Login: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 04:15:00: [admin_sql.amxx] Login: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 04:15:00: [ucp.amxx] Login: ReVoLuT!0n. | 45.114.122.151 | 3-C6416F0A | STEAM_0:0:1253524395 | 6.1.7601x86
+L 10/23/2015 - 04:15:00: [ucp.amxx] Login: AB dudE ;) | 182.182.123.102 | 3-011D261B | STEAM_0:0:1945667478 | 6.1.7600x64
+L 10/23/2015 - 04:15:00: [ucp.amxx] Login: [M]r. NorP* (Bad Boy) | 182.185.140.202 | 3-4B04F1C2 | STEAM_0:0:1387718898 | 6.1.7600x64
+L 10/23/2015 - 04:15:00: [ucp.amxx] Login: MouseSportz.K1cK </3 | 182.185.158.103 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 04:15:00: [ucp.amxx] Login: :* | 115.186.35.134 | 3-FFA274E4 | STEAM_0:0:495359170 | 6.1.7601x64
+L 10/23/2015 - 04:15:02: [ucp.amxx] Login: XBOX | 39.42.4.138 | 2-B5BCE733 | STEAM_0:0:903824228 | 5.1.2600x86
+L 10/23/2015 - 04:16:26: [mapsmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" changelevel "de_dust2"
+L 10/23/2015 - 04:16:28: -------- Mapchange to de_dust2 --------
+L 10/23/2015 - 04:16:29: [admin.amxx] Login: ":*<971><STEAM_0:0:495359170><>" became an admin (account "STEAM_0:0:495359170") (access "aempqstuwyz") (address "115.186.35.134")
+L 10/23/2015 - 04:16:29: [admin_sql.amxx] Login: ":*<971><STEAM_0:0:495359170><>" became an admin (account "STEAM_0:0:495359170") (access "aempqstuwyz") (address "115.186.35.134")
+L 10/23/2015 - 04:16:29: [admin.amxx] Login: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 04:16:29: [admin_sql.amxx] Login: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 04:16:29: [ucp.amxx] Login: AB dudE ;) | 182.182.123.102 | 3-011D261B | STEAM_0:0:1945667478 | 6.1.7600x64
+L 10/23/2015 - 04:16:29: [ucp.amxx] Login: :* | 115.186.35.134 | 3-FFA274E4 | STEAM_0:0:495359170 | 6.1.7601x64
+L 10/23/2015 - 04:16:29: [ucp.amxx] Login: ReVoLuT!0n. | 45.114.122.151 | 3-C6416F0A | STEAM_0:0:1253524395 | 6.1.7601x86
+L 10/23/2015 - 04:16:29: [ucp.amxx] Login: [M]r. NorP* (Bad Boy) | 182.185.140.202 | 3-4B04F1C2 | STEAM_0:0:1387718898 | 6.1.7600x64
+L 10/23/2015 - 04:16:29: [ucp.amxx] Login: MouseSportz.K1cK </3 | 182.185.158.103 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 04:16:29: [ucp.amxx] Login: XBOX | 39.42.4.138 | 2-B5BCE733 | STEAM_0:0:903824228 | 5.1.2600x86
+L 10/23/2015 - 04:18:42: [mapsmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" changelevel "de_dust2"
+L 10/23/2015 - 04:18:44: -------- Mapchange to de_dust2 --------
+L 10/23/2015 - 04:18:44: [admin.amxx] Login: ":*<971><STEAM_0:0:495359170><>" became an admin (account "STEAM_0:0:495359170") (access "abcdefghijklmnopqrstu") (address "115.186.35.134")
+L 10/23/2015 - 04:18:44: [admin_sql.amxx] Login: ":*<971><STEAM_0:0:495359170><>" became an admin (account "STEAM_0:0:495359170") (access "abcdefghijklmnopqrstu") (address "115.186.35.134")
+L 10/23/2015 - 04:18:44: [admin.amxx] Login: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 04:18:44: [admin_sql.amxx] Login: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 04:18:44: [ucp.amxx] Login: ReVoLuT!0n. | 45.114.122.151 | 3-C6416F0A | STEAM_0:0:1253524395 | 6.1.7601x86
+L 10/23/2015 - 04:18:44: [ucp.amxx] Login: AB dudE ;) | 182.182.123.102 | 3-011D261B | STEAM_0:0:1945667478 | 6.1.7600x64
+L 10/23/2015 - 04:18:44: [ucp.amxx] Login: :* | 115.186.35.134 | 3-FFA274E4 | STEAM_0:0:495359170 | 6.1.7601x64
+L 10/23/2015 - 04:18:44: [ucp.amxx] Login: [M]r. NorP* (Bad Boy) | 182.185.140.202 | 3-4B04F1C2 | STEAM_0:0:1387718898 | 6.1.7600x64
+L 10/23/2015 - 04:18:44: [ucp.amxx] Login: MouseSportz.K1cK </3 | 182.185.158.103 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 04:18:45: [ucp.amxx] Login: XBOX | 39.42.4.138 | 2-B5BCE733 | STEAM_0:0:903824228 | 5.1.2600x86
+L 10/23/2015 - 04:18:58: [adminchat.amxx] Chat: ":*<971><STEAM_0:0:495359170><>" tsay ""
+L 10/23/2015 - 04:21:08: [admin.amxx] Login: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 04:21:08: [admin.amxx] Login: ":*<971><STEAM_0:0:495359170><>" became an admin (account "STEAM_0:0:495359170") (access "abcdefghijklmnopqrstu") (address "115.186.35.134")
+L 10/23/2015 - 04:22:58: [mapsmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" changelevel "awp_india"
+L 10/23/2015 - 04:22:59: [admin.amxx] Login: "[M]r. NorP* (Bad Boy)<968><STEAM_0:0:1387718898><>" kicked due to invalid password (account "STEAM_0:0:1387718898") (address "182.185.140.202")
+L 10/23/2015 - 04:22:59: [admin.amxx] Login: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 04:22:59: [admin.amxx] Login: ":*<971><STEAM_0:0:495359170><>" became an admin (account "STEAM_0:0:495359170") (access "abcdefghijklmnopqrstu") (address "115.186.35.134")
+L 10/23/2015 - 04:23:00: -------- Mapchange to awp_india --------
+L 10/23/2015 - 04:23:01: [admin.amxx] Login: ":*<971><STEAM_0:0:495359170><>" became an admin (account "STEAM_0:0:495359170") (access "abcdefghijklmnopqrstu") (address "115.186.35.134")
+L 10/23/2015 - 04:23:01: [admin_sql.amxx] Login: ":*<971><STEAM_0:0:495359170><>" became an admin (account "STEAM_0:0:495359170") (access "abcdefghijklmnopqrstu") (address "115.186.35.134")
+L 10/23/2015 - 04:23:01: [admin.amxx] Login: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 04:23:01: [admin_sql.amxx] Login: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 04:23:01: [ucp.amxx] Login: AB dudE ;) | 182.182.123.102 | 3-011D261B | STEAM_0:0:1945667478 | 6.1.7600x64
+L 10/23/2015 - 04:23:01: [ucp.amxx] Login: MouseSportz.K1cK </3 | 182.185.158.103 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 04:23:01: [ucp.amxx] Login: :* | 115.186.35.134 | 3-FFA274E4 | STEAM_0:0:495359170 | 6.1.7601x64
+L 10/23/2015 - 04:23:01: [ucp.amxx] Login: XBOX | 39.42.4.138 | 2-B5BCE733 | STEAM_0:0:903824228 | 5.1.2600x86
+L 10/23/2015 - 04:25:08: [mapsmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" changelevel "awp_india"
+L 10/23/2015 - 04:25:10: -------- Mapchange to awp_india --------
+L 10/23/2015 - 04:25:11: [admin.amxx] Login: ":*<971><STEAM_0:0:495359170><>" became an admin (account "STEAM_0:0:495359170") (access "abcdefghijklmnopqrstu") (address "115.186.35.134")
+L 10/23/2015 - 04:25:11: [admin_sql.amxx] Login: ":*<971><STEAM_0:0:495359170><>" became an admin (account "STEAM_0:0:495359170") (access "abcdefghijklmnopqrstu") (address "115.186.35.134")
+L 10/23/2015 - 04:25:11: [admin.amxx] Login: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 04:25:11: [admin_sql.amxx] Login: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 04:25:11: [ucp.amxx] Login: AB dudE ;) | 182.182.123.102 | 3-011D261B | STEAM_0:0:1945667478 | 6.1.7600x64
+L 10/23/2015 - 04:25:11: [ucp.amxx] Login: :* | 115.186.35.134 | 3-FFA274E4 | STEAM_0:0:495359170 | 6.1.7601x64
+L 10/23/2015 - 04:25:11: [ucp.amxx] Login: MouseSportz.K1cK </3 | 182.185.158.103 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 04:25:11: [ucp.amxx] Login: XBOX | 39.42.4.138 | 2-B5BCE733 | STEAM_0:0:903824228 | 5.1.2600x86
+L 10/23/2015 - 04:26:28: [admin.amxx] Login: "[M]r. NorP* (Bad Boy)<973><STEAM_0:0:1387718898><>" became an admin (account "STEAM_0:0:1387718898") (access "bcdefghiklmnopqrstu") (address "182.185.140.202")
+L 10/23/2015 - 04:26:28: [admin_sql.amxx] Login: "[M]r. NorP* (Bad Boy)<973><STEAM_0:0:1387718898><>" became an admin (account "STEAM_0:0:1387718898") (access "bcdefghiklmnopqrstu") (address "182.185.140.202")
+L 10/23/2015 - 04:26:29: [ucp.amxx] Login: [M]r. NorP* (Bad Boy) | 182.185.140.202 | 3-4B04F1C2 | STEAM_0:0:1387718898 | 6.1.7600x64
+L 10/23/2015 - 04:26:40: [adminchat.amxx] Chat: "[M]r. NorP* (Bad Boy)<973><STEAM_0:0:1387718898><>" tsay ":P"
+L 10/23/2015 - 04:28:36: [admincmd.amxx] Cmd: ":*<971><STEAM_0:0:495359170><>" changelevel "afk_6killer"
+L 10/23/2015 - 04:28:38: -------- Mapchange to afk_6killer --------
+L 10/23/2015 - 04:28:39: [admin.amxx] Login: ":*<971><STEAM_0:0:495359170><>" became an admin (account "STEAM_0:0:495359170") (access "abcdefghijklmnopqrstu") (address "115.186.35.134")
+L 10/23/2015 - 04:28:39: [admin_sql.amxx] Login: ":*<971><STEAM_0:0:495359170><>" became an admin (account "STEAM_0:0:495359170") (access "abcdefghijklmnopqrstu") (address "115.186.35.134")
+L 10/23/2015 - 04:28:39: [admin.amxx] Login: "[M]r. NorP* (Bad Boy)<973><STEAM_0:0:1387718898><>" became an admin (account "STEAM_0:0:1387718898") (access "bcdefghiklmnopqrstu") (address "182.185.140.202")
+L 10/23/2015 - 04:28:39: [admin_sql.amxx] Login: "[M]r. NorP* (Bad Boy)<973><STEAM_0:0:1387718898><>" became an admin (account "STEAM_0:0:1387718898") (access "bcdefghiklmnopqrstu") (address "182.185.140.202")
+L 10/23/2015 - 04:28:39: [admin.amxx] Login: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 04:28:39: [admin_sql.amxx] Login: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 04:28:39: [ucp.amxx] Login: AB dudE ;) | 182.182.123.102 | 3-011D261B | STEAM_0:0:1945667478 | 6.1.7600x64
+L 10/23/2015 - 04:28:39: [ucp.amxx] Login: :* | 115.186.35.134 | 3-FFA274E4 | STEAM_0:0:495359170 | 6.1.7601x64
+L 10/23/2015 - 04:28:39: [ucp.amxx] Login: MouseSportz.K1cK </3 | 182.185.158.103 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 04:28:39: [ucp.amxx] Login: [M]r. NorP* (Bad Boy) | 182.185.140.202 | 3-4B04F1C2 | STEAM_0:0:1387718898 | 6.1.7600x64
+L 10/23/2015 - 04:28:39: [ucp.amxx] Login: XBOX | 39.42.4.138 | 2-B5BCE733 | STEAM_0:0:903824228 | 5.1.2600x86
+L 10/23/2015 - 04:36:31: [adminchat.amxx] Chat: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" tsay "uper to nae jao"
+L 10/23/2015 - 04:37:11: [adminchat.amxx] Chat: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" tsay "ahaah"
+L 10/23/2015 - 04:39:13: [adminchat.amxx] Chat: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" tsay "ajeeb:#"
+L 10/23/2015 - 04:41:12: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:12: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:12: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:12: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:13: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:13: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:13: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:13: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:14: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:14: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:14: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:14: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:14: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:14: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:14: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:15: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:15: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:15: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:15: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:15: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:15: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:15: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:16: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:16: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:16: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:16: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:16: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:16: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:16: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:16: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:17: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:17: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:17: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:17: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:17: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:18: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:18: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:18: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:18: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:18: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:18: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:19: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:19: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:19: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:19: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:19: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:20: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:20: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:20: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:21: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:21: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:21: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:21: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:21: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:21: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:21: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:22: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:22: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:22: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:22: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:22: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:22: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:22: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:23: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:23: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:23: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:23: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:23: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:23: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:23: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:24: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:24: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:24: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:24: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:24: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:24: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:24: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:25: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:25: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:25: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:25: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:25: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:25: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:26: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:26: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:26: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:26: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:26: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:26: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:27: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:27: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:28: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:28: [plmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" slap with 0 damage "XBOX<970><STEAM_0:0:903824228><>"
+L 10/23/2015 - 04:41:32: [adminchat.amxx] Chat: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" tsay "lol"
+L 10/23/2015 - 04:42:19: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" set cvar (name "sv_password") (value "")
+L 10/23/2015 - 04:43:12: [mapsmenu.amxx] Cmd: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" changelevel "fy_snow"
+L 10/23/2015 - 04:43:14: -------- Mapchange to fy_snow --------
+L 10/23/2015 - 04:43:14: [admin.amxx] Login: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 04:43:14: [admin_sql.amxx] Login: "MouseSportz.K1cK </3<967><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.158.103")
+L 10/23/2015 - 04:43:15: [admin.amxx] Login: "[M]r. NorP* (Bad Boy)<973><STEAM_0:0:1387718898><>" became an admin (account "STEAM_0:0:1387718898") (access "bcdefghiklmnopqrstu") (address "182.185.140.202")
+L 10/23/2015 - 04:43:15: [admin_sql.amxx] Login: "[M]r. NorP* (Bad Boy)<973><STEAM_0:0:1387718898><>" became an admin (account "STEAM_0:0:1387718898") (access "bcdefghiklmnopqrstu") (address "182.185.140.202")
+L 10/23/2015 - 04:43:15: [admin.amxx] Login: ":*<971><STEAM_0:0:495359170><>" became an admin (account "STEAM_0:0:495359170") (access "abcdefghijklmnopqrstu") (address "115.186.35.134")
+L 10/23/2015 - 04:43:15: [admin_sql.amxx] Login: ":*<971><STEAM_0:0:495359170><>" became an admin (account "STEAM_0:0:495359170") (access "abcdefghijklmnopqrstu") (address "115.186.35.134")
+L 10/23/2015 - 04:43:15: [ucp.amxx] Login: MouseSportz.K1cK </3 | 182.185.158.103 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 04:43:15: [ucp.amxx] Login: :* | 115.186.35.134 | 3-FFA274E4 | STEAM_0:0:495359170 | 6.1.7601x64
+L 10/23/2015 - 04:43:15: [ucp.amxx] Login: [M]r. NorP* (Bad Boy) | 182.185.140.202 | 3-4B04F1C2 | STEAM_0:0:1387718898 | 6.1.7600x64
+L 10/23/2015 - 04:43:15: [ucp.amxx] Login: XBOX | 39.42.4.138 | 2-B5BCE733 | STEAM_0:0:903824228 | 5.1.2600x86
+L 10/23/2015 - 04:47:20: [admin.amxx] Login: "Fragger<975><STEAM_0:0:1387718898><>" kicked due to invalid password (account "STEAM_0:0:1387718898") (address "182.185.140.202")
+L 10/23/2015 - 04:47:20: [admin_sql.amxx] Login: "Fragger<975><STEAM_0:0:1387718898><>" kicked due to invalid password (account "STEAM_0:0:1387718898") (address "182.185.140.202")
+L 10/23/2015 - 04:47:20: [ucp.amxx] Login: Fragger | 182.185.140.202 | 3-4B04F1C2 | STEAM_0:0:1387718898 | 6.1.7600x64
+L 10/23/2015 - 04:47:36: [admin.amxx] Login: "Fragger<976><STEAM_0:0:1387718898><>" became an admin (account "STEAM_0:0:1387718898") (access "bcdefghiklmnopqrstu") (address "182.185.140.202")
+L 10/23/2015 - 04:47:36: [admin_sql.amxx] Login: "Fragger<976><STEAM_0:0:1387718898><>" became an admin (account "STEAM_0:0:1387718898") (access "bcdefghiklmnopqrstu") (address "182.185.140.202")
+L 10/23/2015 - 04:47:36: [ucp.amxx] Login: Fragger | 182.185.140.202 | 3-4B04F1C2 | STEAM_0:0:1387718898 | 6.1.7600x64
+L 10/23/2015 - 04:51:40: [admin.amxx] Login: "MouseSportz.K1cK </3<977><STEAM_0:0:1289373049><>" kicked due to invalid password (account "STEAM_0:0:1289373049") (address "182.185.158.103")
+L 10/23/2015 - 04:51:40: [admin_sql.amxx] Login: "MouseSportz.K1cK </3<977><STEAM_0:0:1289373049><>" kicked due to invalid password (account "STEAM_0:0:1289373049") (address "182.185.158.103")
+L 10/23/2015 - 04:51:40: [ucp.amxx] Login: MouseSportz.K1cK </3 | 182.185.158.103 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 09:44:45: [ucp.amxx] Login NO-UCP: <Player> <10.72.29.208> <VALVE_0:4:1017173337>
+L 10/23/2015 - 09:44:51: [ucp.amxx] Login NO-UCP: <Player> <10.72.29.208> <VALVE_0:4:1017173337>
+L 10/23/2015 - 09:45:00: [ucp.amxx] Login NO-UCP: <Player> <10.72.29.208> <VALVE_0:4:1017173337>
+L 10/23/2015 - 09:54:55: [ucp.amxx] Login NO-UCP: <Player> <10.72.29.208> <VALVE_0:4:1017173337>
+L 10/23/2015 - 10:54:50: [ucp.amxx] Login NO-UCP: <sK|sNaKeR :)> <10.78.69.254> <VALVE_0:4:730650201>
+L 10/23/2015 - 11:51:51: [ucp.amxx] Login NO-UCP: <cle@n BoM _*> <10.79.65.91> <VALVE_0:4:2031015641>
+L 10/23/2015 - 12:23:14: [ucp.amxx] Login NO-UCP: <i Am NoObEr>> <10.78.69.254> <VALVE_0:4:730650201>
+L 10/23/2015 - 12:37:18: [ucp.amxx] Login: FA|NTw0w~ | 182.182.33.195 | 2-DAA0FBAC | STEAM_0:0:547503867 | 5.1.2600x86
+L 10/23/2015 - 12:53:59: [ucp.amxx] Login NO-UCP: <ahfjs b> <10.79.64.251> <VALVE_0:4:688805593>
+L 10/23/2015 - 13:00:16: [ucp.amxx] Login NO-UCP: <Mr:king> <10.79.64.251> <VALVE_0:4:688805593>
+L 10/23/2015 - 13:06:49: [ucp.amxx] Login NO-UCP: <9.m.m.> <10.78.69.254> <VALVE_0:4:730650201>
+L 10/23/2015 - 13:43:04: [ucp.amxx] Login NO-UCP: <[SK}THIGER}BOSS> <10.94.199.235> <VALVE_0:4:558751321>
+L 10/23/2015 - 14:23:27: [ucp.amxx] Login NO-UCP: <! @M N01- H@(K3R> <10.12.168.221> <STEAM_0:0:621658892>
+L 10/23/2015 - 14:33:27: [ucp.amxx] Login NO-UCP: <SITARA I LOVE YOU SHAFHAT KHAN> <10.78.69.254> <VALVE_0:4:730650201>
+L 10/23/2015 - 14:33:32: [ucp.amxx] Login NO-UCP: <SITARA I LOVE YOU SHAFHAT KHAN> <10.78.69.254> <VALVE_0:4:730650201>
+L 10/23/2015 - 14:49:53: [ucp.amxx] Login NO-UCP: <SITARA I LOVE YOU SHAFHAT KHAN> <10.78.69.254> <VALVE_0:4:730650201>
+L 10/23/2015 - 15:13:45: [ucp.amxx] Login: magma 'al pappa' =DD | 39.42.208.6 | 3-126CD6F7 | STEAM_0:0:1061169007 | 1.0.1024x64
+L 10/23/2015 - 15:28:55: [ucp.amxx] Login NO-UCP: <Pr___()> <10.57.29.15> <VALVE_0:4:1394666969>
+L 10/23/2015 - 15:58:54: [ucp.amxx] Login: BunnY^ | 115.42.72.104 | 2-AED127BE | STEAM_0:0:1809429579 | 5.1.2600x86
+L 10/23/2015 - 16:19:26: [ucp.amxx] Login NO-UCP: <DSS> <10.79.65.91> <VALVE_0:4:2031015641>
+L 10/23/2015 - 16:32:03: [ucp.amxx] Login NO-UCP: <oafh> <111.88.74.131> <STEAM_0:0:1299465821>
+L 10/23/2015 - 16:32:11: [ucp.amxx] Login NO-UCP: <oafh> <111.88.74.131> <STEAM_0:0:1299465821>
+L 10/23/2015 - 16:37:42: [ucp.amxx] Login: BROOOOoooo | 10.30.25.82 | 2-90282D50 | STEAM_0:0:282617373 | 5.1.2600x86
+L 10/23/2015 - 16:38:43: [ucp.amxx] Login: Fl1kKer | 39.50.229.97 | 3-90B033A5 | STEAM_0:0:92817931 | 6.1.7601x64
+L 10/23/2015 - 16:39:58: [ucp.amxx] Login: BROOOOoooo | 10.30.25.82 | 2-90282D50 | STEAM_0:0:282617373 | 5.1.2600x86
+L 10/23/2015 - 16:42:11: [ucp.amxx] Login NO-UCP: <ZIa Khan*> <10.78.69.254> <VALVE_0:4:730650201>
+L 10/23/2015 - 16:44:13: [ucp.amxx] Login: BIGGERz | 39.50.229.97 | 3-90B033A5 | STEAM_0:0:92817931 | 6.1.7601x64
+L 10/23/2015 - 16:49:34: [ucp.amxx] Login NO-UCP: <LyCan^> <182.183.191.190> <STEAM_0:0:1510601809>
+L 10/23/2015 - 16:49:57: [ucp.amxx] Login NO-UCP: <ahfjs b> <10.79.64.251> <VALVE_0:4:688805593>
+L 10/23/2015 - 16:55:09: [ucp.amxx] Login: abduRRR!/- #cand1 K | 39.48.21.167 | 3-D7AFA52D | STEAM_0:0:2044540911 | 6.1.7601x64
+L 10/23/2015 - 16:55:13: [ucp.amxx] Login: nOOb^ | 39.50.155.73 | 3-BDB99868 | STEAM_0:1:10163787 | 6.1.7600x64
+L 10/23/2015 - 16:55:16: [ucp.amxx] Login NO-UCP: <EXEC : eXec> <111.119.177.244> <STEAM_0:0:2022833506>
+L 10/23/2015 - 16:55:40: [ucp.amxx] Login NO-UCP: <SP Lover **> <118.103.229.116> <STEAM_0:0:242656740>
+L 10/23/2015 - 17:47:46: [admin.amxx] Login: "mouz|KarrigaN.<1023><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijklmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 17:47:46: [admin_sql.amxx] Login: "mouz|KarrigaN.<1023><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijklmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 17:47:46: [ucp.amxx] Login: mouz|KarrigaN. | 10.1.13.2 | 3-664E2E12 | STEAM_0:0:308387593 | 6.1.7600x64
+L 10/23/2015 - 17:47:56: [adminchat.amxx] Chat: "mouz|KarrigaN.<1023><STEAM_0:0:308387593><>" tsay ":D"
+L 10/23/2015 - 17:54:22: [ucp.amxx] Login: Begrip! _]'WilshereixwOw# | 10.75.49.103 | 3-F41FD0BA | STEAM_0:0:1383953493 | 6.1.7600x64
+L 10/23/2015 - 18:00:37: [ucp.amxx] Login: wEEEb | 10.163.49.158 | 4-66482209 | STEAM_0:0:1051301257 | 6.1.7600x64
+L 10/23/2015 - 18:00:45: [ucp.amxx] Login NO-UCP: <AliCsOnlY :)> <10.79.65.91> <VALVE_0:4:2031015641>
+L 10/23/2015 - 18:48:50: [admin.amxx] Login: "LH-Player<1029><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "39.35.65.21")
+L 10/23/2015 - 18:48:50: [admin_sql.amxx] Login: "LH-Player<1029><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "39.35.65.21")
+L 10/23/2015 - 18:48:50: [ucp.amxx] Login: LH-Player | 39.35.65.21 | 3-FE919A9D | STEAM_0:0:1297320269 | 6.1.7600x86
+L 10/23/2015 - 18:55:19: [ucp.amxx] Login NO-UCP: <zeT^<3_-#> <10.1.9.119> <VALVE_0:4:1865085401>
+L 10/23/2015 - 19:04:54: [admin.amxx] Login: "benQ<1032><STEAM_0:0:1621394275><>" kicked due to invalid password (account "STEAM_0:0:1621394275") (address "182.178.204.64")
+L 10/23/2015 - 19:04:54: [admin_sql.amxx] Login: "benQ<1032><STEAM_0:0:1621394275><>" kicked due to invalid password (account "STEAM_0:0:1621394275") (address "182.178.204.64")
+L 10/23/2015 - 19:04:54: [ucp.amxx] Login: benQ | 182.178.204.64 | 2-DBB5ED98 | STEAM_0:0:1621394275 | 5.1.2600x86
+L 10/23/2015 - 19:05:09: [admin.amxx] Login: "benQ<1033><STEAM_0:0:1621394275><>" became an admin (account "STEAM_0:0:1621394275") (access "bcdefghiklmnopqrstu") (address "182.178.204.64")
+L 10/23/2015 - 19:05:09: [admin_sql.amxx] Login: "benQ<1033><STEAM_0:0:1621394275><>" became an admin (account "STEAM_0:0:1621394275") (access "bcdefghiklmnopqrstu") (address "182.178.204.64")
+L 10/23/2015 - 19:05:09: [ucp.amxx] Login: benQ | 182.178.204.64 | 2-DBB5ED98 | STEAM_0:0:1621394275 | 5.1.2600x86
+L 10/23/2015 - 19:37:39: [ucp.amxx] Login NO-UCP: <! @M N01- H@(K3R> <10.12.168.221> <STEAM_0:0:621658892>
+L 10/23/2015 - 19:45:33: [ucp.amxx] Login NO-UCP: <! @M N01- H@(K3R> <10.12.168.221> <STEAM_0:0:621658892>
+L 10/23/2015 - 19:45:47: [ucp.amxx] Login NO-UCP: <! @M N01- H@(K3R> <10.12.168.221> <STEAM_0:0:621658892>
+L 10/23/2015 - 19:58:17: [admin.amxx] Login: "benQ-<1039><STEAM_0:0:1621394275><>" became an admin (account "STEAM_0:0:1621394275") (access "bcdefghiklmnopqrstu") (address "182.185.168.23")
+L 10/23/2015 - 19:58:17: [admin_sql.amxx] Login: "benQ-<1039><STEAM_0:0:1621394275><>" became an admin (account "STEAM_0:0:1621394275") (access "bcdefghiklmnopqrstu") (address "182.185.168.23")
+L 10/23/2015 - 19:58:17: [ucp.amxx] Login: benQ- | 182.185.168.23 | 2-DBB5ED98 | STEAM_0:0:1621394275 | 5.1.2600x86
+L 10/23/2015 - 20:03:27: [admin.amxx] Login: "MouseSportz.K1cK </3<1040><STEAM_0:0:1289373049><>" kicked due to invalid password (account "STEAM_0:0:1289373049") (address "182.178.187.115")
+L 10/23/2015 - 20:03:27: [admin_sql.amxx] Login: "MouseSportz.K1cK </3<1040><STEAM_0:0:1289373049><>" kicked due to invalid password (account "STEAM_0:0:1289373049") (address "182.178.187.115")
+L 10/23/2015 - 20:03:27: [ucp.amxx] Login: MouseSportz.K1cK </3 | 182.178.187.115 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 20:03:46: [admin.amxx] Login: "MouseSportz.K1cK </3<1041><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.178.187.115")
+L 10/23/2015 - 20:03:46: [admin_sql.amxx] Login: "MouseSportz.K1cK </3<1041><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.178.187.115")
+L 10/23/2015 - 20:03:47: [ucp.amxx] Login: MouseSportz.K1cK </3 | 182.178.187.115 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 20:12:20: [admin.amxx] Login: "benQ-<1042><STEAM_0:0:1621394275><>" became an admin (account "STEAM_0:0:1621394275") (access "bcdefghiklmnopqrstu") (address "182.185.168.23")
+L 10/23/2015 - 20:12:20: [admin_sql.amxx] Login: "benQ-<1042><STEAM_0:0:1621394275><>" became an admin (account "STEAM_0:0:1621394275") (access "bcdefghiklmnopqrstu") (address "182.185.168.23")
+L 10/23/2015 - 20:12:20: [ucp.amxx] Login: benQ- | 182.185.168.23 | 2-DBB5ED98 | STEAM_0:0:1621394275 | 5.1.2600x86
+L 10/23/2015 - 20:29:29: [ucp.amxx] Login NO-UCP: <Hassan> <175.107.248.188> <STEAM_0:0:2062381393>
+L 10/23/2015 - 20:43:29: [admin.amxx] Login: "MouseSportz.K1cK </3<1053><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.178.187.115")
+L 10/23/2015 - 20:43:29: [admin_sql.amxx] Login: "MouseSportz.K1cK </3<1053><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.178.187.115")
+L 10/23/2015 - 20:43:30: [ucp.amxx] Login: MouseSportz.K1cK </3 | 182.178.187.115 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 20:43:52: [admincmd.amxx] Cmd: "MouseSportz.K1cK </3<1053><STEAM_0:0:1289373049><>" changelevel "de_dust2_long_short"
+L 10/23/2015 - 20:43:54: -------- Mapchange to de_dust2_long_short --------
+L 10/23/2015 - 20:49:37: [admin.amxx] Login: "- K1cK </3 dAB4444444P<1055><STEAM_0:0:1289373049><>" kicked due to invalid password (account "STEAM_0:0:1289373049") (address "182.185.167.230")
+L 10/23/2015 - 20:49:37: [admin_sql.amxx] Login: "- K1cK </3 dAB4444444P<1055><STEAM_0:0:1289373049><>" kicked due to invalid password (account "STEAM_0:0:1289373049") (address "182.185.167.230")
+L 10/23/2015 - 20:49:37: [ucp.amxx] Login: - K1cK </3 dAB4444444P | 182.185.167.230 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 20:50:39: [admin.amxx] Login: "- K1cK </3 dAB4444444P<1056><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.167.230")
+L 10/23/2015 - 20:50:39: [admin_sql.amxx] Login: "- K1cK </3 dAB4444444P<1056><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.167.230")
+L 10/23/2015 - 20:50:39: [ucp.amxx] Login: - K1cK </3 dAB4444444P | 182.185.167.230 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 21:05:49: [ucp.amxx] Login NO-UCP: <CreaTor-> <10.44.157.156> <STEAM_0:0:717240953>
+L 10/23/2015 - 21:09:48: [admin.amxx] Login: "- K1cK </3 dAB4444444P<1060><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.167.230")
+L 10/23/2015 - 21:09:48: [admin_sql.amxx] Login: "- K1cK </3 dAB4444444P<1060><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.167.230")
+L 10/23/2015 - 21:09:48: [ucp.amxx] Login: - K1cK </3 dAB4444444P | 182.185.167.230 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 21:16:48: [admin.amxx] Login: "LH-Player<1061><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "39.35.65.21")
+L 10/23/2015 - 21:16:48: [admin_sql.amxx] Login: "LH-Player<1061><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "39.35.65.21")
+L 10/23/2015 - 21:16:48: [ucp.amxx] Login: LH-Player | 39.35.65.21 | 3-FE919A9D | STEAM_0:0:1297320269 | 6.1.7600x86
+L 10/23/2015 - 21:18:17: [admincmd.amxx] Cmd: "LH-Player<1061><STEAM_0:0:1297320269><>" set cvar (name "sv_password") (value "122")
+L 10/23/2015 - 21:19:32: [ucp.amxx] Login: koda | 115.186.102.173 | 3-E8A4D2F0 | STEAM_0:0:1925162372 | 6.1.7601x86
+L 10/23/2015 - 21:19:32: [admin.amxx] Login: "mouz|KarrigaN.<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijklmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:19:32: [admin_sql.amxx] Login: "mouz|KarrigaN.<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijklmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:19:32: [ucp.amxx] Login: mouz|KarrigaN. | 10.1.13.2 | 3-664E2E12 | STEAM_0:0:308387593 | 6.1.7600x64
+L 10/23/2015 - 21:19:37: [ucp.amxx] Login: ASSULTERKiNG'~ | 10.1.12.246 | 3-497E48B0 | STEAM_0:0:939991394 | 6.1.7601x86
+L 10/23/2015 - 21:22:01: [mapsmenu.amxx] Cmd: "mouz|KarrigaN.<1063><STEAM_0:0:308387593><>" changelevel "de_dust2_long"
+L 10/23/2015 - 21:22:03: -------- Mapchange to de_dust2_long --------
+L 10/23/2015 - 21:22:04: [admin.amxx] Login: "mouz|KarrigaN.<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijklmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:22:04: [admin_sql.amxx] Login: "mouz|KarrigaN.<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijklmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:22:04: [admin.amxx] Login: "- K1cK </3 dAB4444444P<1060><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.167.230")
+L 10/23/2015 - 21:22:04: [admin_sql.amxx] Login: "- K1cK </3 dAB4444444P<1060><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.167.230")
+L 10/23/2015 - 21:22:04: [admin.amxx] Login: "LH-Player<1061><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "39.35.65.21")
+L 10/23/2015 - 21:22:04: [admin_sql.amxx] Login: "LH-Player<1061><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "39.35.65.21")
+L 10/23/2015 - 21:22:04: [ucp.amxx] Login: ASSULTERKiNG'~ | 10.1.12.246 | 3-497E48B0 | STEAM_0:0:939991394 | 6.1.7601x86
+L 10/23/2015 - 21:22:04: [ucp.amxx] Login: mouz|KarrigaN. | 10.1.13.2 | 3-664E2E12 | STEAM_0:0:308387593 | 6.1.7600x64
+L 10/23/2015 - 21:22:04: [ucp.amxx] Login: - K1cK </3 dAB4444444P | 182.185.167.230 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 21:22:04: [ucp.amxx] Login: LH-Player | 39.35.65.21 | 3-FE919A9D | STEAM_0:0:1297320269 | 6.1.7600x86
+L 10/23/2015 - 21:22:04: [ucp.amxx] Login: koda | 115.186.102.173 | 3-E8A4D2F0 | STEAM_0:0:1925162372 | 6.1.7601x86
+L 10/23/2015 - 21:22:37: [adminchat.amxx] Chat: "mouz|KarrigaN.<1063><STEAM_0:0:308387593><>" tsay "<3 bitch.."
+L 10/23/2015 - 21:23:44: [admincmd.amxx] Cmd: "mouz|KarrigaN.<1063><STEAM_0:0:308387593><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 21:25:26: [admin.amxx] Login: "mouz.HoH | KarrigaNbOb~<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijklmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:25:26: [admin_sql.amxx] Login: "mouz.HoH | KarrigaNbOb~<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijklmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:25:51: [admincmd.amxx] Cmd: "LH-Player<1061><STEAM_0:0:1297320269><>" set cvar (name "sv_password") (value "121")
+L 10/23/2015 - 21:26:19: [ucp.amxx] Login: MirwaiZ - | 182.183.145.146 | 3-FFB45382 | STEAM_0:0:426317849 | 6.1.7601x86
+L 10/23/2015 - 21:27:45: [ucp.amxx] Login: koda | 115.186.102.173 | 3-E8A4D2F0 | STEAM_0:0:1925162372 | 6.1.7601x86
+L 10/23/2015 - 21:28:23: [ucp.amxx] Login: kAmilZ - | 182.183.160.156 | 3-B34D94E1 | STEAM_0:0:1167140019 | 6.1.7600x64
+L 10/23/2015 - 21:28:47: [ucp.amxx] Login: FATA | 39.43.29.83 | 3-195C3844 | STEAM_0:0:1099363440 | 1.0.1024x64
+L 10/23/2015 - 21:29:05: [mapsmenu.amxx] Cmd: "- K1cK </3 dAB4444444P<1060><STEAM_0:0:1289373049><>" changelevel "de_dust2"
+L 10/23/2015 - 21:29:07: -------- Mapchange to de_dust2 --------
+L 10/23/2015 - 21:29:08: [admin.amxx] Login: "mouz.HoH | KarrigaNbOb~<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijklmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:29:08: [admin_sql.amxx] Login: "mouz.HoH | KarrigaNbOb~<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijklmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:29:08: [admin.amxx] Login: "- K1cK </3 dAB4444444P<1060><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.167.230")
+L 10/23/2015 - 21:29:08: [admin_sql.amxx] Login: "- K1cK </3 dAB4444444P<1060><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.167.230")
+L 10/23/2015 - 21:29:08: [admin.amxx] Login: "LH-Player<1061><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "39.35.65.21")
+L 10/23/2015 - 21:29:08: [admin_sql.amxx] Login: "LH-Player<1061><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "39.35.65.21")
+L 10/23/2015 - 21:29:08: [ucp.amxx] Login: koda | 115.186.102.173 | 3-E8A4D2F0 | STEAM_0:0:1925162372 | 6.1.7601x86
+L 10/23/2015 - 21:29:08: [ucp.amxx] Login: mouz.HoH | KarrigaNbOb~ | 10.1.13.2 | 3-664E2E12 | STEAM_0:0:308387593 | 6.1.7600x64
+L 10/23/2015 - 21:29:08: [ucp.amxx] Login: ASSULTERKiNG'~ | 10.1.12.246 | 3-497E48B0 | STEAM_0:0:939991394 | 6.1.7601x86
+L 10/23/2015 - 21:29:08: [ucp.amxx] Login: - K1cK </3 dAB4444444P | 182.185.167.230 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 21:29:08: [ucp.amxx] Login: MirwaiZ - | 182.183.145.146 | 3-FFB45382 | STEAM_0:0:426317849 | 6.1.7601x86
+L 10/23/2015 - 21:29:08: [ucp.amxx] Login: LH-Player | 39.35.65.21 | 3-FE919A9D | STEAM_0:0:1297320269 | 6.1.7600x86
+L 10/23/2015 - 21:29:08: [ucp.amxx] Login: kAmilZ - | 182.183.160.156 | 3-B34D94E1 | STEAM_0:0:1167140019 | 6.1.7600x64
+L 10/23/2015 - 21:29:08: [ucp.amxx] Login: FATA | 39.43.29.83 | 3-195C3844 | STEAM_0:0:1099363440 | 1.0.1024x64
+L 10/23/2015 - 21:30:02: [admincmd.amxx] Cmd: "mouz.HoH | KarrigaNbOb~<1063><STEAM_0:0:308387593><>" execute cfg (file "match.cfg")
+L 10/23/2015 - 21:30:08: [admincmd.amxx] Cmd: "mouz.HoH | KarrigaNbOb~<1063><STEAM_0:0:308387593><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 21:30:18: [adminchat.amxx] Chat: "mouz.HoH | KarrigaNbOb~<1063><STEAM_0:0:308387593><>" tsay "banddy ?"
+L 10/23/2015 - 21:30:45: [plmenu.amxx] Cmd: "mouz.HoH | KarrigaNbOb~<1063><STEAM_0:0:308387593><>" slay "ASSULTERKiNG'~<1064><STEAM_0:0:939991394><>"
+L 10/23/2015 - 21:30:57: [admincmd.amxx] Cmd: "mouz.HoH | KarrigaNbOb~<1063><STEAM_0:0:308387593><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 21:31:29: [admincmd.amxx] Cmd: "mouz.HoH | KarrigaNbOb~<1063><STEAM_0:0:308387593><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 21:31:39: [ucp.amxx] Login: NEVER GIVE UP! | 182.183.160.156 | 2-D2CB132E | STEAM_0:0:1386449815 | 5.1.2600x86
+L 10/23/2015 - 21:32:04: [admincmd.amxx] Cmd: "mouz.HoH | KarrigaNbOb~<1063><STEAM_0:0:308387593><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 21:32:26: [admincmd.amxx] Cmd: "mouz.HoH | KarrigaNbOb~<1063><STEAM_0:0:308387593><>" execute cfg (file "server.cfg")
+L 10/23/2015 - 21:32:30: [admincmd.amxx] Cmd: "mouz.HoH | KarrigaNbOb~<1063><STEAM_0:0:308387593><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 21:32:46: [mapsmenu.amxx] Cmd: "- K1cK </3 dAB4444444P<1060><STEAM_0:0:1289373049><>" changelevel "de_dust2"
+L 10/23/2015 - 21:32:48: -------- Mapchange to de_dust2 --------
+L 10/23/2015 - 21:32:48: [admin.amxx] Login: "ASSULTERKiNG'~<1064><STEAM_0:0:939991394><>" kicked due to invalid password (account "STEAM_0:0:939991394") (address "10.1.12.246")
+L 10/23/2015 - 21:32:48: [admin_sql.amxx] Login: "ASSULTERKiNG'~<1064><STEAM_0:0:939991394><>" kicked due to invalid password (account "STEAM_0:0:939991394") (address "10.1.12.246")
+L 10/23/2015 - 21:32:48: [admin.amxx] Login: "mouz.HoH | KarrigaNbOb~<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijkmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:32:48: [admin_sql.amxx] Login: "mouz.HoH | KarrigaNbOb~<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijkmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:32:48: [admin.amxx] Login: "- K1cK </3 dAB4444444P<1060><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.167.230")
+L 10/23/2015 - 21:32:48: [admin_sql.amxx] Login: "- K1cK </3 dAB4444444P<1060><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.167.230")
+L 10/23/2015 - 21:32:48: [ucp.amxx] Login: ASSULTERKiNG'~ | 10.1.12.246 | 3-497E48B0 | STEAM_0:0:939991394 | 6.1.7601x86
+L 10/23/2015 - 21:32:48: [ucp.amxx] Login: FATA | 39.43.29.83 | 3-195C3844 | STEAM_0:0:1099363440 | 1.0.1024x64
+L 10/23/2015 - 21:32:49: [ucp.amxx] Login: mouz.HoH | KarrigaNbOb~ | 10.1.13.2 | 3-664E2E12 | STEAM_0:0:308387593 | 6.1.7600x64
+L 10/23/2015 - 21:32:49: [ucp.amxx] Login: - K1cK </3 dAB4444444P | 182.185.167.230 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 21:32:49: [ucp.amxx] Login: MirwaiZ - | 182.183.145.146 | 3-FFB45382 | STEAM_0:0:426317849 | 6.1.7601x86
+L 10/23/2015 - 21:32:49: [ucp.amxx] Login: NEVER GIVE UP! | 182.183.160.156 | 2-D2CB132E | STEAM_0:0:1386449815 | 5.1.2600x86
+L 10/23/2015 - 21:32:49: [ucp.amxx] Login: kAmilZ - | 182.183.160.156 | 3-B34D94E1 | STEAM_0:0:1167140019 | 6.1.7600x64
+L 10/23/2015 - 21:33:13: [admin.amxx] Login: "ASSULTERKiNG'~<1071><STEAM_0:0:939991394><>" became an admin (account "STEAM_0:0:939991394") (access "bcefghijkmnopqrstu") (address "10.1.12.246")
+L 10/23/2015 - 21:33:13: [admin_sql.amxx] Login: "ASSULTERKiNG'~<1071><STEAM_0:0:939991394><>" became an admin (account "STEAM_0:0:939991394") (access "bcefghijkmnopqrstu") (address "10.1.12.246")
+L 10/23/2015 - 21:33:13: [ucp.amxx] Login: ASSULTERKiNG'~ | 10.1.12.246 | 3-497E48B0 | STEAM_0:0:939991394 | 6.1.7601x86
+L 10/23/2015 - 21:33:21: [admincmd.amxx] Cmd: "ASSULTERKiNG'~<1071><STEAM_0:0:939991394><>" ask for players list
+L 10/23/2015 - 21:36:23: [admin.amxx] Login: "benQ-<1072><STEAM_0:0:1621394275><>" became an admin (account "STEAM_0:0:1621394275") (access "bcdefghiklmnopqrstu") (address "182.185.168.23")
+L 10/23/2015 - 21:36:23: [admin_sql.amxx] Login: "benQ-<1072><STEAM_0:0:1621394275><>" became an admin (account "STEAM_0:0:1621394275") (access "bcdefghiklmnopqrstu") (address "182.185.168.23")
+L 10/23/2015 - 21:36:23: [ucp.amxx] Login: benQ- | 182.185.168.23 | 2-DBB5ED98 | STEAM_0:0:1621394275 | 5.1.2600x86
+L 10/23/2015 - 21:36:41: [ucp.amxx] Login NO-UCP: <MOIZ> <39.48.10.228> <STEAM_0:0:1516803683>
+L 10/23/2015 - 21:36:59: [ucp.amxx] Login NO-UCP: <MOIZ> <39.48.10.228> <STEAM_0:0:1516803683>
+L 10/23/2015 - 21:37:12: [admin.amxx] Login: "goodfornothing'KarrigaN.<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijkmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:37:12: [admin_sql.amxx] Login: "goodfornothing'KarrigaN.<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijkmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:37:14: [admincmd.amxx] Cmd: "ASSULTERKiNG'~<1071><STEAM_0:0:939991394><>" set cvar (name "sv_restart") (value "1")
+L 10/23/2015 - 21:37:23: [adminchat.amxx] Chat: "benQ-<1072><STEAM_0:0:1621394275><>" chat "@yar tum kelo :@"
+L 10/23/2015 - 21:37:47: [ucp.amxx] Login: koda | 115.186.102.173 | 3-E8A4D2F0 | STEAM_0:0:1925162372 | 6.1.7601x86
+L 10/23/2015 - 21:37:50: [admincmd.amxx] Cmd: "ASSULTERKiNG'~<1071><STEAM_0:0:939991394><>" slap with 99 damage "kAmilZ -<1067><STEAM_0:0:1167140019><>"
+L 10/23/2015 - 21:37:54: [admincmd.amxx] Cmd: "ASSULTERKiNG'~<1071><STEAM_0:0:939991394><>" slap with 99 damage "kAmilZ -<1067><STEAM_0:0:1167140019><>"
+L 10/23/2015 - 21:38:01: [admin.amxx] Login: "KarrigaNbOb~ 'GIVESYOUWING'<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijkmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:38:01: [admin_sql.amxx] Login: "KarrigaNbOb~ 'GIVESYOUWING'<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijkmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:38:13: [admincmd.amxx] Cmd: "ASSULTERKiNG'~<1071><STEAM_0:0:939991394><>" slap with 99 damage "MirwaiZ -<1065><STEAM_0:0:426317849><>"
+L 10/23/2015 - 21:38:20: [adminchat.amxx] Chat: "benQ-<1072><STEAM_0:0:1621394275><>" chat "@ yyar ma nahi ke raha lag han kick"
+L 10/23/2015 - 21:38:24: [adminchat.amxx] Chat: "benQ-<1072><STEAM_0:0:1621394275><>" chat "@:@@"
+L 10/23/2015 - 21:38:49: [adminchat.amxx] Chat: "- K1cK </3 dAB4444444P<1060><STEAM_0:0:1289373049><>" chat " tera net khassi"
+L 10/23/2015 - 21:38:57: [ucp.amxx] Login: AnaZ - | 182.183.145.146 | 2-E60F6F1B | STEAM_0:0:1289737224 | 6.1.7601x64
+L 10/23/2015 - 21:39:00: [plmenu.amxx] Cmd: "ASSULTERKiNG'~<1071><STEAM_0:0:939991394><>" transfer "koda<1076><STEAM_0:0:1925162372><>" (team "TERRORIST")
+L 10/23/2015 - 21:39:07: [admincmd.amxx] Cmd: "KarrigaNbOb~ 'GIVESYOUWING'<1063><STEAM_0:0:308387593><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 21:39:21: [admincmd.amxx] Cmd: "ASSULTERKiNG'~<1071><STEAM_0:0:939991394><>" execute cfg (file "match.cfg")
+L 10/23/2015 - 21:39:26: [adminchat.amxx] Chat: "KarrigaNbOb~ 'GIVESYOUWING'<1063><STEAM_0:0:308387593><>" tsay "livee"
+L 10/23/2015 - 21:39:26: [admincmd.amxx] Cmd: "ASSULTERKiNG'~<1071><STEAM_0:0:939991394><>" set cvar (name "sv_restart") (value "1")
+L 10/23/2015 - 21:39:26: [admincmd.amxx] Cmd: "ASSULTERKiNG'~<1071><STEAM_0:0:939991394><>" set cvar (name "sv_restart") (value "1")
+L 10/23/2015 - 21:39:26: [admincmd.amxx] Cmd: "ASSULTERKiNG'~<1071><STEAM_0:0:939991394><>" set cvar (name "sv_restart") (value "1")
+L 10/23/2015 - 21:39:27: [admincmd.amxx] Cmd: "ASSULTERKiNG'~<1071><STEAM_0:0:939991394><>" set cvar (name "sv_restart") (value "1")
+L 10/23/2015 - 21:39:29: [admincmd.amxx] Cmd: "ASSULTERKiNG'~<1071><STEAM_0:0:939991394><>" set cvar (name "sv_restart") (value "1")
+L 10/23/2015 - 21:39:31: [adminchat.amxx] Chat: "ASSULTERKiNG'~<1071><STEAM_0:0:939991394><>" tsay "LIVEEE!"
+L 10/23/2015 - 21:40:35: [adminchat.amxx] Chat: "benQ-<1072><STEAM_0:0:1621394275><>" tsay "anaz server band ho gia ap ka ???"
+L 10/23/2015 - 21:40:48: [admin.amxx] Login: "noLa.<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijkmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:40:48: [admin_sql.amxx] Login: "noLa.<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijkmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:40:50: [adminchat.amxx] Chat: "ASSULTERKiNG'~<1071><STEAM_0:0:939991394><>" tsay "NO CROSS!"
+L 10/23/2015 - 21:40:59: [admincmd.amxx] Cmd: "ASSULTERKiNG'~<1071><STEAM_0:0:939991394><>" change nick to "lol" "noLa.<1063><STEAM_0:0:308387593><>"
+L 10/23/2015 - 21:40:59: [admin.amxx] Login: "lol<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijkmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:40:59: [admin_sql.amxx] Login: "lol<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijkmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:41:06: [admin.amxx] Login: "noLa.<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijkmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:41:06: [admin_sql.amxx] Login: "noLa.<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijkmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:41:21: [admincmd.amxx] Cmd: "noLa.<1063><STEAM_0:0:308387593><>" ask for players list
+L 10/23/2015 - 21:41:32: [admincmd.amxx] Cmd: "ASSULTERKiNG'~<1071><STEAM_0:0:939991394><>" change nick to "KALIGAND!" "noLa.<1063><STEAM_0:0:308387593><>"
+L 10/23/2015 - 21:41:32: [admin.amxx] Login: "KALIGAND!<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijkmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:41:32: [admin_sql.amxx] Login: "KALIGAND!<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijkmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:41:43: [admin.amxx] Login: "<3<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijkmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:41:43: [admin_sql.amxx] Login: "<3<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijkmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:42:38: [admin.amxx] Login: "KiNGbOb~<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijkmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:42:38: [admin_sql.amxx] Login: "KiNGbOb~<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijkmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:45:45: [ucp.amxx] Login NO-UCP: <-A+> <10.19.9.91> <VALVE_0:4:2032859353>
+L 10/23/2015 - 21:45:54: [ucp.amxx] Login NO-UCP: <-A+> <10.19.9.91> <VALVE_0:4:2032859353>
+L 10/23/2015 - 21:46:11: [ucp.amxx] Login: Kingbob | 180.92.136.86 | 3-23D4A7DF | STEAM_0:0:1579626255 | 6.1.7600x64
+L 10/23/2015 - 21:46:55: [admin.amxx] Login: "karrigaN<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijkmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:46:55: [admin_sql.amxx] Login: "karrigaN<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijkmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 21:51:33: [ucp.amxx] Login NO-UCP: <asdasd> <10.79.65.91> <VALVE_0:4:2031015641>
+L 10/23/2015 - 21:53:45: [ucp.amxx] Login: zzzzZZzzzzZZ | 182.183.185.72 | 3-8B157D39 | STEAM_0:0:135690169 | 6.1.7600x86
+L 10/23/2015 - 21:57:14: [ucp.amxx] Login: ReVoLuT!0n. | 45.114.121.80 | 3-C6416F0A | STEAM_0:0:1253524395 | 6.1.7601x86
+L 10/23/2015 - 21:57:18: [adminchat.amxx] Chat: "karrigaN<1063><STEAM_0:0:308387593><>" tsay "wah"
+L 10/23/2015 - 21:57:21: [plmenu.amxx] Kick: "karrigaN<1063><STEAM_0:0:308387593><>" kick "BOLD.<1077><STEAM_0:0:1289737224><>"
+L 10/23/2015 - 21:57:32: [ucp.amxx] Login NO-UCP: <Ak^> <182.178.49.158> <STEAM_0:0:438956482>
+L 10/23/2015 - 21:58:21: [plmenu.amxx] Kick: "karrigaN<1063><STEAM_0:0:308387593><>" kick "ReVoLuT!0n.<1083><STEAM_0:0:1253524395><>"
+L 10/23/2015 - 22:00:41: [plmenu.amxx] Kick: "karrigaN<1063><STEAM_0:0:308387593><>" kick "ASSULTERKiNG'~<1071><STEAM_0:0:939991394><>"
+L 10/23/2015 - 22:00:44: [plmenu.amxx] Kick: "karrigaN<1063><STEAM_0:0:308387593><>" kick "koda 'jerking'<1076><STEAM_0:0:1925162372><>"
+L 10/23/2015 - 22:01:18: [admincmd.amxx] Cmd: "karrigaN<1063><STEAM_0:0:308387593><>" changelevel "aim_map"
+L 10/23/2015 - 22:01:21: -------- Mapchange to aim_map --------
+L 10/23/2015 - 22:01:21: [admin.amxx] Login: "karrigaN<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijkmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 22:01:21: [admin_sql.amxx] Login: "karrigaN<1063><STEAM_0:0:308387593><>" became an admin (account "STEAM_0:0:308387593") (access "bcefghijkmnopqrstu") (address "10.1.13.2")
+L 10/23/2015 - 22:01:21: [ucp.amxx] Login: karrigaN | 10.1.13.2 | 3-664E2E12 | STEAM_0:0:308387593 | 6.1.7600x64
+L 10/23/2015 - 22:02:22: [admincmd.amxx] Cmd: "karrigaN<1063><STEAM_0:0:308387593><>" set cvar (name "sv_password") (value "122")
+L 10/23/2015 - 22:53:28: [admin.amxx] Login: "sExYY!!!<1085><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "39.35.65.21")
+L 10/23/2015 - 22:53:28: [admin_sql.amxx] Login: "sExYY!!!<1085><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "39.35.65.21")
+L 10/23/2015 - 22:53:28: [ucp.amxx] Login: sExYY!!! | 39.35.65.21 | 3-FE919A9D | STEAM_0:0:1297320269 | 6.1.7600x86
+L 10/23/2015 - 22:53:29: [admin.amxx] Login: "- K1cK </3 dAB4444444P<1086><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.167.230")
+L 10/23/2015 - 22:53:29: [admin_sql.amxx] Login: "- K1cK </3 dAB4444444P<1086><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.167.230")
+L 10/23/2015 - 22:53:29: [ucp.amxx] Login: - K1cK </3 dAB4444444P | 182.185.167.230 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 22:53:30: [ucp.amxx] Login: Multi Player --;-- | 182.183.194.124 | 3-DB32069F | STEAM_0:0:202573418 | 6.1.7601x86
+L 10/23/2015 - 22:53:44: [admincmd.amxx] Cmd: "- K1cK </3 dAB4444444P<1086><STEAM_0:0:1289373049><>" set cvar (name "sv_password") (value "")
+L 10/23/2015 - 22:54:02: [ucp.amxx] Login: M M4x K^ | 182.183.185.72 | 3-8B157D39 | STEAM_0:0:135690169 | 6.1.7600x86
+L 10/23/2015 - 22:54:10: [ucp.amxx] Login: NEVER GIVE UP! ptcl starts | 182.183.160.156 | 2-D2CB132E | STEAM_0:0:1386449815 | 5.1.2600x86
+L 10/23/2015 - 22:54:15: [admincmd.amxx] Cmd: "sExYY!!!<1085><STEAM_0:0:1297320269><>" changelevel "de_nuke"
+L 10/23/2015 - 22:54:17: -------- Mapchange to de_nuke --------
+L 10/23/2015 - 22:54:18: [admin.amxx] Login: "sExYY!!!<1085><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "39.35.65.21")
+L 10/23/2015 - 22:54:18: [admin_sql.amxx] Login: "sExYY!!!<1085><STEAM_0:0:1297320269><>" became an admin (account "STEAM_0:0:1297320269") (access "bcdefghiklmnopqrstu") (address "39.35.65.21")
+L 10/23/2015 - 22:54:18: [admin.amxx] Login: "- K1cK </3 dAB4444444P<1086><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.167.230")
+L 10/23/2015 - 22:54:18: [admin_sql.amxx] Login: "- K1cK </3 dAB4444444P<1086><STEAM_0:0:1289373049><>" became an admin (account "STEAM_0:0:1289373049") (access "abcdefghijklmnopqrstu") (address "182.185.167.230")
+L 10/23/2015 - 22:54:18: [ucp.amxx] Login: sExYY!!! | 39.35.65.21 | 3-FE919A9D | STEAM_0:0:1297320269 | 6.1.7600x86
+L 10/23/2015 - 22:54:18: [ucp.amxx] Login: M M4x K^ | 182.183.185.72 | 3-8B157D39 | STEAM_0:0:135690169 | 6.1.7600x86
+L 10/23/2015 - 22:54:18: [ucp.amxx] Login: - K1cK </3 dAB4444444P | 182.185.167.230 | 3-11841CAE | STEAM_0:0:1289373049 | 6.1.7601x64
+L 10/23/2015 - 22:54:18: [ucp.amxx] Login: NEVER GIVE UP! ptcl starts | 182.183.160.156 | 2-D2CB132E | STEAM_0:0:1386449815 | 5.1.2600x86
+L 10/23/2015 - 22:54:18: [ucp.amxx] Login: Multi Player --;-- | 182.183.194.124 | 3-DB32069F | STEAM_0:0:202573418 | 6.1.7601x86
+L 10/23/2015 - 22:55:19: [ucp.amxx] Login: BOLD. | 182.183.201.24 | 2-E60F6F1B | STEAM_0:0:1289737224 | 6.1.7601x64
+L 10/23/2015 - 22:56:20: [ucp.amxx] Login: SheroZ - | 182.183.210.103 | 4-8D50C188 | STEAM_0:0:666285532 | 5.1.2600x86
+L 10/23/2015 - 22:57:35: [ucp.amxx] Login: Kingbob | 180.92.136.86 | 3-23D4A7DF | STEAM_0:0:1579626255 | 6.1.7600x64
+L 10/23/2015 - 22:57:38: [admin.amxx] Login: "benQ<1093><STEAM_0:0:1621394275><>" became an admin (account "STEAM_0:0:1621394275") (access "bcdefghiklmnopqrstu") (address "182.185.168.23")
+L 10/23/2015 - 22:57:38: [admin_sql.amxx] Login: "benQ<1093><STEAM_0:0:1621394275><>" became an admin (account "STEAM_0:0:1621394275") (access "bcdefghiklmnopqrstu") (address "182.185.168.23")
+L 10/23/2015 - 22:57:38: [ucp.amxx] Login: benQ | 182.185.168.23 | 2-DBB5ED98 | STEAM_0:0:1621394275 | 5.1.2600x86
+L 10/23/2015 - 22:58:03: [ucp.amxx] Login: kAmilZ - | 182.183.160.156 | 3-B34D94E1 | STEAM_0:0:1167140019 | 6.1.7600x64
+L 10/23/2015 - 22:58:11: [ucp.amxx] Login NO-UCP: <MaN!aC> <180.149.219.211> <VALVE_0:4:1027849094>
+L 10/23/2015 - 22:58:45: [ucp.amxx] Login: kAmilZ - | 182.183.160.156 | 3-B34D94E1 | STEAM_0:0:1167140019 | 6.1.7600x64
+L 10/23/2015 - 22:59:33: [admincmd.amxx] Cmd: "sExYY!!!<1085><STEAM_0:0:1297320269><>" set cvar (name "sv_restart") (value "2")
+L 10/23/2015 - 22:59:55: [adminchat.amxx] Chat: "benQ<1093><STEAM_0:0:1621394275><>" tsay "lag han noob kick :@@@@@]"
+L 10/23/2015 - 23:00:28: [adminchat.amxx] Chat: "benQ<1093><STEAM_0:0:1621394275><>" chat "@ kick lag dek :@"
+L 10/23/2015 - 23:00:35: [adminchat.amxx] Chat: "benQ<1093><STEAM_0:0:1621394275><>" chat "@21 ma aja"
+L 10/23/2015 - 23:00:56: [admincmd.amxx] Cmd: "- K1cK </3 dAB4444444P<1086><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 23:01:02: [ucp.amxx] Login: MirwaiZ - | 182.183.201.24 | 3-FFB45382 | STEAM_0:0:426317849 | 6.1.7601x86
+L 10/23/2015 - 23:01:05: [admincmd.amxx] Cmd: "- K1cK </3 dAB4444444P<1086><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 23:01:05: [admincmd.amxx] Cmd: "- K1cK </3 dAB4444444P<1086><STEAM_0:0:1289373049><>" set cvar (name "sv_Restart") (value "1")
+L 10/23/2015 - 23:01:07: [adminchat.amxx] Chat: "- K1cK </3 dAB4444444P<1086><STEAM_0:0:1289373049><>" tsay "Live"
+L 10/23/2015 - 23:01:19: [ucp.amxx] Login: MirwaiZ - | 182.183.201.24 | 3-FFB45382 | STEAM_0:0:426317849 | 6.1.7601x86
+L 10/23/2015 - 23:01:30: [admincmd.amxx] Cmd: "sExYY!!!<1085><STEAM_0:0:1297320269><>" set cvar (name "sv_restart") (value "2")
+L 10/23/2015 - 23:13:20: [ucp.amxx] Login NO-UCP: <:*> <115.186.35.134> <STEAM_0:0:1098310850>
+L 10/23/2015 - 23:18:55: [ucp.amxx] Login: BAkriii | 182.185.165.67 | 3-0758D827 | STEAM_0:0:1722650067 | 6.1.7600x86
+L 10/23/2015 - 23:19:52: [ucp.amxx] Login: Fl1kKer | 175.110.212.40 | 3-90B033A5 | STEAM_0:0:92817931 | 6.1.7601x64
+L 10/23/2015 - 23:33:42: [ucp.amxx] Login: MirwaiZ - | 182.183.201.24 | 3-FFB45382 | STEAM_0:0:426317849 | 6.1.7601x86

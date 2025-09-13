@@ -1,0 +1,84 @@
+
+[2013-02-23 16:15:50]: Log session started
+
+[2013-02-23 16:15:50]: [2,0] Log session ended
+
+
+[2013-02-23 16:22:03]: Log session started
+
+[2013-02-23 16:22:03]: [2,0] Log session ended
+
+
+[2013-02-24 13:48:19]: Log session started
+
+[2013-02-24 13:48:19]: [2,0] Log session ended
+
+
+[2013-02-24 13:54:59]: Log session started
+
+[2013-02-24 13:54:59]: [2,0] Log session ended
+
+
+[2013-02-24 14:07:54]: Log session started
+
+[2013-02-24 14:07:54]: [2,0] Log session ended
+
+
+[2013-02-26 19:33:32]: Log session started
+
+[2013-02-26 19:33:32]: [2,0] Log session ended
+
+
+[2013-02-27 12:41:29]: Log session started
+
+[2013-02-27 12:41:29]: [2,0] Log session ended
+
+
+[2013-02-27 13:16:01]: Log session started
+
+[2013-02-27 13:16:01]: [2,0] Log session ended
+
+
+[2013-03-17 18:34:14]: Log session started
+
+[2013-03-17 18:34:14]: [2,0] Log session ended
+
+
+[2013-03-17 18:48:34]: Log session started
+
+[2013-03-17 18:48:34]: [2,0] Log session ended
+
+
+[2014-03-15 23:00:28]: Log session started
+
+[2014-03-15 23:00:28]: [2,0] Log session ended
+
+
+[2014-03-16 16:17:24]: Log session started
+
+[2014-03-16 16:17:24]: [2,0] Log session ended
+
+
+[2014-03-16 17:36:40]: Log session started
+
+[2014-03-16 17:36:40]: [2,0] Log session ended
+
+
+[2014-03-16 17:37:03]: Log session started
+
+[2014-03-16 17:37:03]: [2,0] Log session ended
+
+
+[2014-03-16 17:38:00]: Log session started
+
+[2014-03-16 17:38:00]: [2,0] Log session ended
+
+
+[2014-03-16 17:41:12]: Log session started
+
+[2014-03-16 17:41:12]: [2,0] Log session ended
+
+
+[2014-03-16 17:41:37]: Log session started
+
+[2014-03-16 17:41:37]: [2,0] Log session ended

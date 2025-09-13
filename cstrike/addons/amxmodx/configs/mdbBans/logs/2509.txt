@@ -1,0 +1,2 @@
+[13.09 - 14:29] mdbBans v4.8 is successfully installed!
+[13.09 - 14:29] See file podesavanja.cfg for settings.

@@ -1,0 +1,143 @@
+[en]
+UCP_DISABLED = UCP secure mode disabled.
+UCP_ENABLED = UCP secure mode is activated.
+UCP_KICKMSG = UCP is required on this server. Download UCP from %s
+UCP_BANREASONMSG = You are banned on this server. %s
+UCP_BANTIMEREASONMSG = You are banned on this server %d min. %s
+UCP_UPDATEMSG = Please, restart the anticheat for update.
+UCP_BUILDMSG = Your version of game is prohibited, instal other patch.
+UCP_IDMSG = ID of your hardware is already in use on server.
+UCP_BANNER = This server is UCP-secured%sVersion %s
+
+[ru]
+UCP_DISABLED = UCP Античит деактивирован.
+UCP_ENABLED = UCP Античит активирован.
+UCP_KICKMSG = Вы не запустили Античит UCP! Скачайте отсюда %s
+UCP_BANREASONMSG = Вы забанены на данном сервере. %s
+UCP_BANTIMEREASONMSG = Вы забанены на данном сервере %d минут. %s
+UCP_UPDATEMSG = Перезапустите игру для обновления.
+UCP_BUILDMSG = Ваша версия игры запрещена, установите другой патч.
+UCP_IDMSG = На сервере уже присутствует игрок с данным идентификатором.
+UCP_BANNER = Данный сервер защищен античитом UCP%sВерсия %s
+
+[ro]
+UCP_DISABLED = Modul Securitate UCP dezactivat.
+UCP_ENABLED = Modul Securitate UCP este activat.
+UCP_KICKMSG = UCP  este cerut pe acest server. Descarcati UCP de pe %s
+UCP_BANREASONMSG = Esti banat pe acest server. %s
+UCP_BANTIMEREASONMSG =  Esti banat pe acest server %d minute. %s
+UCP_UPDATEMSG = Te rog, restarteaza anticheat-ul pentru actualizare.
+UCP_BUILDMSG = Versiunea ta de joc este interzisa, instaleaza alt patch.
+UCP_IDMSG = ID-ul hardware-ului tau este deja folosit pe server.
+UCP_BANNER = Acest server este  UCP-securizat%sVersion %s
+
+[de]
+UCP_DISABLED = UCP Sicherheitsmodus ist deaktiviert.
+UCP_ENABLED = UCP Sicherheitsmodus ist aktiviert.
+UCP_KICKMSG = Auf diesem server wird UCP benoetigt. Downloade UCP auf %s
+UCP_BANREASONMSG = Du bist auf diesem Server gebannt. %s
+UCP_BANTIMEREASONMSG = Du bist auf diesem server fuer %d min gebannt. %s
+UCP_UPDATEMSG = Starte den Anticheat erneut fuer das update.
+UCP_BUILDMSG = Deine Spielversion ist verboten, installiere einen anderen Patch.
+UCP_IDMSG = Die Hardware-ID wird auf diesem Server bereits genutzt.
+UCP_BANNER = Dieser Server ist UCP gesichert%sVersion %s
+
+[pt]
+UCP_DISABLED = UCP secure mode Desactivado.
+UCP_ENABLED = UCP secure mode est├б activado.
+UCP_KICKMSG = Precisas do UCP para jogares neste server. Faz download do UCP em %s
+UCP_BANREASONMSG = Est├бs banido deste servidor. %s
+UCP_BANTIMEREASONMSG = Est├бs banido deste servidor por %d min. %s
+UCP_UPDATEMSG = Por favor, reinicia o UCP para um novo update.
+UCP_BUILDMSG = A tua vers├гo do jogo ├й proibida, instala outro patch.
+UCP_IDMSG = O ID do teu hardware j├б est├б em uso neste servidor.
+UCP_BANNER = Este server usa UCP-secured%sVersion %s
+
+[tr]
+UCP_DISABLED = UCP hile korumasi kapali.
+UCP_ENABLED = UCP hile korumas─▒ aktif.
+UCP_KICKMSG = Bu server UCP antihile sistemi ile korunmaktadir. Lutfen %s adresinden UCP'yi indiriniz.
+UCP_BANREASONMSG = Bu serverdan banlandiniz. %s
+UCP_BANTIMEREASONMSG = Serverda %d dakika boyunca yasaklandiniz. %s
+UCP_UPDATEMSG = Guncelleme icin antihile sistemini yeniden baslatin.
+UCP_BUILDMSG = Kullanmis oldugunuz oyun versiyonu yasaktir.Lutfen gecerli oyun yamasini kurun.
+UCP_IDMSG = Hardware ID'niz serverda kullanimdadir.
+UCP_BANNER = Bu serverda UCP-antihile sistemi kullanilmaktadir%sVersion %s
+
+[es]
+UCP_DISABLED = Modo UCP seguro desactivado.
+UCP_ENABLED = Modo UCP seguro activado.
+UCP_KICKMSG = UCP es requerido en este servidor. Descarga UCP de %s
+UCP_BANREASONMSG = Estas baneado en este servidor. %s
+UCP_BANTIMEREASONMSG = Estas baneado en este servidor durante %d min. %s
+UCP_UPDATEMSG = Porfavor, reinicia el anticheat para actualizarlo.
+UCP_BUILDMSG = Tu version del juego esta prohibida, utiliza otro parche.
+UCP_IDMSG = La ID de tu hardware ya esta siendo usada en este servidor.
+UCP_BANNER = Este servidor esta asegurado por UCP%sVersion %s
+
+[lt]
+UCP_DISABLED = UCP saugumo rezimas isjungtas.
+UCP_ENABLED = UCP saugumo rezimas aktyvuotas.
+UCP_KICKMSG = UCP yra reikalingas siame serveryje. Parsisiuskite UCP is %s
+UCP_BANREASONMSG = Jus esate isbanintas siame serveryje. %s
+UCP_BANTIMEREASONMSG = Jus esate isbanintas siame serveryje %d min. %s
+UCP_UPDATEMSG = Prasome perkrauti anticyta atnaujinimui.
+UCP_BUILDMSG = Jusu zaidimo versija uzdrausta, suinstaliuokite kita papildyma.
+UCP_IDMSG = Jusu kompiuterio ID jau naudojamas siame serveryje.
+UCP_BANNER = Sis serveris yra UCP-apsaugotas%sVersija %s
+
+[sw]
+UCP_DISABLED = UCP s'a'kert tillstand avaktiverat.
+UCP_ENABLED = UCP s'a'kert tillstand aktiverat.
+UCP_KICKMSG = UCP 'a'r obligatoriskt pa denna server. Ladda ner UCP fran %s
+UCP_BANREASONMSG = Du 'a'r bannlyst fran denna server. %s
+UCP_BANTIMEREASONMSG = Du 'a'r bannlyst i %d minuter. %s
+UCP_UPDATEMSG = Starta om UPC f'o'r uppgraderingar.
+UCP_BUILDMSG = Din version av spelet 'a'r f├╢rbjuden, installera en annan version av spelet.
+UCP_IDMSG = ID'n som du anv'a'nder anv'a'nds redan pa servern.
+UCP_BANNER = Denna server 'a'r UCP-s'a'krad%sVersion %s
+
+[sr]
+UCP_DISABLED = UCP secure mode je iskljucen.
+UCP_ENABLED = UCP secure mode je ukljucen.
+UCP_KICKMSG = UCP je potreban na ovom serveru. UCP mozes skinuti na %s
+UCP_BANREASONMSG = Banovan si na ovom serveru. %s
+UCP_BANTIMEREASONMSG = Banovan si na ovom serveru %d min. %s
+UCP_UPDATEMSG = Molimo, restartuj anticheat za unapredjenje.
+UCP_BUILDMSG = Vasa verzija igre je zabranjena, molimo instalirajte drugi patch.
+UCP_IDMSG = ID tvoj hardwara se vec koristi na serveru.
+UCP_BANNER = Ovaj server je UCP-secured%sVersion %s
+
+[sk]
+UCP_DISABLED = Mod ochrany UCP vypnuty.
+UCP_ENABLED = Mod ochrany UCP aktivovany.
+UCP_KICKMSG = UCP je na tomto servery pozadovane. Download UCP from %s
+UCP_BANREASONMSG = Na tomto servery mas ban. %s
+UCP_BANTIMEREASONMSG = Na tento servery mas ban %d min. %s
+UCP_UPDATEMSG = Prosim, restartuj anticheat.
+UCP_BUILDMSG = Tvoja verzia hry je zakazana, nainstaluj iny patch.
+UCP_IDMSG = ID tvojho hardweru je uz na tomto servery pouzivane.
+UCP_BANNER = Tento server ma ochranu UCP%sVersion %s
+
+[lv]
+UCP_DISABLED = UCP antichiits ir izslegts.
+UCP_ENABLED = UCP antichiits ir aktivizets.
+UCP_KICKMSG = UCP antichiits ir nepiecieshams shajaa serverii. Lejupielaade UCP no %s
+UCP_BANREASONMSG = Tu esi nobanots shajaa serverii. %s
+UCP_BANTIMEREASONMSG = Tu esi nobanots shajaa serverii uz %d minutem. %s
+UCP_UPDATEMSG = Luudzu, norestarte antichiitu, lai tas vareetu updatoties.
+UCP_BUILDMSG = Juusu speles versija ir aizliegta. Ludzu, uzinstalejiet jaunu patchu.
+UCP_IDMSG = Taads ID kaa jums jau tiek izmantots uz shii servera!
+UCP_BANNER = Shis serveris ir aizsargaats ar antichiitu UCP%sVersija %s
+
+[ua]
+UCP_DISABLED = Режим захисту UCP не активний.
+UCP_ENABLED = Режим захисту UCP активний.
+UCP_KICKMSG = Для ігри на цьому сервері Вам потрібен античіт UCP. Завантажте античіт з %s
+UCP_BANREASONMSG = Ви забанені на цьому сервері. %s
+UCP_BANTIMEREASONMSG = Час Вашого бану на сервері %d min. %s
+UCP_UPDATEMSG = Будь-ласка, перезавантажте античіт для оновлення.
+UCP_BUILDMSG = Ваша версія гри заборонена, встановіть інший патч.
+UCP_IDMSG = ID Вашого комп'ютера вже використовується на сервері.
+UCP_BANNER = Цей сервер захищений античітом UCP%sVersion %s
+
